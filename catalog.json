@@ -1,0 +1,89 @@
+{
+  "categories": [
+    {
+      "name": "Pre-Intermediate",
+      "topics": [
+        {
+          "id": "pre-inter-6a-6b",
+          "name": "Pre Inter 6A 6B",
+          "words": 36
+        },
+        {
+          "id": "pre-inter-6c-6d",
+          "name": "Pre Inter 6C 6D",
+          "words": 23
+        },
+        {
+          "id": "pre-inter-6e-6f",
+          "name": "Pre Inter 6E 6F",
+          "words": 50
+        },
+        {
+          "id": "pre-inter-6g-6h",
+          "name": "Pre Inter 6G 6H",
+          "words": 50
+        },
+        {
+          "id": "pre-inter-7a",
+          "name": "Pre Inter 7A",
+          "words": 35
+        },
+        {
+          "id": "pre-inter-7c-7d",
+          "name": "Pre Inter 7C 7D",
+          "words": 50
+        },
+        {
+          "id": "pre-inter-7e-7f",
+          "name": "Pre Inter 7E 7F",
+          "words": 55
+        },
+        {
+          "id": "pre-inter-7g-7h",
+          "name": "Pre Inter 7G 7H",
+          "words": 35
+        },
+        {
+          "id": "pre-inter-8a-8b",
+          "name": "Pre Inter 8A 8B",
+          "words": 55
+        },
+        {
+          "id": "pre-inter-8c-8d",
+          "name": "Pre Inter 8C 8D",
+          "words": 25
+        },
+        {
+          "id": "pre-inter-8e-8f",
+          "name": "Pre Inter 8E 8F",
+          "words": 43
+        },
+        {
+          "id": "pre-inter-8g-8h",
+          "name": "Pre Inter 8G 8H",
+          "words": 35
+        },
+        {
+          "id": "pre-inter-9a-9b",
+          "name": "Pre Inter 9A 9B",
+          "words": 43
+        },
+        {
+          "id": "pre-inter-9c-9d",
+          "name": "Pre Inter 9C 9D",
+          "words": 40
+        },
+        {
+          "id": "pre-inter-9e-9f",
+          "name": "Pre Inter 9E 9F",
+          "words": 39
+        },
+        {
+          "id": "pre-inter-9g-9h",
+          "name": "Pre Inter 9G 9H",
+          "words": 43
+        }
+      ]
+    }
+  ]
+}

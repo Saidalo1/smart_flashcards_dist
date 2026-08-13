@@ -1,0 +1,212 @@
+[
+  {
+    "english": "Power",
+    "uzbek": "Kuch",
+    "hint": "The storm cut off the power to the whole town.",
+    "category": "Pre Inter 7A (1-15)"
+  },
+  {
+    "english": "Worth",
+    "uzbek": "arziydigan",
+    "hint": "The trip is worth the long journey.",
+    "category": "Pre Inter 7A (1-15)"
+  },
+  {
+    "english": "Service",
+    "uzbek": "Xizmat ko'rsatish",
+    "hint": "The service in that restaurant is excellent.",
+    "category": "Pre Inter 7A (1-15)"
+  },
+  {
+    "english": "Each",
+    "uzbek": "Har biri",
+    "hint": "The apples cost fifty cents each.",
+    "category": "Pre Inter 7A (1-15)"
+  },
+  {
+    "english": "Guess",
+    "uzbek": "Taxmin qilmoq",
+    "hint": "Can you guess how old I am?",
+    "category": "Pre Inter 7A (1-15)"
+  },
+  {
+    "english": "Item",
+    "uzbek": "Thing",
+    "hint": "There are ten items on the shopping list.",
+    "category": "Pre Inter 7A (1-15)"
+  },
+  {
+    "english": "Currency",
+    "uzbek": "Valyuta",
+    "hint": "The euro is the currency of many European countries.",
+    "category": "Pre Inter 7A (1-15)"
+  },
+  {
+    "english": "Baker’s",
+    "uzbek": "A place where bread and cakes are sold",
+    "hint": "I bought fresh bread at the baker's.",
+    "category": "Pre Inter 7A (1-15)"
+  },
+  {
+    "english": "Butcher’s",
+    "uzbek": "A shop that sells meat",
+    "hint": "She got some meat from the butcher's.",
+    "category": "Pre Inter 7A (1-15)"
+  },
+  {
+    "english": "Charity shop",
+    "uzbek": "xayriya do'koni",
+    "hint": "I found this jacket in a charity shop.",
+    "category": "Pre Inter 7A (1-15)"
+  },
+  {
+    "english": "Chemist's",
+    "uzbek": "Dorixona",
+    "hint": "You can buy medicine at the chemist's.",
+    "category": "Pre Inter 7A (1-15)"
+  },
+  {
+    "english": "Cosmetics store",
+    "uzbek": "A shop that sells cosmetic products",
+    "hint": "She bought some lipstick at the cosmetics store.",
+    "category": "Pre Inter 7A (1-15)"
+  },
+  {
+    "english": "Deli",
+    "uzbek": "a small shop that sells high-quality foods",
+    "hint": "We got some cheese and olives from the deli.",
+    "category": "Pre Inter 7A (1-15)"
+  },
+  {
+    "english": "Estate agent",
+    "uzbek": "mulk agenti",
+    "hint": "The estate agent showed us three flats.",
+    "category": "Pre Inter 7A (1-15)"
+  },
+  {
+    "english": "DIY store",
+    "uzbek": "uy-ro'zg'or buyumlari sotiladigan do'kon",
+    "hint": "He bought some paint at the DIY store.",
+    "category": "Pre Inter 7A (1-15)"
+  },
+  {
+    "english": "Florist's",
+    "uzbek": "A shop that sells flowers",
+    "hint": "I ordered some roses from the florist's.",
+    "category": "Pre Inter 7A (16-30)"
+  },
+  {
+    "english": "Greengrocer’s",
+    "uzbek": "A shop where fresh vegetables and fruit are sold",
+    "hint": "We buy our fruit at the greengrocer's.",
+    "category": "Pre Inter 7A (16-30)"
+  },
+  {
+    "english": "Hairdresser’s",
+    "uzbek": "sartaroshxona",
+    "hint": "I have an appointment at the hairdresser's.",
+    "category": "Pre Inter 7A (16-30)"
+  },
+  {
+    "english": "Jeweller’s",
+    "uzbek": "Zargarlik do'koni",
+    "hint": "He bought the ring at a jeweller's.",
+    "category": "Pre Inter 7A (16-30)"
+  },
+  {
+    "english": "Launderette",
+    "uzbek": "kir yuvishxona",
+    "hint": "I washed my clothes at the launderette.",
+    "category": "Pre Inter 7A (16-30)"
+  },
+  {
+    "english": "Newsagent's",
+    "uzbek": "gazeta do'konlari",
+    "hint": "I get my newspaper from the newsagent's.",
+    "category": "Pre Inter 7A (16-30)"
+  },
+  {
+    "english": "Optician’s",
+    "uzbek": "Optika (ko'zoynaklar sotiladigan shop)",
+    "hint": "I need new glasses from the optician's.",
+    "category": "Pre Inter 7A (16-30)"
+  },
+  {
+    "english": "Stationer’s",
+    "uzbek": "kanselariya buyumlarini",
+    "hint": "She bought pens and paper at the stationer's.",
+    "category": "Pre Inter 7A (16-30)"
+  },
+  {
+    "english": "Takeaway",
+    "uzbek": "Olib Ketish uchun ovqat",
+    "hint": "We ordered a Chinese takeaway for dinner.",
+    "category": "Pre Inter 7A (16-30)"
+  },
+  {
+    "english": "Bargain",
+    "uzbek": "Savdolashmoq",
+    "hint": "He tried to bargain over the price at the market.",
+    "category": "Pre Inter 7A (16-30)"
+  },
+  {
+    "english": "Discount",
+    "uzbek": "chegirma",
+    "hint": "Students get a discount on train tickets.",
+    "category": "Pre Inter 7A (16-30)"
+  },
+  {
+    "english": "Price tag",
+    "uzbek": "narx yorlig'i",
+    "hint": "The price tag says twenty pounds.",
+    "category": "Pre Inter 7A (16-30)"
+  },
+  {
+    "english": "Receipt",
+    "uzbek": "Kvitansiya (chek)",
+    "hint": "Keep the receipt in case you want to return it.",
+    "category": "Pre Inter 7A (16-30)"
+  },
+  {
+    "english": "Refund",
+    "uzbek": "Pulni qaytarib bermoq",
+    "hint": "The shop gave me a refund for the broken toy.",
+    "category": "Pre Inter 7A (16-30)"
+  },
+  {
+    "english": "Sale",
+    "uzbek": "распродажа",
+    "hint": "I bought these shoes in the sale.",
+    "category": "Pre Inter 7A (16-30)"
+  },
+  {
+    "english": "Special offer",
+    "uzbek": "maxsus taklif",
+    "hint": "There's a special offer on coffee this week.",
+    "category": "Pre Inter 7A (31-35)"
+  },
+  {
+    "english": "Give money off",
+    "uzbek": "Pulni qaytarib bermoq",
+    "hint": "The shop gave money off because the box was damaged.",
+    "category": "Pre Inter 7A (31-35)"
+  },
+  {
+    "english": "Crafty",
+    "uzbek": "Ayyor/Mohir",
+    "hint": "The crafty salesman tricked us into buying more.",
+    "category": "Pre Inter 7A (31-35)"
+  },
+  {
+    "english": "Customer",
+    "uzbek": "Mijoz",
+    "hint": "The shop was full of customers on Saturday.",
+    "category": "Pre Inter 7A (31-35)"
+  },
+  {
+    "english": "Look for",
+    "uzbek": "Search",
+    "hint": "I'm looking for a present for my sister.",
+    "category": "Pre Inter 7A (31-35)"
+  }
+]

@@ -1,0 +1,260 @@
+[
+  {
+    "english": "Aluminium",
+    "uzbek": "Alumin",
+    "hint": "The can is made of aluminium.",
+    "category": "Pre Inter 9A 9B (1-15)"
+  },
+  {
+    "english": "Cardboard",
+    "uzbek": "Karton",
+    "hint": "We packed the books in a cardboard box.",
+    "category": "Pre Inter 9A 9B (1-15)"
+  },
+  {
+    "english": "Ceramic",
+    "uzbek": "Keramika",
+    "hint": "She drank from a ceramic mug.",
+    "category": "Pre Inter 9A 9B (1-15)"
+  },
+  {
+    "english": "Concrete",
+    "uzbek": "Beton",
+    "hint": "The floor was made of solid concrete.",
+    "category": "Pre Inter 9A 9B (1-15)"
+  },
+  {
+    "english": "Copper",
+    "uzbek": "Mis",
+    "hint": "Copper is used to make electrical wires.",
+    "category": "Pre Inter 9A 9B (1-15)"
+  },
+  {
+    "english": "Glass",
+    "uzbek": "Shisha",
+    "hint": "Be careful — the bottle is made of glass.",
+    "category": "Pre Inter 9A 9B (1-15)"
+  },
+  {
+    "english": "Gold",
+    "uzbek": "Oltin",
+    "hint": "The ring is made of pure gold.",
+    "category": "Pre Inter 9A 9B (1-15)"
+  },
+  {
+    "english": "Iron",
+    "uzbek": "Temir",
+    "hint": "The gate is made of heavy iron.",
+    "category": "Pre Inter 9A 9B (1-15)"
+  },
+  {
+    "english": "Leather",
+    "uzbek": "Charm",
+    "hint": "He bought a brown leather jacket.",
+    "category": "Pre Inter 9A 9B (1-15)"
+  },
+  {
+    "english": "Nylon",
+    "uzbek": "Neylon (type of material)",
+    "hint": "The rope is made of strong nylon.",
+    "category": "Pre Inter 9A 9B (1-15)"
+  },
+  {
+    "english": "Rubber",
+    "uzbek": "Rezina",
+    "hint": "Car tyres are made of rubber.",
+    "category": "Pre Inter 9A 9B (1-15)"
+  },
+  {
+    "english": "Steel",
+    "uzbek": "Po'lat",
+    "hint": "The bridge is built of steel.",
+    "category": "Pre Inter 9A 9B (1-15)"
+  },
+  {
+    "english": "Wood",
+    "uzbek": "Yo'g'och",
+    "hint": "The table is made of dark wood.",
+    "category": "Pre Inter 9A 9B (1-15)"
+  },
+  {
+    "english": "Scientist",
+    "uzbek": "Olim",
+    "hint": "The scientist did many experiments.",
+    "category": "Pre Inter 9A 9B (1-15)"
+  },
+  {
+    "english": "Dandelion",
+    "uzbek": "Momaqaymoq",
+    "hint": "A yellow dandelion grew in the grass.",
+    "category": "Pre Inter 9A 9B (1-15)"
+  },
+  {
+    "english": "Wheel",
+    "uzbek": "G'ildirak",
+    "hint": "One wheel of the bike is broken.",
+    "category": "Pre Inter 9A 9B (16-30)"
+  },
+  {
+    "english": "Tyre",
+    "uzbek": "Shina (balon)",
+    "hint": "I had to change a flat tyre.",
+    "category": "Pre Inter 9A 9B (16-30)"
+  },
+  {
+    "english": "Float",
+    "uzbek": "Suvning yuzasida oqmoq",
+    "hint": "Wood floats on water.",
+    "category": "Pre Inter 9A 9B (16-30)"
+  },
+  {
+    "english": "String",
+    "uzbek": "Ip;arqon",
+    "hint": "She tied the parcel with string.",
+    "category": "Pre Inter 9A 9B (16-30)"
+  },
+  {
+    "english": "Heavy",
+    "uzbek": "Og'ir",
+    "hint": "The box was too heavy to lift.",
+    "category": "Pre Inter 9A 9B (16-30)"
+  },
+  {
+    "english": "Furniture",
+    "uzbek": "Jihoz",
+    "hint": "They bought new furniture for the living room.",
+    "category": "Pre Inter 9A 9B (16-30)"
+  },
+  {
+    "english": "Possession",
+    "uzbek": "Egalik",
+    "hint": "His most valuable possession is his guitar.",
+    "category": "Pre Inter 9A 9B (16-30)"
+  },
+  {
+    "english": "Shape",
+    "uzbek": "Shakl",
+    "hint": "The pool is in the shape of a heart.",
+    "category": "Pre Inter 9A 9B (16-30)"
+  },
+  {
+    "english": "Straight",
+    "uzbek": "To'g'ri",
+    "hint": "Draw a straight line with a ruler.",
+    "category": "Pre Inter 9A 9B (16-30)"
+  },
+  {
+    "english": "Curved",
+    "uzbek": "Qiyshu,bukilgan",
+    "hint": "The knife has a curved blade.",
+    "category": "Pre Inter 9A 9B (16-30)"
+  },
+  {
+    "english": "Rectangular",
+    "uzbek": "to'g'ri burchakli",
+    "hint": "The table has a rectangular top.",
+    "category": "Pre Inter 9A 9B (16-30)"
+  },
+  {
+    "english": "Spherical",
+    "uzbek": "sharsimon",
+    "hint": "A football has a spherical shape.",
+    "category": "Pre Inter 9A 9B (16-30)"
+  },
+  {
+    "english": "Square",
+    "uzbek": "to'g'ri burchak",
+    "hint": "The room is almost square.",
+    "category": "Pre Inter 9A 9B (16-30)"
+  },
+  {
+    "english": "Triangular",
+    "uzbek": "uch burchakli",
+    "hint": "The road sign is triangular.",
+    "category": "Pre Inter 9A 9B (16-30)"
+  },
+  {
+    "english": "Circular",
+    "uzbek": "Dumalo",
+    "hint": "The plates are circular.",
+    "category": "Pre Inter 9A 9B (16-30)"
+  },
+  {
+    "english": "It's mains powered",
+    "uzbek": "tarmoqdan quvvatlanadi",
+    "hint": "The fridge is mains powered, so plug it in.",
+    "category": "Pre Inter 9A 9B (31-43)"
+  },
+  {
+    "english": "It's battery powered",
+    "uzbek": "Batareykadan quvvatlanadi",
+    "hint": "The toy is battery powered and needs two batteries.",
+    "category": "Pre Inter 9A 9B (31-43)"
+  },
+  {
+    "english": "Cordless",
+    "uzbek": "simsiz",
+    "hint": "I bought a cordless phone for the kitchen.",
+    "category": "Pre Inter 9A 9B (31-43)"
+  },
+  {
+    "english": "Rechargeable",
+    "uzbek": "Qayta zaryadlanadigan",
+    "hint": "The torch uses rechargeable batteries.",
+    "category": "Pre Inter 9A 9B (31-43)"
+  },
+  {
+    "english": "Handle",
+    "uzbek": "tutqich",
+    "hint": "The handle of the cup is broken.",
+    "category": "Pre Inter 9A 9B (31-43)"
+  },
+  {
+    "english": "Lid",
+    "uzbek": "Qopqoq",
+    "hint": "Put the lid back on the jar.",
+    "category": "Pre Inter 9A 9B (31-43)"
+  },
+  {
+    "english": "Prevent",
+    "uzbek": "Oldini olmoq",
+    "hint": "The cover prevents the rain from getting in.",
+    "category": "Pre Inter 9A 9B (31-43)"
+  },
+  {
+    "english": "It's solar powered",
+    "uzbek": "Quyoshdan zaryad oladigan",
+    "hint": "The calculator is solar powered.",
+    "category": "Pre Inter 9A 9B (31-43)"
+  },
+  {
+    "english": "Touch",
+    "uzbek": "Tegmoq",
+    "hint": "Don't touch the hot iron.",
+    "category": "Pre Inter 9A 9B (31-43)"
+  },
+  {
+    "english": "Brief",
+    "uzbek": "Short",
+    "hint": "She gave a brief description of the man.",
+    "category": "Pre Inter 9A 9B (31-43)"
+  },
+  {
+    "english": "Inventor",
+    "uzbek": "Ixtirochi",
+    "hint": "Thomas Edison was a famous inventor.",
+    "category": "Pre Inter 9A 9B (31-43)"
+  },
+  {
+    "english": "Rival",
+    "uzbek": "Raqib",
+    "hint": "The two teams are old rivals.",
+    "category": "Pre Inter 9A 9B (31-43)"
+  },
+  {
+    "english": "Waterproof",
+    "uzbek": "suv o'tkazmaydigan; suvga chidamli",
+    "hint": "I need a waterproof jacket for the rain.",
+    "category": "Pre Inter 9A 9B (31-43)"
+  }
+]

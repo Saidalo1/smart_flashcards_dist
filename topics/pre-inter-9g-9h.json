@@ -1,0 +1,260 @@
+[
+  {
+    "english": "Complaint",
+    "uzbek": "Shikoyat",
+    "hint": "The manager listened to my complaint.",
+    "category": "Pre Inter 9G 9H (1-15)"
+  },
+  {
+    "english": "Faulty",
+    "uzbek": "Xatolik/nosozlik",
+    "hint": "I returned the faulty kettle to the shop.",
+    "category": "Pre Inter 9G 9H (1-15)"
+  },
+  {
+    "english": "Goods",
+    "uzbek": "Tovarlar",
+    "hint": "The shop sells electrical goods.",
+    "category": "Pre Inter 9G 9H (1-15)"
+  },
+  {
+    "english": "Item",
+    "uzbek": "Thing",
+    "hint": "There were several items missing from the box.",
+    "category": "Pre Inter 9G 9H (1-15)"
+  },
+  {
+    "english": "Charge",
+    "uzbek": "Zaryadlamoq",
+    "hint": "I need to charge my phone.",
+    "category": "Pre Inter 9G 9H (1-15)"
+  },
+  {
+    "english": "Exchange",
+    "uzbek": "Almashtirmoq",
+    "hint": "Can I exchange this shirt for a larger size?",
+    "category": "Pre Inter 9G 9H (1-15)"
+  },
+  {
+    "english": "Refund",
+    "uzbek": "Pulni qaytarib bermoq",
+    "hint": "They gave me a full refund for the broken toy.",
+    "category": "Pre Inter 9G 9H (1-15)"
+  },
+  {
+    "english": "Repair",
+    "uzbek": "Ta’mirlamoq",
+    "hint": "The shop repaired my laptop for free.",
+    "category": "Pre Inter 9G 9H (1-15)"
+  },
+  {
+    "english": "Games console",
+    "uzbek": "Video o’yin konsoli",
+    "hint": "He got a new games console for his birthday.",
+    "category": "Pre Inter 9G 9H (1-15)"
+  },
+  {
+    "english": "Blu-ray player",
+    "uzbek": "Blu-ray pleeri",
+    "hint": "We watched the film on the Blu-ray player.",
+    "category": "Pre Inter 9G 9H (1-15)"
+  },
+  {
+    "english": "Camcorder",
+    "uzbek": "Videokamera",
+    "hint": "She filmed the wedding with a camcorder.",
+    "category": "Pre Inter 9G 9H (1-15)"
+  },
+  {
+    "english": "Digital photo frame",
+    "uzbek": "Raqamli foto ramka",
+    "hint": "The digital photo frame shows all our holiday pictures.",
+    "category": "Pre Inter 9G 9H (1-15)"
+  },
+  {
+    "english": "Digital camera",
+    "uzbek": "Raqamli kamera",
+    "hint": "I took the photos with my digital camera.",
+    "category": "Pre Inter 9G 9H (1-15)"
+  },
+  {
+    "english": "Digital radio",
+    "uzbek": "Raqamli radio",
+    "hint": "He listens to a digital radio in the kitchen.",
+    "category": "Pre Inter 9G 9H (1-15)"
+  },
+  {
+    "english": "Hard disk recorder",
+    "uzbek": "Qattiq diskli video yozuvchi qurilma",
+    "hint": "We recorded the match on the hard disk recorder.",
+    "category": "Pre Inter 9G 9H (1-15)"
+  },
+  {
+    "english": "Satnav",
+    "uzbek": "Sun’iy yo’ldosh navigatsiyasi",
+    "hint": "The satnav showed us the fastest route.",
+    "category": "Pre Inter 9G 9H (16-30)"
+  },
+  {
+    "english": "(solar-powered) battery charger",
+    "uzbek": "(quyosh energiyasidan foydalanadigan) batareya zaryadlovchisi",
+    "hint": "A solar-powered battery charger is useful when camping.",
+    "category": "Pre Inter 9G 9H (16-30)"
+  },
+  {
+    "english": "Wireless speakers",
+    "uzbek": "Simsiz kalonkalar",
+    "hint": "She plays music through wireless speakers.",
+    "category": "Pre Inter 9G 9H (16-30)"
+  },
+  {
+    "english": "Respond",
+    "uzbek": "Javob bermoq",
+    "hint": "The touchscreen doesn't respond when I press it.",
+    "category": "Pre Inter 9G 9H (16-30)"
+  },
+  {
+    "english": "Properly",
+    "uzbek": "To’g’ri",
+    "hint": "The heater isn't working properly.",
+    "category": "Pre Inter 9G 9H (16-30)"
+  },
+  {
+    "english": "Battery",
+    "uzbek": "Batareya/akkumulyator",
+    "hint": "The battery in my watch is dead.",
+    "category": "Pre Inter 9G 9H (16-30)"
+  },
+  {
+    "english": "Case",
+    "uzbek": "Chexol",
+    "hint": "I bought a leather case for my phone.",
+    "category": "Pre Inter 9G 9H (16-30)"
+  },
+  {
+    "english": "Charger",
+    "uzbek": "Zaryadka",
+    "hint": "I forgot my phone charger at home.",
+    "category": "Pre Inter 9G 9H (16-30)"
+  },
+  {
+    "english": "On/off button",
+    "uzbek": "Yoqish/o’chirish tugmasi",
+    "hint": "Press the on/off button to start it.",
+    "category": "Pre Inter 9G 9H (16-30)"
+  },
+  {
+    "english": "Power lead",
+    "uzbek": "Quvvat simi/quvvat kabeli",
+    "hint": "The power lead was missing from the box.",
+    "category": "Pre Inter 9G 9H (16-30)"
+  },
+  {
+    "english": "Remote control",
+    "uzbek": "Pult",
+    "hint": "I can't find the TV remote control.",
+    "category": "Pre Inter 9G 9H (16-30)"
+  },
+  {
+    "english": "Screen",
+    "uzbek": "Ekran",
+    "hint": "There's a scratch on the screen.",
+    "category": "Pre Inter 9G 9H (16-30)"
+  },
+  {
+    "english": "Strap",
+    "uzbek": "Tasma",
+    "hint": "The strap on the camera is too short.",
+    "category": "Pre Inter 9G 9H (16-30)"
+  },
+  {
+    "english": "USB port",
+    "uzbek": "USB porti",
+    "hint": "Plug the cable into the USB port.",
+    "category": "Pre Inter 9G 9H (16-30)"
+  },
+  {
+    "english": "Volume control",
+    "uzbek": "Ovoz boshqarish tugmasi",
+    "hint": "The volume control on the radio is broken.",
+    "category": "Pre Inter 9G 9H (16-30)"
+  },
+  {
+    "english": "Dial",
+    "uzbek": "Soatning raqamli ko’rsatkichi",
+    "hint": "The clock has a large, clear dial.",
+    "category": "Pre Inter 9G 9H (31-43)"
+  },
+  {
+    "english": "Environmentally friendly",
+    "uzbek": "Ekologik toza",
+    "hint": "Electric cars are more environmentally friendly.",
+    "category": "Pre Inter 9G 9H (31-43)"
+  },
+  {
+    "english": "Cycle lane",
+    "uzbek": "Velosiped yo'lagi",
+    "hint": "Ride your bike in the cycle lane.",
+    "category": "Pre Inter 9G 9H (31-43)"
+  },
+  {
+    "english": "Express",
+    "uzbek": "Ifodalamoq",
+    "hint": "She expressed her thanks in a letter.",
+    "category": "Pre Inter 9G 9H (31-43)"
+  },
+  {
+    "english": "Disappointment",
+    "uzbek": "xafa bo'lish/umidsizlik",
+    "hint": "To my disappointment, the concert was cancelled.",
+    "category": "Pre Inter 9G 9H (31-43)"
+  },
+  {
+    "english": "Include",
+    "uzbek": "O’z ichiga olmoq",
+    "hint": "The price includes breakfast.",
+    "category": "Pre Inter 9G 9H (31-43)"
+  },
+  {
+    "english": "Object to (v)",
+    "uzbek": "Qarshi chiqmoq",
+    "hint": "Many people objected to the new plan.",
+    "category": "Pre Inter 9G 9H (31-43)"
+  },
+  {
+    "english": "Pollution",
+    "uzbek": "Ifloslanish",
+    "hint": "Cars cause a lot of air pollution.",
+    "category": "Pre Inter 9G 9H (31-43)"
+  },
+  {
+    "english": "Encourage",
+    "uzbek": "Rag’batlantirmoq",
+    "hint": "The city encourages people to cycle to work.",
+    "category": "Pre Inter 9G 9H (31-43)"
+  },
+  {
+    "english": "Reconsider",
+    "uzbek": "Qayta ko’rib chiqmoq",
+    "hint": "Please reconsider your decision.",
+    "category": "Pre Inter 9G 9H (31-43)"
+  },
+  {
+    "english": "Unless",
+    "uzbek": "agar... bo'lmasa/ agar...masа",
+    "hint": "You won't pass unless you study.",
+    "category": "Pre Inter 9G 9H (31-43)"
+  },
+  {
+    "english": "Re-state",
+    "uzbek": "Qayta ifodalamoq",
+    "hint": "Let me re-state my main point.",
+    "category": "Pre Inter 9G 9H (31-43)"
+  },
+  {
+    "english": "In favour of",
+    "uzbek": "… ning foydasiga",
+    "hint": "Most people voted in favour of the plan.",
+    "category": "Pre Inter 9G 9H (31-43)"
+  }
+]

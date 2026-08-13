@@ -1,0 +1,332 @@
+[
+  {
+    "english": "Crime",
+    "uzbek": "Jinoyat",
+    "hint": "Stealing is a serious crime.",
+    "category": "Pre Inter 8A 8B (1-15)"
+  },
+  {
+    "english": "Criminal",
+    "uzbek": "Jinoyatchi",
+    "hint": "The police arrested the criminal.",
+    "category": "Pre Inter 8A 8B (1-15)"
+  },
+  {
+    "english": "Recognise",
+    "uzbek": "Tanib olmoq",
+    "hint": "I recognised her voice on the phone.",
+    "category": "Pre Inter 8A 8B (1-15)"
+  },
+  {
+    "english": "Arson",
+    "uzbek": "o't qo'yish",
+    "hint": "The fire was started deliberately — it was arson.",
+    "category": "Pre Inter 8A 8B (1-15)"
+  },
+  {
+    "english": "Arsonist",
+    "uzbek": "o't qo'yuvchi",
+    "hint": "The arsonist set fire to three buildings.",
+    "category": "Pre Inter 8A 8B (1-15)"
+  },
+  {
+    "english": "To set fire to somewhere",
+    "uzbek": "Qayergadur o't qo'ymoq",
+    "hint": "Someone set fire to the old warehouse.",
+    "category": "Pre Inter 8A 8B (1-15)"
+  },
+  {
+    "english": "Burglary",
+    "uzbek": "qulfni buzib qilinadigan tungi o'g'rilik",
+    "hint": "There was a burglary at our neighbour's house.",
+    "category": "Pre Inter 8A 8B (1-15)"
+  },
+  {
+    "english": "Burglar",
+    "uzbek": "qulf buzar;tungi bosqinchi",
+    "hint": "The burglar climbed in through the window.",
+    "category": "Pre Inter 8A 8B (1-15)"
+  },
+  {
+    "english": "To burgle",
+    "uzbek": "qulfni buzib o'g'rilik qilmoq",
+    "hint": "Thieves burgled their flat while they were away.",
+    "category": "Pre Inter 8A 8B (1-15)"
+  },
+  {
+    "english": "To break into a house",
+    "uzbek": "uyga bostirib kirish",
+    "hint": "Someone broke into our house last night.",
+    "category": "Pre Inter 8A 8B (1-15)"
+  },
+  {
+    "english": "Drug-dealing",
+    "uzbek": "giyohvand moddalar savdosi",
+    "hint": "He was arrested for drug-dealing.",
+    "category": "Pre Inter 8A 8B (1-15)"
+  },
+  {
+    "english": "Drug-dealer",
+    "uzbek": "giyohvand moddalar sotuvchisi",
+    "hint": "The police are looking for the drug-dealer.",
+    "category": "Pre Inter 8A 8B (1-15)"
+  },
+  {
+    "english": "To sell/deal drugs",
+    "uzbek": "giyohvand moddalarni sotish yoki ular bilan muomala qilish",
+    "hint": "He was caught selling drugs near the school.",
+    "category": "Pre Inter 8A 8B (1-15)"
+  },
+  {
+    "english": "Looting",
+    "uzbek": "talonchilik",
+    "hint": "There was looting in the city after the riots.",
+    "category": "Pre Inter 8A 8B (1-15)"
+  },
+  {
+    "english": "Looter",
+    "uzbek": "talonchi",
+    "hint": "The looters stole goods from the shops.",
+    "category": "Pre Inter 8A 8B (1-15)"
+  },
+  {
+    "english": "To loot",
+    "uzbek": "talon-taroj qilish",
+    "hint": "Crowds looted the shops during the chaos.",
+    "category": "Pre Inter 8A 8B (16-30)"
+  },
+  {
+    "english": "Mugging",
+    "uzbek": "Ko'cha bezorilk",
+    "hint": "There have been several muggings in the park.",
+    "category": "Pre Inter 8A 8B (16-30)"
+  },
+  {
+    "english": "Mugger",
+    "uzbek": "Ko'cha bezorisi",
+    "hint": "A mugger stole her handbag in the street.",
+    "category": "Pre Inter 8A 8B (16-30)"
+  },
+  {
+    "english": "To mug smb",
+    "uzbek": "Kimnidur ko'chada talon-taroj qilish",
+    "hint": "Someone mugged him on his way home.",
+    "category": "Pre Inter 8A 8B (16-30)"
+  },
+  {
+    "english": "Murder",
+    "uzbek": "Qotillik",
+    "hint": "The police are investigating the murder.",
+    "category": "Pre Inter 8A 8B (16-30)"
+  },
+  {
+    "english": "Murderer",
+    "uzbek": "qotil",
+    "hint": "The murderer was sent to prison for life.",
+    "category": "Pre Inter 8A 8B (16-30)"
+  },
+  {
+    "english": "To murder smb",
+    "uzbek": "birovni o'ldirish",
+    "hint": "He was accused of murdering his business partner.",
+    "category": "Pre Inter 8A 8B (16-30)"
+  },
+  {
+    "english": "Robbery",
+    "uzbek": "Og'rilik (joyni yoki odamni)",
+    "hint": "There was a bank robbery yesterday.",
+    "category": "Pre Inter 8A 8B (16-30)"
+  },
+  {
+    "english": "Robber",
+    "uzbek": "Og'ri (joyni yoki odamni)",
+    "hint": "The robbers escaped with a lot of money.",
+    "category": "Pre Inter 8A 8B (16-30)"
+  },
+  {
+    "english": "To rob",
+    "uzbek": "Og'irlamoq",
+    "hint": "Two men robbed the bank at gunpoint.",
+    "category": "Pre Inter 8A 8B (16-30)"
+  },
+  {
+    "english": "Shoplifting",
+    "uzbek": "do'kon o'g'irligi",
+    "hint": "She was caught shoplifting in the supermarket.",
+    "category": "Pre Inter 8A 8B (16-30)"
+  },
+  {
+    "english": "Shoplifter",
+    "uzbek": "Do'kon o'g'risi",
+    "hint": "The shoplifter hid the goods under his coat.",
+    "category": "Pre Inter 8A 8B (16-30)"
+  },
+  {
+    "english": "To steal",
+    "uzbek": "O'g'irlamoq",
+    "hint": "Someone stole my bike from outside the shop.",
+    "category": "Pre Inter 8A 8B (16-30)"
+  },
+  {
+    "english": "To shoplift",
+    "uzbek": "do'kondan o'g'irlamoq",
+    "hint": "Teenagers were caught shoplifting sweets.",
+    "category": "Pre Inter 8A 8B (16-30)"
+  },
+  {
+    "english": "Smuggling",
+    "uzbek": "kontrabanda (noqonuniy olib kirish yoki eksport qilish)",
+    "hint": "He was arrested for smuggling gold across the border.",
+    "category": "Pre Inter 8A 8B (16-30)"
+  },
+  {
+    "english": "Smuggler",
+    "uzbek": "kontrabanda bilan shug'ullanuvchi kishi",
+    "hint": "The smugglers hid the goods in a truck.",
+    "category": "Pre Inter 8A 8B (31-45)"
+  },
+  {
+    "english": "To smuggle",
+    "uzbek": "kontrabanda bilan shug'ullanmoq",
+    "hint": "They tried to smuggle drugs into the country.",
+    "category": "Pre Inter 8A 8B (31-45)"
+  },
+  {
+    "english": "Theft",
+    "uzbek": "o'g'irlik",
+    "hint": "He was charged with the theft of a car.",
+    "category": "Pre Inter 8A 8B (31-45)"
+  },
+  {
+    "english": "Thief",
+    "uzbek": "O'g'ri",
+    "hint": "The thief took her purse on the bus.",
+    "category": "Pre Inter 8A 8B (31-45)"
+  },
+  {
+    "english": "Vandalism",
+    "uzbek": "Vandalism (the crime of intentionally damaging things in public places)",
+    "hint": "The broken windows were an act of vandalism.",
+    "category": "Pre Inter 8A 8B (31-45)"
+  },
+  {
+    "english": "Vandal",
+    "uzbek": "a person who vandalises smth",
+    "hint": "Vandals damaged the seats in the park.",
+    "category": "Pre Inter 8A 8B (31-45)"
+  },
+  {
+    "english": "To vandalise",
+    "uzbek": "bema'ni yoki qasddan yo'q qilish yoki buzish (tarixiy obidalar va boshqalar).",
+    "hint": "Someone vandalised the bus stop last night.",
+    "category": "Pre Inter 8A 8B (31-45)"
+  },
+  {
+    "english": "Appeal for",
+    "uzbek": "Murojaat qilmoq",
+    "hint": "The police appealed for witnesses to come forward.",
+    "category": "Pre Inter 8A 8B (31-45)"
+  },
+  {
+    "english": "Witness",
+    "uzbek": "Guvoh",
+    "hint": "A witness saw the accident happen.",
+    "category": "Pre Inter 8A 8B (31-45)"
+  },
+  {
+    "english": "Identify",
+    "uzbek": "Aniqlamoq",
+    "hint": "Can you identify the man who robbed you?",
+    "category": "Pre Inter 8A 8B (31-45)"
+  },
+  {
+    "english": "Patrol",
+    "uzbek": "Qo'riqlamoq",
+    "hint": "Police officers patrol the streets at night.",
+    "category": "Pre Inter 8A 8B (31-45)"
+  },
+  {
+    "english": "Suspect",
+    "uzbek": "Shubhali shaxs",
+    "hint": "The police are questioning a suspect.",
+    "category": "Pre Inter 8A 8B (31-45)"
+  },
+  {
+    "english": "Make an arrest",
+    "uzbek": "Hibsga olmoq",
+    "hint": "The officers made an arrest early this morning.",
+    "category": "Pre Inter 8A 8B (31-45)"
+  },
+  {
+    "english": "CCTV footage",
+    "uzbek": "Kamera tasvirlari",
+    "hint": "The CCTV footage showed the thief clearly.",
+    "category": "Pre Inter 8A 8B (31-45)"
+  },
+  {
+    "english": "Culprit",
+    "uzbek": "Aybdor shaxs",
+    "hint": "The police finally caught the culprit.",
+    "category": "Pre Inter 8A 8B (31-45)"
+  },
+  {
+    "english": "Drug-smuggling",
+    "uzbek": "giyohvand moddalar kontrabandasi",
+    "hint": "He was jailed for drug-smuggling.",
+    "category": "Pre Inter 8A 8B (46-55)"
+  },
+  {
+    "english": "Prevent",
+    "uzbek": "Oldini olmoq",
+    "hint": "Better lighting can help prevent crime.",
+    "category": "Pre Inter 8A 8B (46-55)"
+  },
+  {
+    "english": "Frightening",
+    "uzbek": "qo'rqituvchi",
+    "hint": "Being followed at night was a frightening experience.",
+    "category": "Pre Inter 8A 8B (46-55)"
+  },
+  {
+    "english": "Victim",
+    "uzbek": "Qurbon",
+    "hint": "The victim was not seriously hurt.",
+    "category": "Pre Inter 8A 8B (46-55)"
+  },
+  {
+    "english": "Report",
+    "uzbek": "Xisobot",
+    "hint": "She reported the theft to the police.",
+    "category": "Pre Inter 8A 8B (46-55)"
+  },
+  {
+    "english": "End up",
+    "uzbek": "yakun topmoq",
+    "hint": "He ended up in prison for his crimes.",
+    "category": "Pre Inter 8A 8B (46-55)"
+  },
+  {
+    "english": "Passer-by",
+    "uzbek": "yo'lovchi",
+    "hint": "A passer-by called the police.",
+    "category": "Pre Inter 8A 8B (46-55)"
+  },
+  {
+    "english": "Run off",
+    "uzbek": "Qochib ketmoq",
+    "hint": "The thief grabbed the bag and ran off.",
+    "category": "Pre Inter 8A 8B (46-55)"
+  },
+  {
+    "english": "Launch",
+    "uzbek": "Boshlamoq;Ishga tushurmoq",
+    "hint": "The police launched an investigation.",
+    "category": "Pre Inter 8A 8B (46-55)"
+  },
+  {
+    "english": "Take place",
+    "uzbek": "Happen",
+    "hint": "The robbery took place at midnight.",
+    "category": "Pre Inter 8A 8B (46-55)"
+  }
+]

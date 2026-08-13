@@ -1,0 +1,302 @@
+[
+  {
+    "english": "Tourist attraction",
+    "uzbek": "turistik diqqatga sazovor joy",
+    "hint": "The old bridge is a popular tourist attraction.",
+    "category": "Pre Inter 6G 6H (1-15)"
+  },
+  {
+    "english": "Art gallery",
+    "uzbek": "san'at galereyasi",
+    "hint": "We saw some famous paintings at the art gallery.",
+    "category": "Pre Inter 6G 6H (1-15)"
+  },
+  {
+    "english": "Church",
+    "uzbek": "cherkov",
+    "hint": "The old church has a tall stone tower.",
+    "category": "Pre Inter 6G 6H (1-15)"
+  },
+  {
+    "english": "Monument",
+    "uzbek": "yodgorlik",
+    "hint": "A monument was built to honour the soldiers.",
+    "category": "Pre Inter 6G 6H (1-15)"
+  },
+  {
+    "english": "Safari park",
+    "uzbek": "a large park with animals",
+    "hint": "We saw lions and elephants at the safari park.",
+    "category": "Pre Inter 6G 6H (1-15)"
+  },
+  {
+    "english": "Shopping district",
+    "uzbek": "savdo tumani",
+    "hint": "The city's shopping district is always crowded.",
+    "category": "Pre Inter 6G 6H (1-15)"
+  },
+  {
+    "english": "Square",
+    "uzbek": "Maydon",
+    "hint": "There's a market in the town square every Saturday.",
+    "category": "Pre Inter 6G 6H (1-15)"
+  },
+  {
+    "english": "Accommodation",
+    "uzbek": "Turar joy",
+    "hint": "We're looking for cheap accommodation for the weekend.",
+    "category": "Pre Inter 6G 6H (1-15)"
+  },
+  {
+    "english": "Suggestion",
+    "uzbek": "Taklif",
+    "hint": "Can I make a suggestion about the plan?",
+    "category": "Pre Inter 6G 6H (1-15)"
+  },
+  {
+    "english": "Fancy",
+    "uzbek": "Want",
+    "hint": "Do you fancy going to the cinema tonight?",
+    "category": "Pre Inter 6G 6H (1-15)"
+  },
+  {
+    "english": "Either",
+    "uzbek": "Yoki/Ikkalasidan bittasi",
+    "hint": "You can have either tea or coffee.",
+    "category": "Pre Inter 6G 6H (1-15)"
+  },
+  {
+    "english": "Mind (v)",
+    "uzbek": "Qarshi bo'lmoq",
+    "hint": "Do you mind if I open the window?",
+    "category": "Pre Inter 6G 6H (1-15)"
+  },
+  {
+    "english": "Accept",
+    "uzbek": "Qabul qilmoq",
+    "hint": "She accepted the job offer happily.",
+    "category": "Pre Inter 6G 6H (1-15)"
+  },
+  {
+    "english": "Decline",
+    "uzbek": "Rad qilmoq",
+    "hint": "He politely declined the invitation.",
+    "category": "Pre Inter 6G 6H (1-15)"
+  },
+  {
+    "english": "Express",
+    "uzbek": "Ifodalamoq",
+    "hint": "It's hard to express my feelings in words.",
+    "category": "Pre Inter 6G 6H (1-15)"
+  },
+  {
+    "english": "Preference",
+    "uzbek": "Afzallik",
+    "hint": "Do you have a preference for red or white wine?",
+    "category": "Pre Inter 6G 6H (16-30)"
+  },
+  {
+    "english": "Prompt",
+    "uzbek": "Подсказка",
+    "hint": "The teacher gave a prompt to help me answer.",
+    "category": "Pre Inter 6G 6H (16-30)"
+  },
+  {
+    "english": "Book (v)",
+    "uzbek": "Oldindan bron qilmoq",
+    "hint": "We booked the hotel two months in advance.",
+    "category": "Pre Inter 6G 6H (16-30)"
+  },
+  {
+    "english": "In advance",
+    "uzbek": "Oldindan",
+    "hint": "You should buy the tickets in advance.",
+    "category": "Pre Inter 6G 6H (16-30)"
+  },
+  {
+    "english": "Hire",
+    "uzbek": "Ijaraga olmoq",
+    "hint": "We hired a car for the week.",
+    "category": "Pre Inter 6G 6H (16-30)"
+  },
+  {
+    "english": "Out-of-town excursion",
+    "uzbek": "shahar tashqarisidagi ekskursiya",
+    "hint": "The tour includes an out-of-town excursion to the castle.",
+    "category": "Pre Inter 6G 6H (16-30)"
+  },
+  {
+    "english": "Panic",
+    "uzbek": "Vahima qilmoq",
+    "hint": "Don't panic — everything will be fine.",
+    "category": "Pre Inter 6G 6H (16-30)"
+  },
+  {
+    "english": "Clarification",
+    "uzbek": "Aniqlashtirish",
+    "hint": "I asked the teacher for clarification of the rules.",
+    "category": "Pre Inter 6G 6H (16-30)"
+  },
+  {
+    "english": "Boat trip",
+    "uzbek": "Qayiqda sayohat",
+    "hint": "We took a boat trip around the harbour.",
+    "category": "Pre Inter 6G 6H (16-30)"
+  },
+  {
+    "english": "Bus fare",
+    "uzbek": "Avtobus uchun yo'l haqi",
+    "hint": "The bus fare went up last month.",
+    "category": "Pre Inter 6G 6H (16-30)"
+  },
+  {
+    "english": "Day trip",
+    "uzbek": "Kunlik sayohat",
+    "hint": "We went on a day trip to the seaside.",
+    "category": "Pre Inter 6G 6H (16-30)"
+  },
+  {
+    "english": "Fish and chip shop",
+    "uzbek": "a shop that sells fried fish, potatoes, and other foods, to take away to eat",
+    "hint": "We bought dinner from the fish and chip shop.",
+    "category": "Pre Inter 6G 6H (16-30)"
+  },
+  {
+    "english": "Food van",
+    "uzbek": "Oziq-ovqat furgoni",
+    "hint": "A food van was selling burgers in the park.",
+    "category": "Pre Inter 6G 6H (16-30)"
+  },
+  {
+    "english": "Open top bus tour",
+    "uzbek": "Tepasi ochiq avtobusda sayohat",
+    "hint": "We saw the city from an open top bus tour.",
+    "category": "Pre Inter 6G 6H (16-30)"
+  },
+  {
+    "english": "Route",
+    "uzbek": "marshrut",
+    "hint": "The bus takes a different route on Sundays.",
+    "category": "Pre Inter 6G 6H (16-30)"
+  },
+  {
+    "english": "Sandwich bar",
+    "uzbek": "asosan sendvich sotadigan restoran yoki olib ketiladigan oziq-ovqat do'koni",
+    "hint": "I got lunch from the sandwich bar near the office.",
+    "category": "Pre Inter 6G 6H (31-45)"
+  },
+  {
+    "english": "Street café",
+    "uzbek": "ko'chada stol va stullar o'rnatilgan kafe, u erda odamlar ovqatlanishlari va ichishlari mumkin",
+    "hint": "We had coffee at a little street café.",
+    "category": "Pre Inter 6G 6H (31-45)"
+  },
+  {
+    "english": "Tea room",
+    "uzbek": "Choy,Turli xil ichimliklar va shirinliklar sotiladigan ko'chki restoran",
+    "hint": "We stopped for cake at a cosy tea room.",
+    "category": "Pre Inter 6G 6H (31-45)"
+  },
+  {
+    "english": "Timetable",
+    "uzbek": "Jadval",
+    "hint": "Check the timetable for the next train.",
+    "category": "Pre Inter 6G 6H (31-45)"
+  },
+  {
+    "english": "Travel pass",
+    "uzbek": "sayohat chiptasi",
+    "hint": "A weekly travel pass is cheaper than single tickets.",
+    "category": "Pre Inter 6G 6H (31-45)"
+  },
+  {
+    "english": "Travel zone",
+    "uzbek": "sayohat zonasi",
+    "hint": "Your ticket is only valid in travel zone one.",
+    "category": "Pre Inter 6G 6H (31-45)"
+  },
+  {
+    "english": "Walking tour",
+    "uzbek": "Piyoda sayohat",
+    "hint": "We joined a walking tour of the old town.",
+    "category": "Pre Inter 6G 6H (31-45)"
+  },
+  {
+    "english": "Bumpy flight",
+    "uzbek": "Uncomfortable flight",
+    "hint": "It was a bumpy flight because of the storm.",
+    "category": "Pre Inter 6G 6H (31-45)"
+  },
+  {
+    "english": "Flight",
+    "uzbek": "Parvoz",
+    "hint": "The flight to Rome takes three hours.",
+    "category": "Pre Inter 6G 6H (31-45)"
+  },
+  {
+    "english": "Land (v)",
+    "uzbek": "Yerga qo'nmoq",
+    "hint": "The plane landed safely in the fog.",
+    "category": "Pre Inter 6G 6H (31-45)"
+  },
+  {
+    "english": "Hilarious",
+    "uzbek": "Extremely funny",
+    "hint": "His joke was absolutely hilarious.",
+    "category": "Pre Inter 6G 6H (31-45)"
+  },
+  {
+    "english": "Feature",
+    "uzbek": "Xususiyat",
+    "hint": "The best feature of the house is the garden.",
+    "category": "Pre Inter 6G 6H (31-45)"
+  },
+  {
+    "english": "Tiny",
+    "uzbek": "Very small",
+    "hint": "They live in a tiny flat in the city centre.",
+    "category": "Pre Inter 6G 6H (31-45)"
+  },
+  {
+    "english": "Entry",
+    "uzbek": "Kirish",
+    "hint": "Entry to the museum is free on Mondays.",
+    "category": "Pre Inter 6G 6H (31-45)"
+  },
+  {
+    "english": "Coach",
+    "uzbek": "Bus especially for tourists",
+    "hint": "We travelled to London by coach.",
+    "category": "Pre Inter 6G 6H (31-45)"
+  },
+  {
+    "english": "Accident",
+    "uzbek": "Baxtsiz hodisa",
+    "hint": "There was an accident on the motorway this morning.",
+    "category": "Pre Inter 6G 6H (46-50)"
+  },
+  {
+    "english": "Look forward to",
+    "uzbek": "Intizorlik bilan kutmoq",
+    "hint": "I'm looking forward to the summer holidays.",
+    "category": "Pre Inter 6G 6H (46-50)"
+  },
+  {
+    "english": "Watch out",
+    "uzbek": "Be careful",
+    "hint": "Watch out — the floor is wet!",
+    "category": "Pre Inter 6G 6H (46-50)"
+  },
+  {
+    "english": "Destination",
+    "uzbek": "Manzil",
+    "hint": "Paris was our final destination.",
+    "category": "Pre Inter 6G 6H (46-50)"
+  },
+  {
+    "english": "Omit",
+    "uzbek": "Leave out",
+    "hint": "You can omit the last question if you want.",
+    "category": "Pre Inter 6G 6H (46-50)"
+  }
+]
