@@ -84,6 +84,36 @@
           "words": 43
         }
       ]
+    },
+    {
+      "name": "Grammar",
+      "topics": [
+        {
+          "id": "irregular-verbs-1-20",
+          "name": "Irregular Verbs (1-20)",
+          "words": 20
+        },
+        {
+          "id": "irregular-verbs-21-40",
+          "name": "Irregular Verbs (21-40)",
+          "words": 20
+        },
+        {
+          "id": "irregular-verbs-41-60",
+          "name": "Irregular Verbs (41-60)",
+          "words": 20
+        },
+        {
+          "id": "irregular-verbs-61-80",
+          "name": "Irregular Verbs (61-80)",
+          "words": 20
+        },
+        {
+          "id": "irregular-verbs-81-85",
+          "name": "Irregular Verbs (81-85)",
+          "words": 5
+        }
+      ]
     }
   ]
 }
