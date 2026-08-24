@@ -86,6 +86,21 @@
       ]
     },
     {
+      "name": "Intermediate",
+      "topics": [
+        {
+          "id": "inter-1a-1b",
+          "name": "Inter 1A 1B",
+          "words": 32
+        },
+        {
+          "id": "a-visitor-reading",
+          "name": "A Visitor (Reading)",
+          "words": 9
+        }
+      ]
+    },
+    {
       "name": "Grammar",
       "topics": [
         {
