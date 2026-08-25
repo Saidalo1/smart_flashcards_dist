@@ -13,7 +13,7 @@
   },
   {
     "english": "Live up to",
-    "uzbek": "To match",
+    "uzbek": "mos kelmoq",
     "hint": "The film didn't live up to my expectations.",
     "category": "Inter 1E 1F (1-15)"
   },
@@ -25,13 +25,13 @@
   },
   {
     "english": "Walk out on",
-    "uzbek": "To leave smn or smth",
+    "uzbek": "tashlab ketmoq",
     "hint": "He walked out on his family.",
     "category": "Inter 1E 1F (1-15)"
   },
   {
     "english": "Fit in with",
-    "uzbek": "To look and act like part of a group",
+    "uzbek": "jamoaga moslashmoq",
     "hint": "She quickly fit in with her new classmates.",
     "category": "Inter 1E 1F (1-15)"
   },
@@ -79,43 +79,43 @@
   },
   {
     "english": "Run out of",
-    "uzbek": "To finish all of smth",
+    "uzbek": "tugab qolmoq",
     "hint": "We ran out of milk this morning.",
     "category": "Inter 1E 1F (1-15)"
   },
   {
     "english": "Look up",
-    "uzbek": "Search",
+    "uzbek": "izlab topmoq (lug'atdan)",
     "hint": "Look up the word in a dictionary.",
     "category": "Inter 1E 1F (1-15)"
   },
   {
     "english": "Look up to",
-    "uzbek": "Respect",
+    "uzbek": "hurmat qilmoq",
     "hint": "She looks up to her older brother.",
     "category": "Inter 1E 1F (16-30)"
   },
   {
     "english": "Get away",
-    "uzbek": "Escape",
+    "uzbek": "qochib qutulmoq",
     "hint": "The thief tried to get away.",
     "category": "Inter 1E 1F (16-30)"
   },
   {
     "english": "Get away with",
-    "uzbek": "To do smth bad and not be punished",
+    "uzbek": "jazosiz qutulib ketmoq",
     "hint": "He cheated and got away with it.",
     "category": "Inter 1E 1F (16-30)"
   },
   {
     "english": "Make up",
-    "uzbek": "Create",
+    "uzbek": "to'qib chiqarmoq",
     "hint": "He made up an excuse on the spot.",
     "category": "Inter 1E 1F (16-30)"
   },
   {
     "english": "Make up for",
-    "uzbek": "Compensate",
+    "uzbek": "o'rnini qoplamoq",
     "hint": "I'll make up for the lost time.",
     "category": "Inter 1E 1F (16-30)"
   },
@@ -127,37 +127,37 @@
   },
   {
     "english": "Get up to",
-    "uzbek": "Do",
+    "uzbek": "biror ish qilmoq",
     "hint": "What did you get up to at the weekend?",
     "category": "Inter 1E 1F (16-30)"
   },
   {
     "english": "Go in",
-    "uzbek": "Enter",
+    "uzbek": "kirmoq",
     "hint": "Open the door and go in.",
     "category": "Inter 1E 1F (16-30)"
   },
   {
     "english": "Go in for",
-    "uzbek": "To do smth as a hobby",
+    "uzbek": "hobbi bilan shug'ullanmoq",
     "hint": "She goes in for painting.",
     "category": "Inter 1E 1F (16-30)"
   },
   {
     "english": "Go back",
-    "uzbek": "Return",
+    "uzbek": "qaytmoq",
     "hint": "Let's go back home now.",
     "category": "Inter 1E 1F (16-30)"
   },
   {
     "english": "Go back on",
-    "uzbek": "Break a promise",
+    "uzbek": "va'dasidan qaytmoq",
     "hint": "He went back on his word.",
     "category": "Inter 1E 1F (16-30)"
   },
   {
     "english": "Admire",
-    "uzbek": "Respect",
+    "uzbek": "qoyil qolmoq, havas qilmoq",
     "hint": "I admire her courage.",
     "category": "Inter 1E 1F (16-30)"
   },
@@ -169,25 +169,25 @@
   },
   {
     "english": "Give up",
-    "uzbek": "To stop doing smth",
+    "uzbek": "voz kechmoq",
     "hint": "He gave up smoking last year.",
     "category": "Inter 1E 1F (16-30)"
   },
   {
     "english": "Turn into",
-    "uzbek": "To change and become smth different",
+    "uzbek": "aylanib ketmoq",
     "hint": "The caterpillar turned into a butterfly.",
     "category": "Inter 1E 1F (16-30)"
   },
   {
     "english": "Set off",
-    "uzbek": "Start a journey",
+    "uzbek": "yo'lga chiqmoq",
     "hint": "We set off early in the morning.",
     "category": "Inter 1E 1F (31-45)"
   },
   {
     "english": "Blow up",
-    "uzbek": "Explode (portlamoq)",
+    "uzbek": "portlatmoq",
     "hint": "The bomb blew up the old building.",
     "category": "Inter 1E 1F (31-45)"
   },
@@ -217,7 +217,7 @@
   },
   {
     "english": "Stay out",
-    "uzbek": "Go home late",
+    "uzbek": "kech uyga qaytmoq",
     "hint": "My parents don't let me stay out late.",
     "category": "Inter 1E 1F (31-45)"
   },
@@ -289,7 +289,7 @@
   },
   {
     "english": "Handle",
-    "uzbek": "Control",
+    "uzbek": "uddalamoq, boshqarmoq",
     "hint": "She can handle any problem.",
     "category": "Inter 1E 1F (46-60)"
   },
@@ -301,25 +301,25 @@
   },
   {
     "english": "Deal with",
-    "uzbek": "Work with",
+    "uzbek": "hal qilmoq",
     "hint": "I will deal with this issue later.",
     "category": "Inter 1E 1F (46-60)"
   },
   {
     "english": "Tip",
-    "uzbek": "Advice",
+    "uzbek": "maslahat",
     "hint": "Let me give you a useful tip.",
     "category": "Inter 1E 1F (46-60)"
   },
   {
     "english": "Rapid",
-    "uzbek": "Fast",
+    "uzbek": "tez, shiddatli",
     "hint": "There was a rapid change in the weather.",
     "category": "Inter 1E 1F (46-60)"
   },
   {
     "english": "Transform",
-    "uzbek": "Change",
+    "uzbek": "tubdan o'zgartirmoq",
     "hint": "The city has transformed in ten years.",
     "category": "Inter 1E 1F (46-60)"
   },
@@ -337,7 +337,7 @@
   },
   {
     "english": "Space",
-    "uzbek": "Place",
+    "uzbek": "joy, bo'sh joy",
     "hint": "Give me some space, please.",
     "category": "Inter 1E 1F (46-60)"
   },
@@ -349,7 +349,7 @@
   },
   {
     "english": "Idealistic",
-    "uzbek": "Perfect",
+    "uzbek": "xayolparast, orzuparast",
     "hint": "Young people are often idealistic.",
     "category": "Inter 1E 1F (46-60)"
   },
@@ -367,7 +367,7 @@
   },
   {
     "english": "Stay on good terms with smn",
-    "uzbek": "To be friendly with smn",
+    "uzbek": "yaxshi munosabatda bo'lmoq",
     "hint": "I try to stay on good terms with my neighbours.",
     "category": "Inter 1E 1F (61-75)"
   },
@@ -379,7 +379,7 @@
   },
   {
     "english": "Concern",
-    "uzbek": "Worry",
+    "uzbek": "tashvish",
     "hint": "Her health is a real concern.",
     "category": "Inter 1E 1F (61-75)"
   },
@@ -427,7 +427,7 @@
   },
   {
     "english": "Reject",
-    "uzbek": "Refuse",
+    "uzbek": "rad etmoq",
     "hint": "They rejected my offer.",
     "category": "Inter 1E 1F (61-75)"
   },
