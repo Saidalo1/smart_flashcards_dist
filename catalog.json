@@ -112,6 +112,11 @@
           "id": "inter-1g-1h",
           "name": "Inter 1G 1H",
           "words": 25
+        },
+        {
+          "id": "inter-2a-2b",
+          "name": "Inter 2A 2B",
+          "words": 23
         }
       ]
     },
