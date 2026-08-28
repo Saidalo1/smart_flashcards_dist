@@ -1,19 +1,19 @@
 [
   {
     "english": "Eat out",
-    "uzbek": "Eat outside (not at home)",
+    "uzbek": "Tashqarida ovqatlanmoq",
     "hint": "We decided to eat out at a new restaurant tonight.",
     "category": "Inter 2C 2D (1-15)"
   },
   {
     "english": "Dish",
-    "uzbek": "Food",
+    "uzbek": "Taom",
     "hint": "Pizza is my favourite Italian dish.",
     "category": "Inter 2C 2D (1-15)"
   },
   {
     "english": "Curry",
-    "uzbek": "Indian food ( with a sauce a mixture of ground species (chicken))",
+    "uzbek": "Karri (hind taomi)",
     "hint": "She cooked a delicious chicken curry for dinner.",
     "category": "Inter 2C 2D (1-15)"
   },
@@ -31,31 +31,31 @@
   },
   {
     "english": "Risotto",
-    "uzbek": "Rice with vegetables and meat or seafood",
+    "uzbek": "Rizotto (guruchli taom)",
     "hint": "He ordered a seafood risotto at the restaurant.",
     "category": "Inter 2C 2D (1-15)"
   },
   {
     "english": "Soup",
-    "uzbek": "Shörva",
+    "uzbek": "Sho'rva",
     "hint": "A bowl of hot soup is great on a cold day.",
     "category": "Inter 2C 2D (1-15)"
   },
   {
     "english": "Stew",
-    "uzbek": "Tuşënka",
+    "uzbek": "Tushonka / Dimlama",
     "hint": "The beef stew was cooked slowly with vegetables.",
     "category": "Inter 2C 2D (1-15)"
   },
   {
     "english": "Stir-fry",
-    "uzbek": "is a mixture of colourful vegetables in a sauce",
+    "uzbek": "Qovurilgan sabzavotlar va go'sht",
     "hint": "She prepared a vegetable stir-fry for lunch.",
     "category": "Inter 2C 2D (1-15)"
   },
   {
     "english": "Lasagne",
-    "uzbek": "Pasta (pasta in the form of sheets or wide strips)",
+    "uzbek": "Lazanya",
     "hint": "Layered pasta and cheese make a rich lasagne.",
     "category": "Inter 2C 2D (1-15)"
   },
@@ -73,37 +73,37 @@
   },
   {
     "english": "Gluten-free",
-    "uzbek": "Without gluten",
+    "uzbek": "Glutensiz",
     "hint": "This bakery offers gluten-free bread for sensitive diets.",
     "category": "Inter 2C 2D (1-15)"
   },
   {
     "english": "Lactose intolerant",
-    "uzbek": "unable to fully digest the sugar (lactose) in milk",
+    "uzbek": "Laktozani hazm qilolmaslik",
     "hint": "If you are lactose intolerant, avoid fresh milk.",
     "category": "Inter 2C 2D (1-15)"
   },
   {
     "english": "Avoid",
-    "uzbek": "Özini chetga olmoq",
+    "uzbek": "O'zini chetga olmoq",
     "hint": "You should avoid eating too much sugar.",
     "category": "Inter 2C 2D (1-15)"
   },
   {
     "english": "Snack",
-    "uzbek": "Yengil toam ( a small amount of food that is eaten between meals)",
+    "uzbek": "Yengil tamaddi",
     "hint": "I usually have a fruit snack in the afternoon.",
     "category": "Inter 2C 2D (16-27)"
   },
   {
     "english": "Contain",
-    "uzbek": "Include",
+    "uzbek": "O'z ichiga olmoq",
     "hint": "This box does not contain any dangerous items.",
     "category": "Inter 2C 2D (16-27)"
   },
   {
     "english": "Steak",
-    "uzbek": "Baliq yoki go'shtning bo'lagi",
+    "uzbek": "Steyk (qovurilgan go'sht bo'lagi)",
     "hint": "He ordered a juicy beef steak with potatoes.",
     "category": "Inter 2C 2D (16-27)"
   },
@@ -121,31 +121,31 @@
   },
   {
     "english": "Take place",
-    "uzbek": "Happen",
+    "uzbek": "Bo'lib o'tmoq",
     "hint": "The festival will take place in the main square.",
     "category": "Inter 2C 2D (16-27)"
   },
   {
     "english": "Let-down",
-    "uzbek": "Köngil qolish",
+    "uzbek": "Ko'ngil qolishi",
     "hint": "The movie turned out to be a total let-down.",
     "category": "Inter 2C 2D (16-27)"
   },
   {
     "english": "Not up to standard",
-    "uzbek": "Standard darajasida emas",
+    "uzbek": "Talab darajasida emas",
     "hint": "The quality of the service was not up to standard.",
     "category": "Inter 2C 2D (16-27)"
   },
   {
     "english": "Out of this world",
-    "uzbek": "Great",
+    "uzbek": "Juda ajoyib",
     "hint": "The meal at the top restaurant was out of this world.",
     "category": "Inter 2C 2D (16-27)"
   },
   {
     "english": "Pretty average",
-    "uzbek": "Örtacha",
+    "uzbek": "O'rtacha",
     "hint": "The film was okay, but pretty average overall.",
     "category": "Inter 2C 2D (16-27)"
   },
