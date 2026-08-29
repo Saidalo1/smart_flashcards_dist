@@ -1,0 +1,368 @@
+[
+  {
+    "english": "Spectacular",
+    "uzbek": "Juda hayajonli / Ajoyib",
+    "hint": "The view from the top of the mountain was spectacular.",
+    "category": "Inter 2E 2F (1-15)"
+  },
+  {
+    "english": "Flood lights",
+    "uzbek": "Projektor / Yoritgich",
+    "hint": "The stadium flood lights turned on as it got dark.",
+    "category": "Inter 2E 2F (1-15)"
+  },
+  {
+    "english": "Football pitch",
+    "uzbek": "Futbol maydoni",
+    "hint": "The players stepped onto the green football pitch.",
+    "category": "Inter 2E 2F (1-15)"
+  },
+  {
+    "english": "Main road",
+    "uzbek": "Asosiy yo'l",
+    "hint": "Be careful when crossing the main road.",
+    "category": "Inter 2E 2F (1-15)"
+  },
+  {
+    "english": "Mountain range",
+    "uzbek": "Tog' tizmasi",
+    "hint": "The Himalayas are a huge mountain range.",
+    "category": "Inter 2E 2F (1-15)"
+  },
+  {
+    "english": "Safety net",
+    "uzbek": "Xavfsizlik to'ri",
+    "hint": "A safety net was installed below the construction site.",
+    "category": "Inter 2E 2F (1-15)"
+  },
+  {
+    "english": "Sea shore",
+    "uzbek": "Dengiz qirg'og'i",
+    "hint": "We walked along the sea shore collecting shells.",
+    "category": "Inter 2E 2F (1-15)"
+  },
+  {
+    "english": "Tower block",
+    "uzbek": "Ko'p qavatli bino",
+    "hint": "He lives in a modern tower block near the city centre.",
+    "category": "Inter 2E 2F (1-15)"
+  },
+  {
+    "english": "Safety barrier",
+    "uzbek": "Xavfsizlik to'sig'i",
+    "hint": "The car crashed into the safety barrier.",
+    "category": "Inter 2E 2F (1-15)"
+  },
+  {
+    "english": "Athletic track",
+    "uzbek": "Yugurish yo'lagi",
+    "hint": "Runners prepared for the race on the athletic track.",
+    "category": "Inter 2E 2F (1-15)"
+  },
+  {
+    "english": "Basketball court",
+    "uzbek": "Basketbol maydoni",
+    "hint": "They played a match on the indoor basketball court.",
+    "category": "Inter 2E 2F (1-15)"
+  },
+  {
+    "english": "Bowling alley",
+    "uzbek": "Bouling zali",
+    "hint": "We spent Friday evening at the bowling alley.",
+    "category": "Inter 2E 2F (1-15)"
+  },
+  {
+    "english": "Boxing ring",
+    "uzbek": "Boks ringi",
+    "hint": "The two fighters entered the boxing ring.",
+    "category": "Inter 2E 2F (1-15)"
+  },
+  {
+    "english": "Climbing wall",
+    "uzbek": "Tirmashib chiqish devori",
+    "hint": "She loves practicing on the indoor climbing wall.",
+    "category": "Inter 2E 2F (1-15)"
+  },
+  {
+    "english": "Dance studio",
+    "uzbek": "Raqs studiyasi",
+    "hint": "Dancers were rehearsing in the dance studio.",
+    "category": "Inter 2E 2F (1-15)"
+  },
+  {
+    "english": "Golf course",
+    "uzbek": "Golf maydoni",
+    "hint": "The golf course has eighteen beautiful holes.",
+    "category": "Inter 2E 2F (16-32)"
+  },
+  {
+    "english": "Ice rink",
+    "uzbek": "Muz uchish maydoni (katok)",
+    "hint": "Children had fun skating at the ice rink.",
+    "category": "Inter 2E 2F (16-32)"
+  },
+  {
+    "english": "Weights room",
+    "uzbek": "Trenajer zali",
+    "hint": "He goes to the weights room to build strength.",
+    "category": "Inter 2E 2F (16-32)"
+  },
+  {
+    "english": "Well-known",
+    "uzbek": "Mashhur / Taniqli",
+    "hint": "She is a well-known singer in our country.",
+    "category": "Inter 2E 2F (16-32)"
+  },
+  {
+    "english": "Half-eaten",
+    "uzbek": "Yarmi yeyilgan",
+    "hint": "There was a half-eaten sandwich on the desk.",
+    "category": "Inter 2E 2F (16-32)"
+  },
+  {
+    "english": "Record-breaking",
+    "uzbek": "Rekord darajadagi",
+    "hint": "The athlete set a record-breaking time.",
+    "category": "Inter 2E 2F (16-32)"
+  },
+  {
+    "english": "Wind-powered",
+    "uzbek": "Shamol quvvati bilan ishlaydigan",
+    "hint": "The farm uses wind-powered generators for electricity.",
+    "category": "Inter 2E 2F (16-32)"
+  },
+  {
+    "english": "State-of-the-art",
+    "uzbek": "Zamonaviy / Eng so'nggi rusumdagi",
+    "hint": "The hospital has state-of-the-art medical equipment.",
+    "category": "Inter 2E 2F (16-32)"
+  },
+  {
+    "english": "Brightly lit",
+    "uzbek": "Yorqin yoritilgan",
+    "hint": "The room was brightly lit by large windows.",
+    "category": "Inter 2E 2F (16-32)"
+  },
+  {
+    "english": "Eight-lane",
+    "uzbek": "Sakkiz qatorli",
+    "hint": "The highway has eight-lane traffic.",
+    "category": "Inter 2E 2F (16-32)"
+  },
+  {
+    "english": "Eighteen-hole",
+    "uzbek": "18 teshikli (golf maydoni)",
+    "hint": "They played a round at the eighteen-hole golf course.",
+    "category": "Inter 2E 2F (16-32)"
+  },
+  {
+    "english": "Full-sized",
+    "uzbek": "To'liq o'lchamli",
+    "hint": "The school built a full-sized swimming pool.",
+    "category": "Inter 2E 2F (16-32)"
+  },
+  {
+    "english": "Solar-powered",
+    "uzbek": "Quyosh energiyasi bilan ishlaydigan",
+    "hint": "Our house has solar-powered heating panels.",
+    "category": "Inter 2E 2F (16-32)"
+  },
+  {
+    "english": "Soundproof",
+    "uzbek": "Ovoz o'tkazmaydigan",
+    "hint": "The recording studio is completely soundproof.",
+    "category": "Inter 2E 2F (16-32)"
+  },
+  {
+    "english": "Well-equipped",
+    "uzbek": "Yaxshi jihozlangan",
+    "hint": "The science lab is very well-equipped.",
+    "category": "Inter 2E 2F (16-32)"
+  },
+  {
+    "english": "Recording studio",
+    "uzbek": "Ovoz yozish studiyasi",
+    "hint": "The band spent three months in the recording studio.",
+    "category": "Inter 2E 2F (16-32)"
+  },
+  {
+    "english": "All-weather",
+    "uzbek": "Har qanday ob-havoga mos",
+    "hint": "The tennis court has an all-weather surface.",
+    "category": "Inter 2E 2F (16-32)"
+  },
+  {
+    "english": "Intention",
+    "uzbek": "Maqsad / Niyat",
+    "hint": "She had no intention of causing any trouble.",
+    "category": "Inter 2E 2F (33-46)"
+  },
+  {
+    "english": "Toy",
+    "uzbek": "O'yinchoq",
+    "hint": "The child played happily with his new toy.",
+    "category": "Inter 2E 2F (33-46)"
+  },
+  {
+    "english": "Gift",
+    "uzbek": "Sovg'a",
+    "hint": "He gave her a lovely birthday gift.",
+    "category": "Inter 2E 2F (33-46)"
+  },
+  {
+    "english": "Logbook",
+    "uzbek": "Bort jurnali",
+    "hint": "The captain recorded the journey in the logbook.",
+    "category": "Inter 2E 2F (33-46)"
+  },
+  {
+    "english": "Replace",
+    "uzbek": "Almashtirmoq / O'rnini bosmoq",
+    "hint": "You need to replace the battery in your watch.",
+    "category": "Inter 2E 2F (33-46)"
+  },
+  {
+    "english": "Proof",
+    "uzbek": "Isbot / Dalil",
+    "hint": "The lawyer showed clear proof of his innocence.",
+    "category": "Inter 2E 2F (33-46)"
+  },
+  {
+    "english": "Adventurous",
+    "uzbek": "Sarguzashttalab",
+    "hint": "They are adventurous travelers who love exploring.",
+    "category": "Inter 2E 2F (33-46)"
+  },
+  {
+    "english": "Mainly",
+    "uzbek": "Asosan",
+    "hint": "The audience consisted mainly of university students.",
+    "category": "Inter 2E 2F (33-46)"
+  },
+  {
+    "english": "Publicise",
+    "uzbek": "Ommalashtirmoq",
+    "hint": "The company hired an agency to publicise their product.",
+    "category": "Inter 2E 2F (33-46)"
+  },
+  {
+    "english": "Beside",
+    "uzbek": "Yonida",
+    "hint": "He sat beside me during the lecture.",
+    "category": "Inter 2E 2F (33-46)"
+  },
+  {
+    "english": "Addictive",
+    "uzbek": "O'rganib qoladigan",
+    "hint": "Playing this computer game can be very addictive.",
+    "category": "Inter 2E 2F (33-46)"
+  },
+  {
+    "english": "Exhausting",
+    "uzbek": "Juda charchatadigan",
+    "hint": "Running a marathon is an exhausting experience.",
+    "category": "Inter 2E 2F (33-46)"
+  },
+  {
+    "english": "Time-consuming",
+    "uzbek": "Ko'p vaqt oladigan",
+    "hint": "Writing a long report can be very time-consuming.",
+    "category": "Inter 2E 2F (33-46)"
+  },
+  {
+    "english": "Appeal",
+    "uzbek": "Jalb qilmoq",
+    "hint": "The new design will appeal to younger buyers.",
+    "category": "Inter 2E 2F (33-46)"
+  },
+  {
+    "english": "For a while",
+    "uzbek": "Biroz vaqtga",
+    "hint": "We rested for a while before continuing our walk.",
+    "category": "Inter 2E 2F (47-61)"
+  },
+  {
+    "english": "Geocaching",
+    "uzbek": "Geokething (GPS orqali yashirin buyumlarni izlash)",
+    "hint": "They enjoy geocaching on weekend trips in the forest.",
+    "category": "Inter 2E 2F (47-61)"
+  },
+  {
+    "english": "Lead",
+    "uzbek": "Boshlamoq / Olib kelmoq",
+    "hint": "All these clues lead to the same answer.",
+    "category": "Inter 2E 2F (47-61)"
+  },
+  {
+    "english": "Literally",
+    "uzbek": "So'zma-so'z / So'zning to'g'ri ma'nosida",
+    "hint": "The word literally means taking something word for word.",
+    "category": "Inter 2E 2F (47-61)"
+  },
+  {
+    "english": "Wherever",
+    "uzbek": "Qayerda bo'lmasin",
+    "hint": "You can sit wherever you like in the room.",
+    "category": "Inter 2E 2F (47-61)"
+  },
+  {
+    "english": "Exist",
+    "uzbek": "Mavjud bo'lmoq",
+    "hint": "Do you believe extraterrestrial life could exist?",
+    "category": "Inter 2E 2F (47-61)"
+  },
+  {
+    "english": "Contain",
+    "uzbek": "O'z ichiga olmoq",
+    "hint": "The box does not contain any fragile items.",
+    "category": "Inter 2E 2F (47-61)"
+  },
+  {
+    "english": "Remote",
+    "uzbek": "Olis / Uzoq",
+    "hint": "They live in a remote village high in the mountains.",
+    "category": "Inter 2E 2F (47-61)"
+  },
+  {
+    "english": "Provide",
+    "uzbek": "Ta'minlamoq",
+    "hint": "The school provides free books to all students.",
+    "category": "Inter 2E 2F (47-61)"
+  },
+  {
+    "english": "Variation",
+    "uzbek": "Xillik / Tur",
+    "hint": "There is some variation in temperature throughout the day.",
+    "category": "Inter 2E 2F (47-61)"
+  },
+  {
+    "english": "Co-ordinate",
+    "uzbek": "Muvofiqlashtirmoq",
+    "hint": "We need to co-ordinate our efforts to finish faster.",
+    "category": "Inter 2E 2F (47-61)"
+  },
+  {
+    "english": "Capture",
+    "uzbek": "Qo'lga olmoq / Egallamoq",
+    "hint": "The photographer managed to capture a stunning photo.",
+    "category": "Inter 2E 2F (47-61)"
+  },
+  {
+    "english": "Fumble",
+    "uzbek": "Paypaslamoq",
+    "hint": "He began to fumble in his pockets for the keys.",
+    "category": "Inter 2E 2F (47-61)"
+  },
+  {
+    "english": "Head outside",
+    "uzbek": "Tashqariga chiqmoq",
+    "hint": "Let's head outside and enjoy the fresh air.",
+    "category": "Inter 2E 2F (47-61)"
+  },
+  {
+    "english": "Darkness",
+    "uzbek": "Qorong'ilik",
+    "hint": "She stepped out into the pitch darkness.",
+    "category": "Inter 2E 2F (47-61)"
+  }
+]
