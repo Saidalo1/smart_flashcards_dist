@@ -1,0 +1,344 @@
+[
+  {
+    "english": "Ankle",
+    "uzbek": "To'piq",
+    "hint": "He twisted his ankle while playing football.",
+    "category": "Inter 3A (1-15)"
+  },
+  {
+    "english": "Blood",
+    "uzbek": "Qon",
+    "hint": "The doctor took a sample of her blood.",
+    "category": "Inter 3A (1-15)"
+  },
+  {
+    "english": "Bottom",
+    "uzbek": "Orqa qism",
+    "hint": "He sat down on the bottom step of the stairs.",
+    "category": "Inter 3A (1-15)"
+  },
+  {
+    "english": "Brain",
+    "uzbek": "Miya",
+    "hint": "The human brain controls memory and thinking.",
+    "category": "Inter 3A (1-15)"
+  },
+  {
+    "english": "Calf",
+    "uzbek": "Boldir",
+    "hint": "He felt a sudden pain in his calf muscle while running.",
+    "category": "Inter 3A (1-15)"
+  },
+  {
+    "english": "Cheek",
+    "uzbek": "Yonoq",
+    "hint": "A tear rolled down her cheek.",
+    "category": "Inter 3A (1-15)"
+  },
+  {
+    "english": "Chin",
+    "uzbek": "Iyak",
+    "hint": "He rested his chin in his hands while thinking.",
+    "category": "Inter 3A (1-15)"
+  },
+  {
+    "english": "Elbow",
+    "uzbek": "Tirsak",
+    "hint": "She leaned her elbows on the table.",
+    "category": "Inter 3A (1-15)"
+  },
+  {
+    "english": "Eyebrow",
+    "uzbek": "Qosh",
+    "hint": "He raised his eyebrows in surprise.",
+    "category": "Inter 3A (1-15)"
+  },
+  {
+    "english": "Eyelid",
+    "uzbek": "Ko'z qovog'i",
+    "hint": "Her eyelids felt heavy as she fell asleep.",
+    "category": "Inter 3A (1-15)"
+  },
+  {
+    "english": "Forehead",
+    "uzbek": "Peshona",
+    "hint": "He wiped sweat off his forehead.",
+    "category": "Inter 3A (1-15)"
+  },
+  {
+    "english": "Heart",
+    "uzbek": "Yurak",
+    "hint": "Regular exercise is good for your heart.",
+    "category": "Inter 3A (1-15)"
+  },
+  {
+    "english": "Hip",
+    "uzbek": "Biqin",
+    "hint": "She stood with her hands on her hips.",
+    "category": "Inter 3A (1-15)"
+  },
+  {
+    "english": "Intestine",
+    "uzbek": "Ichak",
+    "hint": "Food moves from the stomach into the intestine.",
+    "category": "Inter 3A (1-15)"
+  },
+  {
+    "english": "Jaw",
+    "uzbek": "Jag'",
+    "hint": "He fractured his jaw in a collision.",
+    "category": "Inter 3A (1-15)"
+  },
+  {
+    "english": "Kidney",
+    "uzbek": "Buyrak",
+    "hint": "The kidneys help remove waste from the body.",
+    "category": "Inter 3A (16-30)"
+  },
+  {
+    "english": "Knee",
+    "uzbek": "Tizza",
+    "hint": "He fell down and hurt his left knee.",
+    "category": "Inter 3A (16-30)"
+  },
+  {
+    "english": "Lip",
+    "uzbek": "Lab",
+    "hint": "She bit her lip nervously before speaking.",
+    "category": "Inter 3A (16-30)"
+  },
+  {
+    "english": "Lungs",
+    "uzbek": "O'pka",
+    "hint": "Deep breathing helps bring oxygen into your lungs.",
+    "category": "Inter 3A (16-30)"
+  },
+  {
+    "english": "Muscle",
+    "uzbek": "Mushak",
+    "hint": "Working out builds strong muscle.",
+    "category": "Inter 3A (16-30)"
+  },
+  {
+    "english": "Nail",
+    "uzbek": "Tirnoq",
+    "hint": "Keep your nails clean and short.",
+    "category": "Inter 3A (16-30)"
+  },
+  {
+    "english": "Rib",
+    "uzbek": "Qovurg'a",
+    "hint": "The ribs protect your heart and lungs.",
+    "category": "Inter 3A (16-30)"
+  },
+  {
+    "english": "Scalp",
+    "uzbek": "Bosh terisi",
+    "hint": "Gentle massage helps improve blood flow to the scalp.",
+    "category": "Inter 3A (16-30)"
+  },
+  {
+    "english": "Shin",
+    "uzbek": "Boldir",
+    "hint": "Soccer players wear pads to protect their shins.",
+    "category": "Inter 3A (16-30)"
+  },
+  {
+    "english": "Shoulder",
+    "uzbek": "Yelka",
+    "hint": "He carried his heavy backpack over one shoulder.",
+    "category": "Inter 3A (16-30)"
+  },
+  {
+    "english": "Skin",
+    "uzbek": "Teri",
+    "hint": "Drink plenty of water to keep your skin healthy.",
+    "category": "Inter 3A (16-30)"
+  },
+  {
+    "english": "Skull",
+    "uzbek": "Bosh suyagi",
+    "hint": "The skull protects the brain from injuries.",
+    "category": "Inter 3A (16-30)"
+  },
+  {
+    "english": "Spine",
+    "uzbek": "Umurtqa",
+    "hint": "Good posture keeps your spine healthy.",
+    "category": "Inter 3A (16-30)"
+  },
+  {
+    "english": "Stomach",
+    "uzbek": "Oshqozon",
+    "hint": "He had a sharp pain in his stomach after eating.",
+    "category": "Inter 3A (16-30)"
+  },
+  {
+    "english": "Thigh",
+    "uzbek": "Son",
+    "hint": "The runner pulled a muscle in his thigh.",
+    "category": "Inter 3A (16-30)"
+  },
+  {
+    "english": "Throat",
+    "uzbek": "Tamoq",
+    "hint": "Drink hot tea if you have a sore throat.",
+    "category": "Inter 3A (31-45)"
+  },
+  {
+    "english": "Thumb",
+    "uzbek": "Bosh barmoq",
+    "hint": "He accidentally hit his thumb with a hammer.",
+    "category": "Inter 3A (31-45)"
+  },
+  {
+    "english": "Toe",
+    "uzbek": "Oyoq barmog'i",
+    "hint": "She stubbed her big toe against the chair leg.",
+    "category": "Inter 3A (31-45)"
+  },
+  {
+    "english": "Waist",
+    "uzbek": "Bel",
+    "hint": "He fastened the belt securely around his waist.",
+    "category": "Inter 3A (31-45)"
+  },
+  {
+    "english": "Wrist",
+    "uzbek": "Bilak",
+    "hint": "She wears a smart watch on her left wrist.",
+    "category": "Inter 3A (31-45)"
+  },
+  {
+    "english": "Bone",
+    "uzbek": "Suyak",
+    "hint": "Calcium helps keep your bones strong.",
+    "category": "Inter 3A (31-45)"
+  },
+  {
+    "english": "Average",
+    "uzbek": "O'rtacha",
+    "hint": "The average height of men in the region has increased.",
+    "category": "Inter 3A (31-45)"
+  },
+  {
+    "english": "Thickness",
+    "uzbek": "Qalinlik",
+    "hint": "The thickness of the wall helps reduce noise.",
+    "category": "Inter 3A (31-45)"
+  },
+  {
+    "english": "Treatment",
+    "uzbek": "Muolaja / davo",
+    "hint": "The patient responded very well to medical treatment.",
+    "category": "Inter 3A (31-45)"
+  },
+  {
+    "english": "Antibiotics",
+    "uzbek": "Antibiotik",
+    "hint": "The doctor prescribed antibiotics to cure the infection.",
+    "category": "Inter 3A (31-45)"
+  },
+  {
+    "english": "Bandage",
+    "uzbek": "Bint",
+    "hint": "The nurse wrapped a clean bandage around the cut.",
+    "category": "Inter 3A (31-45)"
+  },
+  {
+    "english": "Cream",
+    "uzbek": "Krem",
+    "hint": "Apply this antiseptic cream to the burn.",
+    "category": "Inter 3A (31-45)"
+  },
+  {
+    "english": "Dressing",
+    "uzbek": "Bint bilan bog'lab qo'ymoq",
+    "hint": "Change the surgical dressing twice a day.",
+    "category": "Inter 3A (31-45)"
+  },
+  {
+    "english": "Medicine",
+    "uzbek": "Dori",
+    "hint": "Take your medicine with a glass of water.",
+    "category": "Inter 3A (31-45)"
+  },
+  {
+    "english": "Painkillers",
+    "uzbek": "Og'riq qoldiruvchi dorilar",
+    "hint": "She took painkillers to soothe the back pain.",
+    "category": "Inter 3A (31-45)"
+  },
+  {
+    "english": "X-ray",
+    "uzbek": "Rentgen",
+    "hint": "The X-ray showed that no bones were broken.",
+    "category": "Inter 3A (46-57)"
+  },
+  {
+    "english": "Twist",
+    "uzbek": "Qayirib olmoq",
+    "hint": "Be careful not to twist your ankle on the stairs.",
+    "category": "Inter 3A (46-57)"
+  },
+  {
+    "english": "Swollen",
+    "uzbek": "Ishib qolgan",
+    "hint": "His knee became swollen after the fall.",
+    "category": "Inter 3A (46-57)"
+  },
+  {
+    "english": "Accident",
+    "uzbek": "Baxtsiz hodisa",
+    "hint": "He was lucky to escape the car accident without injuries.",
+    "category": "Inter 3A (46-57)"
+  },
+  {
+    "english": "Sprain",
+    "uzbek": "Paylarni shikastlamoq",
+    "hint": "He sprained his wrist while playing basketball.",
+    "category": "Inter 3A (46-57)"
+  },
+  {
+    "english": "Bang",
+    "uzbek": "Urilmoq",
+    "hint": "He accidentally banged his head against the cupboard.",
+    "category": "Inter 3A (46-57)"
+  },
+  {
+    "english": "Trip over",
+    "uzbek": "Qoqolib tushmoq",
+    "hint": "Watch out or you will trip over that wire.",
+    "category": "Inter 3A (46-57)"
+  },
+  {
+    "english": "Trap",
+    "uzbek": "Urib olmoq",
+    "hint": "He trapped his fingers in the car door.",
+    "category": "Inter 3A (46-57)"
+  },
+  {
+    "english": "Bruise",
+    "uzbek": "Ko'kargan joy",
+    "hint": "She had a large bruise on her leg.",
+    "category": "Inter 3A (46-57)"
+  },
+  {
+    "english": "Burn",
+    "uzbek": "Kuydirmoq / kuyish",
+    "hint": "He got a minor burn while cooking dinner.",
+    "category": "Inter 3A (46-57)"
+  },
+  {
+    "english": "Nosebleed",
+    "uzbek": "Burundan qon ketishi",
+    "hint": "Pinch your nose if you have a nosebleed.",
+    "category": "Inter 3A (46-57)"
+  },
+  {
+    "english": "A black eye",
+    "uzbek": "Ko'karib qolgan ko'z",
+    "hint": "He ended up with a black eye after the boxing match.",
+    "category": "Inter 3A (46-57)"
+  }
+]
