@@ -142,6 +142,11 @@
           "id": "inter-3a",
           "name": "Inter 3A",
           "words": 57
+        },
+        {
+          "id": "inter-3b-3c",
+          "name": "Inter 3B 3C",
+          "words": 44
         }
       ]
     },
