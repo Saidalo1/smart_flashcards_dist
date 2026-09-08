@@ -1,0 +1,200 @@
+[
+  {
+    "english": "Variety",
+    "uzbek": "Xilma-xillik",
+    "hint": "There is a wide variety of food here.",
+    "category": "Inter 4B 4C (1-15)"
+  },
+  {
+    "english": "So far",
+    "uzbek": "Shu paytgacha, hozirgacha",
+    "hint": "So far, everything is going well.",
+    "category": "Inter 4B 4C (1-15)"
+  },
+  {
+    "english": "Rent",
+    "uzbek": "Ijara haqi",
+    "hint": "The rent for this flat is too high.",
+    "category": "Inter 4B 4C (1-15)"
+  },
+  {
+    "english": "Afford",
+    "uzbek": "Qurbi yetmoq",
+    "hint": "I can't afford a new car.",
+    "category": "Inter 4B 4C (1-15)"
+  },
+  {
+    "english": "Seem",
+    "uzbek": "Tuyulmoq",
+    "hint": "She seems tired today.",
+    "category": "Inter 4B 4C (1-15)"
+  },
+  {
+    "english": "Bill",
+    "uzbek": "Xisob",
+    "hint": "Can I have the bill, please?",
+    "category": "Inter 4B 4C (1-15)"
+  },
+  {
+    "english": "Homeless",
+    "uzbek": "Uysiz",
+    "hint": "The charity helps homeless people.",
+    "category": "Inter 4B 4C (1-15)"
+  },
+  {
+    "english": "Slogan",
+    "uzbek": "Shior",
+    "hint": "The company created a catchy slogan.",
+    "category": "Inter 4B 4C (1-15)"
+  },
+  {
+    "english": "To give smb a hand",
+    "uzbek": "yordam bermoq",
+    "hint": "Can you give me a hand with these boxes?",
+    "category": "Inter 4B 4C (1-15)"
+  },
+  {
+    "english": "To turn a blind eye to smth",
+    "uzbek": "ko'z yummoq",
+    "hint": "The teacher turned a blind eye to the mistake.",
+    "category": "Inter 4B 4C (1-15)"
+  },
+  {
+    "english": "To make a big effort",
+    "uzbek": "juda harakat qilmoq",
+    "hint": "He made a big effort to finish on time.",
+    "category": "Inter 4B 4C (1-15)"
+  },
+  {
+    "english": "To have the time of your life",
+    "uzbek": "juda zavqlanmoq",
+    "hint": "We had the time of our lives on holiday.",
+    "category": "Inter 4B 4C (1-15)"
+  },
+  {
+    "english": "To have a word with smb",
+    "uzbek": "kimdur bilan gaplashmoq",
+    "hint": "I need to have a word with you.",
+    "category": "Inter 4B 4C (1-15)"
+  },
+  {
+    "english": "To get in touch with smb",
+    "uzbek": "kimdur bilan bog'lanmoq",
+    "hint": "Please get in touch with me soon.",
+    "category": "Inter 4B 4C (1-15)"
+  },
+  {
+    "english": "Sleep out",
+    "uzbek": "tashqarida uxlamoq",
+    "hint": "The campers slept out under the stars.",
+    "category": "Inter 4B 4C (1-15)"
+  },
+  {
+    "english": "Publicise",
+    "uzbek": "Ommalashtirmoq, oshkora qilmoq",
+    "hint": "They publicised the event on social media.",
+    "category": "Inter 4B 4C (16-30)"
+  },
+  {
+    "english": "Clue",
+    "uzbek": "Yordamchi so'z, ishora",
+    "hint": "The police found an important clue.",
+    "category": "Inter 4B 4C (16-30)"
+  },
+  {
+    "english": "Increase sharply",
+    "uzbek": "Keskin ortmoq",
+    "hint": "Prices increased sharply last year.",
+    "category": "Inter 4B 4C (16-30)"
+  },
+  {
+    "english": "Offer/Require assistance",
+    "uzbek": "Yordam taklif qilmoq / talab qilmoq",
+    "hint": "The staff offer assistance to visitors.",
+    "category": "Inter 4B 4C (16-30)"
+  },
+  {
+    "english": "A high priority",
+    "uzbek": "Yuqori ustuvorlik",
+    "hint": "Safety is a high priority.",
+    "category": "Inter 4B 4C (16-30)"
+  },
+  {
+    "english": "Make a proposal",
+    "uzbek": "Taklif qilmoq",
+    "hint": "She made a proposal to the committee.",
+    "category": "Inter 4B 4C (16-30)"
+  },
+  {
+    "english": "Currently",
+    "uzbek": "Hozirda",
+    "hint": "He is currently living in London.",
+    "category": "Inter 4B 4C (16-30)"
+  },
+  {
+    "english": "Gain employment",
+    "uzbek": "Ish bilan ta'minlanmoq",
+    "hint": "Many graduates gain employment quickly.",
+    "category": "Inter 4B 4C (16-30)"
+  },
+  {
+    "english": "Sleep rough",
+    "uzbek": "ko'chada uxlamoq",
+    "hint": "Some people are forced to sleep rough.",
+    "category": "Inter 4B 4C (16-30)"
+  },
+  {
+    "english": "Majority",
+    "uzbek": "Ko'pchilik",
+    "hint": "The majority of students passed.",
+    "category": "Inter 4B 4C (16-30)"
+  },
+  {
+    "english": "Unable",
+    "uzbek": "Layoqatsiz, qodir emas",
+    "hint": "He was unable to attend the meeting.",
+    "category": "Inter 4B 4C (16-30)"
+  },
+  {
+    "english": "Tackle",
+    "uzbek": "hal qilmoq, kurashmoq",
+    "hint": "We must tackle this problem together.",
+    "category": "Inter 4B 4C (16-30)"
+  },
+  {
+    "english": "Raise money",
+    "uzbek": "Pul yig'moq",
+    "hint": "They raised money for charity.",
+    "category": "Inter 4B 4C (16-30)"
+  },
+  {
+    "english": "Remind",
+    "uzbek": "Eslatmoq",
+    "hint": "Please remind me to call her.",
+    "category": "Inter 4B 4C (16-30)"
+  },
+  {
+    "english": "Audience",
+    "uzbek": "Tomoshabin",
+    "hint": "The audience applauded loudly.",
+    "category": "Inter 4B 4C (16-30)"
+  },
+  {
+    "english": "Youth hostel",
+    "uzbek": "arzon yotoqxona",
+    "hint": "We stayed in a youth hostel.",
+    "category": "Inter 4B 4C (31-33)"
+  },
+  {
+    "english": "City council",
+    "uzbek": "Shahar kengashi",
+    "hint": "The city council approved the plan.",
+    "category": "Inter 4B 4C (31-33)"
+  },
+  {
+    "english": "Hygiene",
+    "uzbek": "Gigiena",
+    "hint": "Good hygiene prevents illness.",
+    "category": "Inter 4B 4C (31-33)"
+  }
+]
