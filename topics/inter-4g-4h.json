@@ -183,54 +183,60 @@
     "english": "Wardrobe",
     "uzbek": "Kiyim shkafi",
     "hint": "Hang your dress in the wardrobe.",
-    "category": "Inter 4G 4H (31-39)"
+    "category": "Inter 4G 4H (31-40)"
   },
   {
     "english": "Bright",
     "uzbek": "Yorqin",
     "hint": "The room was bright and sunny.",
-    "category": "Inter 4G 4H (31-39)"
+    "category": "Inter 4G 4H (31-40)"
   },
   {
     "english": "Whereas",
     "uzbek": "Holbuki",
     "hint": "He is quiet, whereas his brother is loud.",
-    "category": "Inter 4G 4H (31-39)"
+    "category": "Inter 4G 4H (31-40)"
   },
   {
     "english": "Unless",
     "uzbek": "If not",
     "hint": "We won't go unless it stops raining.",
-    "category": "Inter 4G 4H (31-39)"
+    "category": "Inter 4G 4H (31-40)"
   },
   {
     "english": "Cosy",
     "uzbek": "Qulay",
     "hint": "The little cottage felt warm and cosy.",
-    "category": "Inter 4G 4H (31-39)"
+    "category": "Inter 4G 4H (31-40)"
   },
   {
     "english": "Gain",
     "uzbek": "Get",
     "hint": "You will gain a lot from this course.",
-    "category": "Inter 4G 4H (31-39)"
+    "category": "Inter 4G 4H (31-40)"
   },
   {
     "english": "Evidence",
     "uzbek": "Dalil",
     "hint": "The police found new evidence.",
-    "category": "Inter 4G 4H (31-39)"
+    "category": "Inter 4G 4H (31-40)"
   },
   {
     "english": "Permission",
     "uzbek": "Ruxsat",
     "hint": "You need permission to leave early.",
-    "category": "Inter 4G 4H (31-39)"
+    "category": "Inter 4G 4H (31-40)"
   },
   {
     "english": "Preference",
     "uzbek": "Afzallik",
     "hint": "Do you have a preference for tea or coffee?",
-    "category": "Inter 4G 4H (31-39)"
+    "category": "Inter 4G 4H (31-40)"
+  },
+  {
+    "english": "Scenery",
+    "uzbek": "Manzara",
+    "hint": "The mountain scenery was beautiful.",
+    "category": "Inter 4G 4H (31-40)"
   }
 ]
