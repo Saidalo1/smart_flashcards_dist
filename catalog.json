@@ -6,82 +6,98 @@
         {
           "id": "pre-inter-6a-6b",
           "name": "Pre Inter 6A 6B",
-          "words": 36
+          "words": 36,
+          "version": "b95a373d"
         },
         {
           "id": "pre-inter-6c-6d",
           "name": "Pre Inter 6C 6D",
-          "words": 23
+          "words": 23,
+          "version": "4f852d64"
         },
         {
           "id": "pre-inter-6e-6f",
           "name": "Pre Inter 6E 6F",
-          "words": 50
+          "words": 50,
+          "version": "e76d7b66"
         },
         {
           "id": "pre-inter-6g-6h",
           "name": "Pre Inter 6G 6H",
-          "words": 50
+          "words": 50,
+          "version": "ff244ff6"
         },
         {
           "id": "pre-inter-7a",
           "name": "Pre Inter 7A",
-          "words": 35
+          "words": 35,
+          "version": "69155723"
         },
         {
           "id": "pre-inter-7c-7d",
           "name": "Pre Inter 7C 7D",
-          "words": 50
+          "words": 50,
+          "version": "caecb9ba"
         },
         {
           "id": "pre-inter-7e-7f",
           "name": "Pre Inter 7E 7F",
-          "words": 55
+          "words": 55,
+          "version": "e0c5f98a"
         },
         {
           "id": "pre-inter-7g-7h",
           "name": "Pre Inter 7G 7H",
-          "words": 35
+          "words": 35,
+          "version": "20db8f4d"
         },
         {
           "id": "pre-inter-8a-8b",
           "name": "Pre Inter 8A 8B",
-          "words": 55
+          "words": 55,
+          "version": "416f16ab"
         },
         {
           "id": "pre-inter-8c-8d",
           "name": "Pre Inter 8C 8D",
-          "words": 25
+          "words": 25,
+          "version": "334088c4"
         },
         {
           "id": "pre-inter-8e-8f",
           "name": "Pre Inter 8E 8F",
-          "words": 43
+          "words": 43,
+          "version": "ad0b0e00"
         },
         {
           "id": "pre-inter-8g-8h",
           "name": "Pre Inter 8G 8H",
-          "words": 35
+          "words": 35,
+          "version": "153c355e"
         },
         {
           "id": "pre-inter-9a-9b",
           "name": "Pre Inter 9A 9B",
-          "words": 43
+          "words": 43,
+          "version": "9eb9a4a6"
         },
         {
           "id": "pre-inter-9c-9d",
           "name": "Pre Inter 9C 9D",
-          "words": 40
+          "words": 40,
+          "version": "7cb5ccd1"
         },
         {
           "id": "pre-inter-9e-9f",
           "name": "Pre Inter 9E 9F",
-          "words": 39
+          "words": 39,
+          "version": "654835d2"
         },
         {
           "id": "pre-inter-9g-9h",
           "name": "Pre Inter 9G 9H",
-          "words": 43
+          "words": 43,
+          "version": "eef8bb34"
         }
       ]
     },
@@ -91,92 +107,110 @@
         {
           "id": "inter-1a-1b",
           "name": "Inter 1A 1B",
-          "words": 32
+          "words": 32,
+          "version": "d8d179ec"
         },
         {
           "id": "inter-1c-1d",
           "name": "Inter 1C 1D",
-          "words": 40
+          "words": 40,
+          "version": "7984a70b"
         },
         {
           "id": "a-visitor-reading",
           "name": "A Visitor (Reading)",
-          "words": 9
+          "words": 9,
+          "version": "4f1a4266"
         },
         {
           "id": "inter-1e-1f",
           "name": "Inter 1E 1F",
-          "words": 75
+          "words": 75,
+          "version": "738af12e"
         },
         {
           "id": "inter-1g-1h",
           "name": "Inter 1G 1H",
-          "words": 25
+          "words": 25,
+          "version": "200ecf23"
         },
         {
           "id": "inter-2a-2b",
           "name": "Inter 2A 2B",
-          "words": 23
+          "words": 23,
+          "version": "50a96420"
         },
         {
           "id": "inter-2c-2d",
           "name": "Inter 2C 2D",
-          "words": 27
+          "words": 27,
+          "version": "e58ca271"
         },
         {
           "id": "inter-2e-2f",
           "name": "Inter 2E 2F",
-          "words": 61
+          "words": 61,
+          "version": "773a3893"
         },
         {
           "id": "inter-2g-2h",
           "name": "Inter 2G 2H",
-          "words": 25
+          "words": 25,
+          "version": "5e1e927c"
         },
         {
           "id": "myer-and-myer-5",
           "name": "Myer and Myer (5)",
-          "words": 13
+          "words": 13,
+          "version": "088412a4"
         },
         {
           "id": "inter-3a",
           "name": "Inter 3A",
-          "words": 57
+          "words": 57,
+          "version": "0a07b0d8"
         },
         {
           "id": "inter-3b-3c",
           "name": "Inter 3B 3C",
-          "words": 44
+          "words": 44,
+          "version": "20f9aeef"
         },
         {
           "id": "inter-3d-3e",
           "name": "Inter 3D 3E",
-          "words": 35
+          "words": 35,
+          "version": "e5888b08"
         },
         {
           "id": "inter-3f",
           "name": "Inter 3F",
-          "words": 29
+          "words": 29,
+          "version": "05758f7f"
         },
         {
           "id": "inter-4a-4b",
           "name": "Inter 4A 4B",
-          "words": 47
+          "words": 47,
+          "version": "1f2e22d7"
         },
         {
           "id": "inter-4b-4c",
           "name": "Inter 4B 4C",
-          "words": 33
+          "words": 33,
+          "version": "2a357451"
         },
         {
           "id": "inter-4e-4f",
           "name": "Inter 4E 4F",
-          "words": 33
+          "words": 33,
+          "version": "48db44d3"
         },
         {
           "id": "inter-4g-4h",
           "name": "Inter 4G 4H",
-          "words": 40
+          "words": 40,
+          "version": "7e803855"
         }
       ]
     },
@@ -186,27 +220,32 @@
         {
           "id": "irregular-verbs-1-20",
           "name": "Irregular Verbs (1-20)",
-          "words": 20
+          "words": 20,
+          "version": "5ba5f4f7"
         },
         {
           "id": "irregular-verbs-21-40",
           "name": "Irregular Verbs (21-40)",
-          "words": 20
+          "words": 20,
+          "version": "a6d7f559"
         },
         {
           "id": "irregular-verbs-41-60",
           "name": "Irregular Verbs (41-60)",
-          "words": 20
+          "words": 20,
+          "version": "e71e7215"
         },
         {
           "id": "irregular-verbs-61-80",
           "name": "Irregular Verbs (61-80)",
-          "words": 20
+          "words": 20,
+          "version": "5897bb38"
         },
         {
           "id": "irregular-verbs-81-85",
           "name": "Irregular Verbs (81-85)",
-          "words": 5
+          "words": 5,
+          "version": "8d608bb8"
         }
       ]
     }
