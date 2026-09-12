@@ -1,0 +1,284 @@
+[
+  {
+    "english": "Bungalow",
+    "uzbek": "Bir qavatli dacha",
+    "hint": "They live in a small bungalow by the sea.",
+    "category": "Inter 4A 4B (1-15)"
+  },
+  {
+    "english": "Detached house",
+    "uzbek": "Alohida ajratilgan uy",
+    "hint": "A detached house has no shared walls.",
+    "category": "Inter 4A 4B (1-15)"
+  },
+  {
+    "english": "Farmhouse",
+    "uzbek": "Fermadagi uy",
+    "hint": "The old farmhouse stood among the fields.",
+    "category": "Inter 4A 4B (1-15)"
+  },
+  {
+    "english": "Houseboat",
+    "uzbek": "Qayiqli uy",
+    "hint": "They spent the summer on a houseboat.",
+    "category": "Inter 4A 4B (1-15)"
+  },
+  {
+    "english": "Mansion",
+    "uzbek": "Katta uy",
+    "hint": "The film star lives in a huge mansion.",
+    "category": "Inter 4A 4B (1-15)"
+  },
+  {
+    "english": "Mobile home",
+    "uzbek": "Ko'chma uy",
+    "hint": "The family moved into a mobile home.",
+    "category": "Inter 4A 4B (1-15)"
+  },
+  {
+    "english": "Semi-detached house",
+    "uzbek": "Yarim yakka tartibdagi uy",
+    "hint": "They bought a semi-detached house.",
+    "category": "Inter 4A 4B (1-15)"
+  },
+  {
+    "english": "Terraced house",
+    "uzbek": "Qatorli uy",
+    "hint": "She grew up in a terraced house.",
+    "category": "Inter 4A 4B (1-15)"
+  },
+  {
+    "english": "Thatched cottage",
+    "uzbek": "Somonli uy",
+    "hint": "The thatched cottage looked like a fairy tale.",
+    "category": "Inter 4A 4B (1-15)"
+  },
+  {
+    "english": "Villa",
+    "uzbek": "Villa",
+    "hint": "We rented a villa in Spain.",
+    "category": "Inter 4A 4B (1-15)"
+  },
+  {
+    "english": "Attic",
+    "uzbek": "Bolaxona",
+    "hint": "Old boxes are stored in the attic.",
+    "category": "Inter 4A 4B (1-15)"
+  },
+  {
+    "english": "Basement",
+    "uzbek": "Podval",
+    "hint": "The gym is in the basement.",
+    "category": "Inter 4A 4B (1-15)"
+  },
+  {
+    "english": "Cellar",
+    "uzbek": "Yerto'la",
+    "hint": "They keep wine in the cellar.",
+    "category": "Inter 4A 4B (1-15)"
+  },
+  {
+    "english": "Conservatory",
+    "uzbek": "Issiqxona",
+    "hint": "We grow plants in the conservatory.",
+    "category": "Inter 4A 4B (1-15)"
+  },
+  {
+    "english": "Drive",
+    "uzbek": "Yo'lka",
+    "hint": "He parked the car in the drive.",
+    "category": "Inter 4A 4B (1-15)"
+  },
+  {
+    "english": "Extension",
+    "uzbek": "Qo'shimcha bino",
+    "hint": "They built an extension at the back of the house.",
+    "category": "Inter 4A 4B (16-30)"
+  },
+  {
+    "english": "Fence",
+    "uzbek": "Panjara",
+    "hint": "A wooden fence surrounds the garden.",
+    "category": "Inter 4A 4B (16-30)"
+  },
+  {
+    "english": "Flower bed",
+    "uzbek": "A part of a garden where flowers are planted",
+    "hint": "She planted roses in the flower bed.",
+    "category": "Inter 4A 4B (16-30)"
+  },
+  {
+    "english": "Gate",
+    "uzbek": "Darvoza",
+    "hint": "Please close the gate behind you.",
+    "category": "Inter 4A 4B (16-30)"
+  },
+  {
+    "english": "Hall",
+    "uzbek": "Zal/koridor",
+    "hint": "Leave your shoes in the hall.",
+    "category": "Inter 4A 4B (16-30)"
+  },
+  {
+    "english": "Hedge",
+    "uzbek": "Buta",
+    "hint": "A tall hedge separates the two gardens.",
+    "category": "Inter 4A 4B (16-30)"
+  },
+  {
+    "english": "Landing",
+    "uzbek": "Ikki qavatlar orasidagi qo'nish joyi",
+    "hint": "The stairs lead to a small landing.",
+    "category": "Inter 4A 4B (16-30)"
+  },
+  {
+    "english": "Lawn",
+    "uzbek": "Gazon",
+    "hint": "He mows the lawn every weekend.",
+    "category": "Inter 4A 4B (16-30)"
+  },
+  {
+    "english": "Path",
+    "uzbek": "Yo'lka",
+    "hint": "We followed the path through the woods.",
+    "category": "Inter 4A 4B (16-30)"
+  },
+  {
+    "english": "Patio",
+    "uzbek": "Hovli",
+    "hint": "We had dinner on the patio.",
+    "category": "Inter 4A 4B (16-30)"
+  },
+  {
+    "english": "Pond",
+    "uzbek": "Hovuz",
+    "hint": "There are fish in the pond.",
+    "category": "Inter 4A 4B (16-30)"
+  },
+  {
+    "english": "Porch",
+    "uzbek": "Ayvon",
+    "hint": "She waited on the porch.",
+    "category": "Inter 4A 4B (16-30)"
+  },
+  {
+    "english": "Shutters",
+    "uzbek": "Deraza eshigi",
+    "hint": "Close the shutters at night.",
+    "category": "Inter 4A 4B (16-30)"
+  },
+  {
+    "english": "Sliding doors",
+    "uzbek": "Surma eshiklar",
+    "hint": "The room has large sliding doors.",
+    "category": "Inter 4A 4B (16-30)"
+  },
+  {
+    "english": "Beautifully restored",
+    "uzbek": "Chiroyli tarzda qayta tiklangan",
+    "hint": "The old house was beautifully restored.",
+    "category": "Inter 4A 4B (16-30)"
+  },
+  {
+    "english": "Charming",
+    "uzbek": "Maftunkor",
+    "hint": "It's a charming little village.",
+    "category": "Inter 4A 4B (31-45)"
+  },
+  {
+    "english": "Contemporary",
+    "uzbek": "Modern",
+    "hint": "The flat has a contemporary design.",
+    "category": "Inter 4A 4B (31-45)"
+  },
+  {
+    "english": "Conveniently located",
+    "uzbek": "Qulay joylashgan",
+    "hint": "The hotel is conveniently located near the station.",
+    "category": "Inter 4A 4B (31-45)"
+  },
+  {
+    "english": "Cosy",
+    "uzbek": "Shinam",
+    "hint": "The room was small but cosy.",
+    "category": "Inter 4A 4B (31-45)"
+  },
+  {
+    "english": "Cramped",
+    "uzbek": "Tor",
+    "hint": "The office felt cramped and dark.",
+    "category": "Inter 4A 4B (31-45)"
+  },
+  {
+    "english": "Dilapidated",
+    "uzbek": "Yarim xaroba",
+    "hint": "They bought a dilapidated old house.",
+    "category": "Inter 4A 4B (31-45)"
+  },
+  {
+    "english": "Impressive",
+    "uzbek": "Yaxshi taassurot qoldiradigan",
+    "hint": "The view from the top was impressive.",
+    "category": "Inter 4A 4B (31-45)"
+  },
+  {
+    "english": "Peaceful",
+    "uzbek": "Tinch",
+    "hint": "It's a peaceful place to relax.",
+    "category": "Inter 4A 4B (31-45)"
+  },
+  {
+    "english": "Popular area",
+    "uzbek": "Mashhur hudud",
+    "hint": "This is a popular area for tourists.",
+    "category": "Inter 4A 4B (31-45)"
+  },
+  {
+    "english": "Lively",
+    "uzbek": "Gavjum, jonlangan",
+    "hint": "The market was lively and colourful.",
+    "category": "Inter 4A 4B (31-45)"
+  },
+  {
+    "english": "Remote",
+    "uzbek": "Uzoq",
+    "hint": "They live in a remote village.",
+    "category": "Inter 4A 4B (31-45)"
+  },
+  {
+    "english": "Spacious",
+    "uzbek": "Keng",
+    "hint": "The kitchen is bright and spacious.",
+    "category": "Inter 4A 4B (31-45)"
+  },
+  {
+    "english": "Substantial",
+    "uzbek": "Mustahkam",
+    "hint": "The house is built on a substantial stone base.",
+    "category": "Inter 4A 4B (31-45)"
+  },
+  {
+    "english": "Tiny",
+    "uzbek": "Very small",
+    "hint": "They live in a tiny flat.",
+    "category": "Inter 4A 4B (31-45)"
+  },
+  {
+    "english": "Rent",
+    "uzbek": "Ijara haqi",
+    "hint": "The rent is due at the start of the month.",
+    "category": "Inter 4A 4B (31-45)"
+  },
+  {
+    "english": "Bill",
+    "uzbek": "Hisob",
+    "hint": "We paid the electricity bill.",
+    "category": "Inter 4A 4B (46-47)"
+  },
+  {
+    "english": "Property",
+    "uzbek": "Mulk",
+    "hint": "He owns several properties in the city.",
+    "category": "Inter 4A 4B (46-47)"
+  }
+]
