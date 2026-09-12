@@ -211,6 +211,12 @@
           "name": "Inter 4G 4H",
           "words": 40,
           "version": "7e803855"
+        },
+        {
+          "id": "ordinary-aspirin-reading",
+          "name": "Ordinary Aspirin (Reading)",
+          "words": 13,
+          "version": "25ad9a1d"
         }
       ]
     },
