@@ -228,6 +228,12 @@
           "name": "Inter 5E 5F",
           "words": 46,
           "version": "a8893d54"
+        },
+        {
+          "id": "crime-of-the-month-reading",
+          "name": "Crime of the Month (Reading)",
+          "words": 10,
+          "version": "64c27649"
         }
       ]
     },
