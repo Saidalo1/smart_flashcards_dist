@@ -222,6 +222,12 @@
           "name": "Ordinary Aspirin (Reading)",
           "words": 13,
           "version": "25ad9a1d"
+        },
+        {
+          "id": "inter-5e-5f",
+          "name": "Inter 5E 5F",
+          "words": 46,
+          "version": "a8893d54"
         }
       ]
     },
