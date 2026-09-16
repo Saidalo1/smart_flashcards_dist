@@ -230,6 +230,16 @@
           "version": "a8893d54"
         },
         {
+          "id": "inter-5g-5h",
+          "name": "Inter 5G 5H",
+          "words": 64
+        },
+        {
+          "id": "inter-6a-6b",
+          "name": "Inter 6A 6B",
+          "words": 7
+        },
+        {
           "id": "crime-of-the-month-reading",
           "name": "Crime of the Month (Reading)",
           "words": 10,

@@ -1,0 +1,386 @@
+[
+  {
+    "english": "As if",
+    "uzbek": "Go'yoki",
+    "hint": "She acted as if nothing had happened.",
+    "category": "Inter 5G 5H (1-15)"
+  },
+  {
+    "english": "Seem",
+    "uzbek": "Tuyulmoq",
+    "hint": "You seem tired today.",
+    "category": "Inter 5G 5H (1-15)"
+  },
+  {
+    "english": "Typical",
+    "uzbek": "Normal",
+    "hint": "It was a typical rainy morning.",
+    "category": "Inter 5G 5H (1-15)"
+  },
+  {
+    "english": "Primary school",
+    "uzbek": "Boshlang'ich maktab",
+    "hint": "My son started primary school this year.",
+    "category": "Inter 5G 5H (1-15)"
+  },
+  {
+    "english": "At least",
+    "uzbek": "Kamida",
+    "hint": "It will take at least an hour.",
+    "category": "Inter 5G 5H (1-15)"
+  },
+  {
+    "english": "Whereas",
+    "uzbek": "But",
+    "hint": "He likes tea, whereas she prefers coffee.",
+    "category": "Inter 5G 5H (1-15)"
+  },
+  {
+    "english": "Unlike",
+    "uzbek": "Farqli o'laroq",
+    "hint": "Unlike her brother, she is very shy.",
+    "category": "Inter 5G 5H (1-15)"
+  },
+  {
+    "english": "Rather than",
+    "uzbek": "Instead of",
+    "hint": "I'd walk rather than drive.",
+    "category": "Inter 5G 5H (1-15)"
+  },
+  {
+    "english": "Evidence",
+    "uzbek": "Dalil",
+    "hint": "There was no evidence of a crime.",
+    "category": "Inter 5G 5H (1-15)"
+  },
+  {
+    "english": "Internet forum",
+    "uzbek": "an online discussion site",
+    "hint": "He asked the question on an internet forum.",
+    "category": "Inter 5G 5H (1-15)"
+  },
+  {
+    "english": "Contribute",
+    "uzbek": "Hissa qo'shmoq",
+    "hint": "Everyone should contribute to the project.",
+    "category": "Inter 5G 5H (1-15)"
+  },
+  {
+    "english": "Relate",
+    "uzbek": "Bog'liq bo'lmoq",
+    "hint": "This chapter relates to the last one.",
+    "category": "Inter 5G 5H (1-15)"
+  },
+  {
+    "english": "Present (v)",
+    "uzbek": "Taqdim qilmoq",
+    "hint": "She will present the results tomorrow.",
+    "category": "Inter 5G 5H (1-15)"
+  },
+  {
+    "english": "Rely on",
+    "uzbek": "...ga ishonmoq",
+    "hint": "You can rely on me.",
+    "category": "Inter 5G 5H (1-15)"
+  },
+  {
+    "english": "React",
+    "uzbek": "Ta'sirlanmoq",
+    "hint": "How did he react to the news?",
+    "category": "Inter 5G 5H (1-15)"
+  },
+  {
+    "english": "Concession clause",
+    "uzbek": "A sentence that often begins with 'though', 'although', 'even though'",
+    "hint": "A concession clause often begins with 'although'.",
+    "category": "Inter 5G 5H (16-30)"
+  },
+  {
+    "english": "Balanced",
+    "uzbek": "Muvozanatli",
+    "hint": "She gave a balanced opinion.",
+    "category": "Inter 5G 5H (16-30)"
+  },
+  {
+    "english": "Although / Even though / In spite of / Despite",
+    "uzbek": "...ga qaramasdan",
+    "hint": "Despite the rain, we went out.",
+    "category": "Inter 5G 5H (16-30)"
+  },
+  {
+    "english": "Feature",
+    "uzbek": "Xususiyat",
+    "hint": "The phone's best feature is its camera.",
+    "category": "Inter 5G 5H (16-30)"
+  },
+  {
+    "english": "Brief",
+    "uzbek": "Short",
+    "hint": "He gave a brief summary.",
+    "category": "Inter 5G 5H (16-30)"
+  },
+  {
+    "english": "Submit",
+    "uzbek": "Topshirmoq, taqdim qilmoq",
+    "hint": "Please submit your homework by Friday.",
+    "category": "Inter 5G 5H (16-30)"
+  },
+  {
+    "english": "Storage",
+    "uzbek": "Telefon yoki kompyuter xotirasi",
+    "hint": "This phone has lots of storage.",
+    "category": "Inter 5G 5H (16-30)"
+  },
+  {
+    "english": "Massive",
+    "uzbek": "Very big",
+    "hint": "They live in a massive house.",
+    "category": "Inter 5G 5H (16-30)"
+  },
+  {
+    "english": "Get off",
+    "uzbek": "Avoid doing smth",
+    "hint": "It's hard to get off social media.",
+    "category": "Inter 5G 5H (16-30)"
+  },
+  {
+    "english": "Interact with",
+    "uzbek": "Work with",
+    "hint": "The app lets you interact with other users.",
+    "category": "Inter 5G 5H (16-30)"
+  },
+  {
+    "english": "Via",
+    "uzbek": "With",
+    "hint": "We flew to Rome via Paris.",
+    "category": "Inter 5G 5H (16-30)"
+  },
+  {
+    "english": "PC",
+    "uzbek": "Personal computer",
+    "hint": "He fixed my PC yesterday.",
+    "category": "Inter 5G 5H (16-30)"
+  },
+  {
+    "english": "All-in-one",
+    "uzbek": "Hammasi birda",
+    "hint": "It's an all-in-one printer and scanner.",
+    "category": "Inter 5G 5H (16-30)"
+  },
+  {
+    "english": "Widescreen",
+    "uzbek": "Katta ekranli",
+    "hint": "We watched the film on a widescreen TV.",
+    "category": "Inter 5G 5H (16-30)"
+  },
+  {
+    "english": "Up-to-date",
+    "uzbek": "Modern",
+    "hint": "Keep your software up-to-date.",
+    "category": "Inter 5G 5H (16-30)"
+  },
+  {
+    "english": "Second-hand",
+    "uzbek": "Used, not new",
+    "hint": "She bought a second-hand car.",
+    "category": "Inter 5G 5H (31-45)"
+  },
+  {
+    "english": "Wireless",
+    "uzbek": "Simsiz",
+    "hint": "The mouse is wireless.",
+    "category": "Inter 5G 5H (31-45)"
+  },
+  {
+    "english": "Ambition",
+    "uzbek": "Maqsad",
+    "hint": "Her ambition is to become a doctor.",
+    "category": "Inter 5G 5H (31-45)"
+  },
+  {
+    "english": "Cheerfulness",
+    "uzbek": "Quvnoqlik",
+    "hint": "His cheerfulness lifts everyone's mood.",
+    "category": "Inter 5G 5H (31-45)"
+  },
+  {
+    "english": "Enthusiasm",
+    "uzbek": "Ishtiyoq",
+    "hint": "She spoke with great enthusiasm.",
+    "category": "Inter 5G 5H (31-45)"
+  },
+  {
+    "english": "Flexibility",
+    "uzbek": "Moslashuvchanlik",
+    "hint": "The job offers a lot of flexibility.",
+    "category": "Inter 5G 5H (31-45)"
+  },
+  {
+    "english": "Generosity",
+    "uzbek": "Saxiylik",
+    "hint": "Thank you for your generosity.",
+    "category": "Inter 5G 5H (31-45)"
+  },
+  {
+    "english": "Honesty",
+    "uzbek": "Rostgo'ylik",
+    "hint": "I value honesty above all.",
+    "category": "Inter 5G 5H (31-45)"
+  },
+  {
+    "english": "Intelligence",
+    "uzbek": "Aql-idrok",
+    "hint": "The test measures intelligence.",
+    "category": "Inter 5G 5H (31-45)"
+  },
+  {
+    "english": "Loyalty",
+    "uzbek": "Sodiqlik",
+    "hint": "A dog is known for its loyalty.",
+    "category": "Inter 5G 5H (31-45)"
+  },
+  {
+    "english": "Maturity",
+    "uzbek": "Yetuklik",
+    "hint": "She handled it with real maturity.",
+    "category": "Inter 5G 5H (31-45)"
+  },
+  {
+    "english": "Modesty",
+    "uzbek": "Kamtarlik",
+    "hint": "Despite his success, he shows great modesty.",
+    "category": "Inter 5G 5H (31-45)"
+  },
+  {
+    "english": "Patience",
+    "uzbek": "Sabr",
+    "hint": "Teaching requires a lot of patience.",
+    "category": "Inter 5G 5H (31-45)"
+  },
+  {
+    "english": "Punctuality",
+    "uzbek": "O'z vaqtida bo'lishlik",
+    "hint": "Punctuality is important at work.",
+    "category": "Inter 5G 5H (31-45)"
+  },
+  {
+    "english": "Self-confidence",
+    "uzbek": "O'ziga ishonish",
+    "hint": "Sport gave her self-confidence.",
+    "category": "Inter 5G 5H (31-45)"
+  },
+  {
+    "english": "Seriousness",
+    "uzbek": "Jiddiylik",
+    "hint": "He spoke with great seriousness.",
+    "category": "Inter 5G 5H (46-60)"
+  },
+  {
+    "english": "Shyness",
+    "uzbek": "Uyatchanlik",
+    "hint": "She overcame her shyness.",
+    "category": "Inter 5G 5H (46-60)"
+  },
+  {
+    "english": "Sociability",
+    "uzbek": "Xushmuomalalik",
+    "hint": "His sociability makes him popular.",
+    "category": "Inter 5G 5H (46-60)"
+  },
+  {
+    "english": "Stubbornness",
+    "uzbek": "Qaysarlik",
+    "hint": "His stubbornness caused the argument.",
+    "category": "Inter 5G 5H (46-60)"
+  },
+  {
+    "english": "Sympathy",
+    "uzbek": "Hamdardlik",
+    "hint": "She felt sympathy for the victims.",
+    "category": "Inter 5G 5H (46-60)"
+  },
+  {
+    "english": "Thoughtfulness",
+    "uzbek": "O'ychanlik",
+    "hint": "I appreciate your thoughtfulness.",
+    "category": "Inter 5G 5H (46-60)"
+  },
+  {
+    "english": "Disability support worker",
+    "uzbek": "Nogironlar bo'yicha yordamchi xodim",
+    "hint": "She works as a disability support worker.",
+    "category": "Inter 5G 5H (46-60)"
+  },
+  {
+    "english": "Children's entertainer",
+    "uzbek": "Bolalar o'yinchisi",
+    "hint": "They hired a children's entertainer for the party.",
+    "category": "Inter 5G 5H (46-60)"
+  },
+  {
+    "english": "Have a good sense of humour",
+    "uzbek": "Yaxshi hazil tuyg'uga ega bo'lish",
+    "hint": "You need a good sense of humour for this job.",
+    "category": "Inter 5G 5H (46-60)"
+  },
+  {
+    "english": "Show lots of initiative",
+    "uzbek": "Ko'p tashabbus ko'rsatish",
+    "hint": "Good employees show lots of initiative.",
+    "category": "Inter 5G 5H (46-60)"
+  },
+  {
+    "english": "Physical courage",
+    "uzbek": "Jismoniy jasorat",
+    "hint": "Firefighters need physical courage.",
+    "category": "Inter 5G 5H (46-60)"
+  },
+  {
+    "english": "Have lots of common sense",
+    "uzbek": "Juda ko'p sog'lom fikrga ega",
+    "hint": "She has lots of common sense.",
+    "category": "Inter 5G 5H (46-60)"
+  },
+  {
+    "english": "Have no common sense",
+    "uzbek": "Sog'lom fikrga ega emas",
+    "hint": "He has no common sense at all.",
+    "category": "Inter 5G 5H (46-60)"
+  },
+  {
+    "english": "To be good at communicating",
+    "uzbek": "Muloqot qilishda yaxshi bo'lish",
+    "hint": "A teacher must be good at communicating.",
+    "category": "Inter 5G 5H (46-60)"
+  },
+  {
+    "english": "Have good organizational skills",
+    "uzbek": "Yaxshi tashkilotchilik qobiliyatiga ega",
+    "hint": "You need good organizational skills for this role.",
+    "category": "Inter 5G 5H (46-60)"
+  },
+  {
+    "english": "Lack self-confidence",
+    "uzbek": "O'ziga ishonmaslik",
+    "hint": "Many teenagers lack self-confidence.",
+    "category": "Inter 5G 5H (61-64)"
+  },
+  {
+    "english": "Quality",
+    "uzbek": "Sifat",
+    "hint": "This product is of high quality.",
+    "category": "Inter 5G 5H (61-64)"
+  },
+  {
+    "english": "Grocery",
+    "uzbek": "Oziq-ovqat do'koni",
+    "hint": "I stopped at the grocery on the way home.",
+    "category": "Inter 5G 5H (61-64)"
+  },
+  {
+    "english": "Annual",
+    "uzbek": "Yillik",
+    "hint": "The company holds an annual meeting.",
+    "category": "Inter 5G 5H (61-64)"
+  }
+]
