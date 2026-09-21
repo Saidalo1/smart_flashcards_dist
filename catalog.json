@@ -215,40 +215,44 @@
         {
           "id": "inter-5c-5d",
           "name": "Inter 5C 5D",
-          "words": 23
+          "words": 23,
+          "version": "c0901963"
         },
         {
           "id": "ordinary-aspirin-reading",
           "name": "Ordinary Aspirin (Reading)",
           "words": 13,
-          "version": "25ad9a1d"
+          "version": "924c0110"
         },
         {
           "id": "inter-5e-5f",
           "name": "Inter 5E 5F",
           "words": 46,
-          "version": "a8893d54"
+          "version": "e18f7250"
         },
         {
           "id": "inter-5g-5h",
           "name": "Inter 5G 5H",
-          "words": 32
+          "words": 32,
+          "version": "d6685614"
         },
         {
           "id": "inter-6a-6b",
           "name": "Inter 6A 6B",
-          "words": 39
+          "words": 39,
+          "version": "90912b50"
         },
         {
           "id": "inter-6c-6f",
           "name": "Inter 6C 6F",
-          "words": 45
+          "words": 45,
+          "version": "7ca5f925"
         },
         {
           "id": "crime-of-the-month-reading",
           "name": "Crime of the Month (Reading)",
           "words": 10,
-          "version": "64c27649"
+          "version": "19287fde"
         }
       ]
     },

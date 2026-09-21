@@ -55,13 +55,13 @@
   },
   {
     "english": "Contrast",
-    "uzbek": "Compare",
+    "uzbek": "Solishtirmoq",
     "hint": "Contrast the two ideas.",
     "category": "Inter 6C 6F (1-15)"
   },
   {
     "english": "Mind you",
-    "uzbek": "Although",
+    "uzbek": "Lekin",
     "hint": "He's quiet. Mind you, he can be funny.",
     "category": "Inter 6C 6F (1-15)"
   },
@@ -91,7 +91,7 @@
   },
   {
     "english": "Trouble",
-    "uzbek": "Problem",
+    "uzbek": "Muammo",
     "hint": "We ran into trouble on the way.",
     "category": "Inter 6C 6F (16-30)"
   },
@@ -127,7 +127,7 @@
   },
   {
     "english": "Amusing",
-    "uzbek": "Funny",
+    "uzbek": "Kulgili",
     "hint": "It was an amusing story.",
     "category": "Inter 6C 6F (16-30)"
   },
@@ -145,31 +145,31 @@
   },
   {
     "english": "Appeal to",
-    "uzbek": "Attract",
+    "uzbek": "Jalb qilmoq",
     "hint": "This ad appeals to young people.",
     "category": "Inter 6C 6F (16-30)"
   },
   {
     "english": "Reject",
-    "uzbek": "Refuse",
+    "uzbek": "Rad etmoq",
     "hint": "They rejected his offer.",
     "category": "Inter 6C 6F (16-30)"
   },
   {
     "english": "Misspell",
-    "uzbek": "Spell wrongly",
+    "uzbek": "Xato yozmoq",
     "hint": "Don't misspell your own name.",
     "category": "Inter 6C 6F (16-30)"
   },
   {
     "english": "Likely",
-    "uzbek": "Possible",
+    "uzbek": "Ehtimol",
     "hint": "It's likely to rain today.",
     "category": "Inter 6C 6F (16-30)"
   },
   {
     "english": "Rather than",
-    "uzbek": "Instead of",
+    "uzbek": "...o'rniga",
     "hint": "I'd walk rather than drive.",
     "category": "Inter 6C 6F (16-30)"
   },
@@ -199,13 +199,13 @@
   },
   {
     "english": "Respond",
-    "uzbek": "Reply",
+    "uzbek": "Javob bermoq",
     "hint": "Please respond to my email.",
     "category": "Inter 6C 6F (31-45)"
   },
   {
     "english": "Build up",
-    "uzbek": "Increase",
+    "uzbek": "Ortib bormoq",
     "hint": "Traffic builds up in the morning.",
     "category": "Inter 6C 6F (31-45)"
   },
@@ -217,13 +217,13 @@
   },
   {
     "english": "Enormous",
-    "uzbek": "Very big",
+    "uzbek": "Ulkan",
     "hint": "They live in an enormous house.",
     "category": "Inter 6C 6F (31-45)"
   },
   {
     "english": "Employee",
-    "uzbek": "Worker",
+    "uzbek": "Xodim",
     "hint": "She is a hard-working employee.",
     "category": "Inter 6C 6F (31-45)"
   },
