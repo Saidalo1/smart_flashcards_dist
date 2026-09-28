@@ -1,0 +1,206 @@
+[
+  {
+    "english": "Mind (v)",
+    "uzbek": "Qarshi fikr bildirmoq",
+    "hint": "Do you mind if I open the window?",
+    "category": "Inter 8A 8B (1-15)"
+  },
+  {
+    "english": "Rely on",
+    "uzbek": "...ga ishonmoq/tayanmoq",
+    "hint": "You can rely on me.",
+    "category": "Inter 8A 8B (1-15)"
+  },
+  {
+    "english": "Mistake",
+    "uzbek": "Yanglishmoq",
+    "hint": "Everyone makes mistakes.",
+    "category": "Inter 8A 8B (1-15)"
+  },
+  {
+    "english": "Top up",
+    "uzbek": "(Hisobni) to'ldirmoq",
+    "hint": "I need to top up my phone.",
+    "category": "Inter 8A 8B (1-15)"
+  },
+  {
+    "english": "Receive",
+    "uzbek": "Olmoq",
+    "hint": "Did you receive my message?",
+    "category": "Inter 8A 8B (1-15)"
+  },
+  {
+    "english": "Recharge",
+    "uzbek": "Qayta zaryadlamoq",
+    "hint": "Recharge the battery overnight.",
+    "category": "Inter 8A 8B (1-15)"
+  },
+  {
+    "english": "Voicemail",
+    "uzbek": "Ovozli xabar",
+    "hint": "She left a voicemail.",
+    "category": "Inter 8A 8B (1-15)"
+  },
+  {
+    "english": "Leave a message",
+    "uzbek": "Xabar qoldirmoq",
+    "hint": "Please leave a message after the beep.",
+    "category": "Inter 8A 8B (1-15)"
+  },
+  {
+    "english": "Disable",
+    "uzbek": "O'chirmoq",
+    "hint": "Disable notifications to focus.",
+    "category": "Inter 8A 8B (1-15)"
+  },
+  {
+    "english": "Enable",
+    "uzbek": "Yoqmoq",
+    "hint": "Enable the microphone in settings.",
+    "category": "Inter 8A 8B (1-15)"
+  },
+  {
+    "english": "Loudspeaker",
+    "uzbek": "Karnay",
+    "hint": "He put the call on loudspeaker.",
+    "category": "Inter 8A 8B (1-15)"
+  },
+  {
+    "english": "Run out of",
+    "uzbek": "Tugab qolmoq",
+    "hint": "We ran out of milk.",
+    "category": "Inter 8A 8B (1-15)"
+  },
+  {
+    "english": "Get through (to smn)",
+    "uzbek": "Aloqaga chiqmoq",
+    "hint": "I couldn't get through to her.",
+    "category": "Inter 8A 8B (1-15)"
+  },
+  {
+    "english": "Pick up the phone",
+    "uzbek": "Telefonga javob bermoq",
+    "hint": "Please pick up the phone.",
+    "category": "Inter 8A 8B (1-15)"
+  },
+  {
+    "english": "Switch off",
+    "uzbek": "O'chirmoq",
+    "hint": "Switch off the TV before bed.",
+    "category": "Inter 8A 8B (1-15)"
+  },
+  {
+    "english": "Switch on",
+    "uzbek": "Yoqmoq",
+    "hint": "Switch on the lights.",
+    "category": "Inter 8A 8B (16-30)"
+  },
+  {
+    "english": "Speak up",
+    "uzbek": "Balandroq gapirmoq",
+    "hint": "Could you speak up, please?",
+    "category": "Inter 8A 8B (16-30)"
+  },
+  {
+    "english": "Cut smb off",
+    "uzbek": "Suhbatni uzib qo'ymoq",
+    "hint": "We got cut off during the call.",
+    "category": "Inter 8A 8B (16-30)"
+  },
+  {
+    "english": "Hang up",
+    "uzbek": "Go'shakni qo'ymoq",
+    "hint": "Don't hang up yet.",
+    "category": "Inter 8A 8B (16-30)"
+  },
+  {
+    "english": "Get back to smb",
+    "uzbek": "Keyinroq qayta bog'lanmoq",
+    "hint": "I'll get back to you tomorrow.",
+    "category": "Inter 8A 8B (16-30)"
+  },
+  {
+    "english": "Break up",
+    "uzbek": "Aloqa uzilmoq",
+    "hint": "You're breaking up; I can't hear you.",
+    "category": "Inter 8A 8B (16-30)"
+  },
+  {
+    "english": "On average",
+    "uzbek": "O'rtacha",
+    "hint": "On average, he sleeps six hours.",
+    "category": "Inter 8A 8B (16-30)"
+  },
+  {
+    "english": "Twin",
+    "uzbek": "Egizak",
+    "hint": "She has a twin sister.",
+    "category": "Inter 8A 8B (16-30)"
+  },
+  {
+    "english": "Explanation",
+    "uzbek": "Tushuntirish",
+    "hint": "He gave a clear explanation.",
+    "category": "Inter 8A 8B (16-30)"
+  },
+  {
+    "english": "Convince",
+    "uzbek": "Ishontirmoq",
+    "hint": "She convinced me to go.",
+    "category": "Inter 8A 8B (16-30)"
+  },
+  {
+    "english": "Reference",
+    "uzbek": "Havola",
+    "hint": "He made a reference to the report.",
+    "category": "Inter 8A 8B (16-30)"
+  },
+  {
+    "english": "Twist (v)",
+    "uzbek": "(Tana a'zoni) qayirib olmoq",
+    "hint": "She twisted her ankle.",
+    "category": "Inter 8A 8B (16-30)"
+  },
+  {
+    "english": "Weight",
+    "uzbek": "Vazn",
+    "hint": "What is your weight?",
+    "category": "Inter 8A 8B (16-30)"
+  },
+  {
+    "english": "Put on",
+    "uzbek": "Vazn olmoq",
+    "hint": "He put on weight over winter.",
+    "category": "Inter 8A 8B (16-30)"
+  },
+  {
+    "english": "A sharp pain",
+    "uzbek": "To'satdan qattiq og'riq",
+    "hint": "I felt a sharp pain in my back.",
+    "category": "Inter 8A 8B (16-30)"
+  },
+  {
+    "english": "Occasion",
+    "uzbek": "Holat",
+    "hint": "A wedding is a special occasion.",
+    "category": "Inter 8A 8B (31-34)"
+  },
+  {
+    "english": "Thirsty",
+    "uzbek": "Chanqagan",
+    "hint": "I'm really thirsty.",
+    "category": "Inter 8A 8B (31-34)"
+  },
+  {
+    "english": "Per",
+    "uzbek": "Har biriga",
+    "hint": "It costs five dollars per person.",
+    "category": "Inter 8A 8B (31-34)"
+  },
+  {
+    "english": "Landline",
+    "uzbek": "Uy telefoni",
+    "hint": "They still have a landline at home.",
+    "category": "Inter 8A 8B (31-34)"
+  }
+]
