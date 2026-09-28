@@ -1,0 +1,302 @@
+[
+  {
+    "english": "Discussion",
+    "uzbek": "Muhokama",
+    "hint": "We had a long discussion about it.",
+    "category": "Inter 7G 7H (1-15)"
+  },
+  {
+    "english": "Art exhibition",
+    "uzbek": "San'at ko'rgazmasi",
+    "hint": "We visited an art exhibition downtown.",
+    "category": "Inter 7G 7H (1-15)"
+  },
+  {
+    "english": "Circus",
+    "uzbek": "Sirk",
+    "hint": "The children loved the circus.",
+    "category": "Inter 7G 7H (1-15)"
+  },
+  {
+    "english": "Open-air theatre",
+    "uzbek": "Ochiq osmon ostidagi teatr",
+    "hint": "They performed at an open-air theatre.",
+    "category": "Inter 7G 7H (1-15)"
+  },
+  {
+    "english": "Piano recital",
+    "uzbek": "Fortepiano konserti",
+    "hint": "She gave a piano recital last night.",
+    "category": "Inter 7G 7H (1-15)"
+  },
+  {
+    "english": "Concert hall",
+    "uzbek": "Konsert zali",
+    "hint": "The concert hall was full.",
+    "category": "Inter 7G 7H (1-15)"
+  },
+  {
+    "english": "World-famous",
+    "uzbek": "Dunyoga mashhur",
+    "hint": "He is a world-famous singer.",
+    "category": "Inter 7G 7H (1-15)"
+  },
+  {
+    "english": "Privately",
+    "uzbek": "Xususiy",
+    "hint": "They spoke privately after the meeting.",
+    "category": "Inter 7G 7H (1-15)"
+  },
+  {
+    "english": "Item",
+    "uzbek": "Buyum",
+    "hint": "Every item is on sale.",
+    "category": "Inter 7G 7H (1-15)"
+  },
+  {
+    "english": "Penfriend",
+    "uzbek": "Onlayn do'st",
+    "hint": "She has a penfriend in Japan.",
+    "category": "Inter 7G 7H (1-15)"
+  },
+  {
+    "english": "Take smb out",
+    "uzbek": "Sayrga olib chiqmoq",
+    "hint": "He took her out for dinner.",
+    "category": "Inter 7G 7H (1-15)"
+  },
+  {
+    "english": "Outing",
+    "uzbek": "Sayr",
+    "hint": "We went on a family outing.",
+    "category": "Inter 7G 7H (1-15)"
+  },
+  {
+    "english": "To be into smth",
+    "uzbek": "Qiziqmoq",
+    "hint": "He is really into football.",
+    "category": "Inter 7G 7H (1-15)"
+  },
+  {
+    "english": "Can't stand",
+    "uzbek": "Yomon ko'rmoq",
+    "hint": "I can't stand rude people.",
+    "category": "Inter 7G 7H (1-15)"
+  },
+  {
+    "english": "Preference",
+    "uzbek": "Afzallik",
+    "hint": "Do you have a preference?",
+    "category": "Inter 7G 7H (1-15)"
+  },
+  {
+    "english": "To be frank",
+    "uzbek": "Ochig'ini aytsam",
+    "hint": "To be frank, I didn't like it.",
+    "category": "Inter 7G 7H (16-30)"
+  },
+  {
+    "english": "To be blunt",
+    "uzbek": "To'g'risini aytsam",
+    "hint": "To be blunt, the plan won't work.",
+    "category": "Inter 7G 7H (16-30)"
+  },
+  {
+    "english": "Review",
+    "uzbek": "Sharh/Tahlil",
+    "hint": "She wrote a review of the film.",
+    "category": "Inter 7G 7H (16-30)"
+  },
+  {
+    "english": "To target",
+    "uzbek": "Yo'naltirmoq",
+    "hint": "The ad targets teenagers.",
+    "category": "Inter 7G 7H (16-30)"
+  },
+  {
+    "english": "Rest",
+    "uzbek": "Qoldiq/qolgan qismi",
+    "hint": "I'll do the rest tomorrow.",
+    "category": "Inter 7G 7H (16-30)"
+  },
+  {
+    "english": "Appeal to",
+    "uzbek": "Jalb qilmoq",
+    "hint": "This design appeals to children.",
+    "category": "Inter 7G 7H (16-30)"
+  },
+  {
+    "english": "Pun",
+    "uzbek": "So'z o'yini",
+    "hint": "His joke was a clever pun.",
+    "category": "Inter 7G 7H (16-30)"
+  },
+  {
+    "english": "Catch smn's attention",
+    "uzbek": "E'tiborni jalb qilmoq",
+    "hint": "The poster caught my attention.",
+    "category": "Inter 7G 7H (16-30)"
+  },
+  {
+    "english": "Relate",
+    "uzbek": "Bog'liq bo'lmoq",
+    "hint": "This point relates to the topic.",
+    "category": "Inter 7G 7H (16-30)"
+  },
+  {
+    "english": "Snappy",
+    "uzbek": "E'tiborni tezda jalb qiladigan",
+    "hint": "The advert had a snappy slogan.",
+    "category": "Inter 7G 7H (16-30)"
+  },
+  {
+    "english": "Restate",
+    "uzbek": "Qayta ifodalamoq",
+    "hint": "Let me restate the question.",
+    "category": "Inter 7G 7H (16-30)"
+  },
+  {
+    "english": "Background information",
+    "uzbek": "Umumiy ma'lumot",
+    "hint": "The report gives useful background information.",
+    "category": "Inter 7G 7H (16-30)"
+  },
+  {
+    "english": "Put down",
+    "uzbek": "To'xtatib qo'ymoq (kitob o'qishni)",
+    "hint": "I couldn't put the book down.",
+    "category": "Inter 7G 7H (16-30)"
+  },
+  {
+    "english": "Make into",
+    "uzbek": "Aylantirmoq",
+    "hint": "They made the old barn into a house.",
+    "category": "Inter 7G 7H (16-30)"
+  },
+  {
+    "english": "To be set",
+    "uzbek": "Joylashtirmoq",
+    "hint": "The table was set for dinner.",
+    "category": "Inter 7G 7H (16-30)"
+  },
+  {
+    "english": "Compete",
+    "uzbek": "Musobaqalashmoq",
+    "hint": "Ten teams will compete.",
+    "category": "Inter 7G 7H (31-45)"
+  },
+  {
+    "english": "Survive",
+    "uzbek": "Omon qolmoq",
+    "hint": "They survived the storm.",
+    "category": "Inter 7G 7H (31-45)"
+  },
+  {
+    "english": "Twists",
+    "uzbek": "Burilishlar",
+    "hint": "The story has many twists.",
+    "category": "Inter 7G 7H (31-45)"
+  },
+  {
+    "english": "Turns",
+    "uzbek": "Hikoyadagi chekinishlar",
+    "hint": "The plot takes unexpected turns.",
+    "category": "Inter 7G 7H (31-45)"
+  },
+  {
+    "english": "Ending",
+    "uzbek": "Tugash qismi",
+    "hint": "The film has a happy ending.",
+    "category": "Inter 7G 7H (31-45)"
+  },
+  {
+    "english": "Guarantee",
+    "uzbek": "Kafolatlamoq",
+    "hint": "We guarantee fast delivery.",
+    "category": "Inter 7G 7H (31-45)"
+  },
+  {
+    "english": "Identify with smb/smth",
+    "uzbek": "O'zini kimgadir yaqin his qilmoq",
+    "hint": "Readers identify with the hero.",
+    "category": "Inter 7G 7H (31-45)"
+  },
+  {
+    "english": "Gripping",
+    "uzbek": "O'ziga jalb qiluvchi",
+    "hint": "It was a gripping thriller.",
+    "category": "Inter 7G 7H (31-45)"
+  },
+  {
+    "english": "Violence",
+    "uzbek": "Zo'ravonlik",
+    "hint": "The film contains violence.",
+    "category": "Inter 7G 7H (31-45)"
+  },
+  {
+    "english": "Put smn off smth",
+    "uzbek": "Bezdirmoq",
+    "hint": "The smell put me off the food.",
+    "category": "Inter 7G 7H (31-45)"
+  },
+  {
+    "english": "Spoil",
+    "uzbek": "Buzmoq",
+    "hint": "Don't spoil the surprise.",
+    "category": "Inter 7G 7H (31-45)"
+  },
+  {
+    "english": "Enjoyment",
+    "uzbek": "Lazzatlanish",
+    "hint": "She read for pure enjoyment.",
+    "category": "Inter 7G 7H (31-45)"
+  },
+  {
+    "english": "Page-turner",
+    "uzbek": "Qiziqarli kitob",
+    "hint": "This novel is a real page-turner.",
+    "category": "Inter 7G 7H (31-45)"
+  },
+  {
+    "english": "Kid (v)",
+    "uzbek": "Hazillashmoq",
+    "hint": "I'm just kidding.",
+    "category": "Inter 7G 7H (31-45)"
+  },
+  {
+    "english": "Stranded",
+    "uzbek": "Qiyin vaziyatda qolib ketgan",
+    "hint": "We were stranded at the airport.",
+    "category": "Inter 7G 7H (31-45)"
+  },
+  {
+    "english": "Alienation",
+    "uzbek": "Begonalashish",
+    "hint": "He felt a sense of alienation.",
+    "category": "Inter 7G 7H (46-50)"
+  },
+  {
+    "english": "Disillusionment",
+    "uzbek": "Umidsizlanish",
+    "hint": "There was disillusionment after the election.",
+    "category": "Inter 7G 7H (46-50)"
+  },
+  {
+    "english": "Unjust",
+    "uzbek": "Adolatsiz",
+    "hint": "It was an unjust decision.",
+    "category": "Inter 7G 7H (46-50)"
+  },
+  {
+    "english": "Treatment",
+    "uzbek": "Muomala",
+    "hint": "He received fair treatment.",
+    "category": "Inter 7G 7H (46-50)"
+  },
+  {
+    "english": "Unconvincing",
+    "uzbek": "Ishonarli bo'lmagan",
+    "hint": "Her excuse was unconvincing.",
+    "category": "Inter 7G 7H (46-50)"
+  }
+]
