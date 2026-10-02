@@ -1,0 +1,476 @@
+[
+  {
+    "english": "Variety",
+    "uzbek": "Xilma-xillik",
+    "hint": "The shop offers a variety of goods.",
+    "category": "Inter 8E 8F (1-15)"
+  },
+  {
+    "english": "Mistreat",
+    "uzbek": "Yomon muomalada bo'lmoq",
+    "hint": "Never mistreat animals.",
+    "category": "Inter 8E 8F (1-15)"
+  },
+  {
+    "english": "Handwritten",
+    "uzbek": "Qo'lda yozilgan",
+    "hint": "He sent a handwritten letter.",
+    "category": "Inter 8E 8F (1-15)"
+  },
+  {
+    "english": "Accuse",
+    "uzbek": "Ayblamoq",
+    "hint": "Don't accuse me without proof.",
+    "category": "Inter 8E 8F (1-15)"
+  },
+  {
+    "english": "Admit",
+    "uzbek": "Tan olmoq",
+    "hint": "He admitted his mistake.",
+    "category": "Inter 8E 8F (1-15)"
+  },
+  {
+    "english": "Apologise",
+    "uzbek": "Kechirim so'ramoq",
+    "hint": "She apologised for being late.",
+    "category": "Inter 8E 8F (1-15)"
+  },
+  {
+    "english": "Beg",
+    "uzbek": "Yalinmoq",
+    "hint": "They begged for help.",
+    "category": "Inter 8E 8F (1-15)"
+  },
+  {
+    "english": "Persuade",
+    "uzbek": "Ko'ndirmoq",
+    "hint": "I persuaded him to stay.",
+    "category": "Inter 8E 8F (1-15)"
+  },
+  {
+    "english": "Deny",
+    "uzbek": "Inkor qilmoq",
+    "hint": "He denied the accusation.",
+    "category": "Inter 8E 8F (1-15)"
+  },
+  {
+    "english": "Propose",
+    "uzbek": "Taklif qilmoq",
+    "hint": "She proposed a new plan.",
+    "category": "Inter 8E 8F (1-15)"
+  },
+  {
+    "english": "Insist",
+    "uzbek": "Qattiq turib olmoq",
+    "hint": "He insisted on paying.",
+    "category": "Inter 8E 8F (1-15)"
+  },
+  {
+    "english": "Wonder",
+    "uzbek": "Hayratda qolmoq/ajablanmoq",
+    "hint": "I wonder what happened.",
+    "category": "Inter 8E 8F (1-15)"
+  },
+  {
+    "english": "Blame",
+    "uzbek": "Ayblamoq",
+    "hint": "Don't blame yourself.",
+    "category": "Inter 8E 8F (1-15)"
+  },
+  {
+    "english": "Warn",
+    "uzbek": "Ogohlantirmoq",
+    "hint": "They warned us about the storm.",
+    "category": "Inter 8E 8F (1-15)"
+  },
+  {
+    "english": "Stranger",
+    "uzbek": "Begona",
+    "hint": "A stranger asked for directions.",
+    "category": "Inter 8E 8F (1-15)"
+  },
+  {
+    "english": "Note",
+    "uzbek": "Eslatma",
+    "hint": "She left a note on the table.",
+    "category": "Inter 8E 8F (16-30)"
+  },
+  {
+    "english": "Sign",
+    "uzbek": "Belgi",
+    "hint": "Follow the road signs.",
+    "category": "Inter 8E 8F (16-30)"
+  },
+  {
+    "english": "Jog",
+    "uzbek": "Yugurish",
+    "hint": "I jog every morning.",
+    "category": "Inter 8E 8F (16-30)"
+  },
+  {
+    "english": "Frighten",
+    "uzbek": "Qo'rqitmoq",
+    "hint": "The noise frightened the baby.",
+    "category": "Inter 8E 8F (16-30)"
+  },
+  {
+    "english": "Take up",
+    "uzbek": "Nimadur bilan shug'ullanmoq",
+    "hint": "He took up painting.",
+    "category": "Inter 8E 8F (16-30)"
+  },
+  {
+    "english": "Novel",
+    "uzbek": "Roman",
+    "hint": "I'm reading a great novel.",
+    "category": "Inter 8E 8F (16-30)"
+  },
+  {
+    "english": "Digital",
+    "uzbek": "Raqamli",
+    "hint": "We live in a digital world.",
+    "category": "Inter 8E 8F (16-30)"
+  },
+  {
+    "english": "Reading matter",
+    "uzbek": "Adabiyot / o'qish uchun material",
+    "hint": "Bring some reading matter for the trip.",
+    "category": "Inter 8E 8F (16-30)"
+  },
+  {
+    "english": "Biography",
+    "uzbek": "Biografiya (tarjimai hol)",
+    "hint": "She wrote his biography.",
+    "category": "Inter 8E 8F (16-30)"
+  },
+  {
+    "english": "Zines",
+    "uzbek": "Jurnal (fanzin)",
+    "hint": "He collects old zines.",
+    "category": "Inter 8E 8F (16-30)"
+  },
+  {
+    "english": "Divide",
+    "uzbek": "Bo'lmoq/qismlarga ajratmoq",
+    "hint": "Divide the cake into eight.",
+    "category": "Inter 8E 8F (16-30)"
+  },
+  {
+    "english": "Instalment",
+    "uzbek": "Keyingi son, qism (davomi)",
+    "hint": "The next instalment comes out next week.",
+    "category": "Inter 8E 8F (16-30)"
+  },
+  {
+    "english": "Common",
+    "uzbek": "Umumiy",
+    "hint": "It's a common mistake.",
+    "category": "Inter 8E 8F (16-30)"
+  },
+  {
+    "english": "Betrayal",
+    "uzbek": "Xiyonat",
+    "hint": "She felt a deep sense of betrayal.",
+    "category": "Inter 8E 8F (16-30)"
+  },
+  {
+    "english": "Controversial",
+    "uzbek": "Bahsli/munozarali",
+    "hint": "It's a controversial topic.",
+    "category": "Inter 8E 8F (16-30)"
+  },
+  {
+    "english": "Regard (as)",
+    "uzbek": "...deb hisoblanmoq",
+    "hint": "He is regarded as an expert.",
+    "category": "Inter 8E 8F (31-45)"
+  },
+  {
+    "english": "Response",
+    "uzbek": "Javob/reaksiya",
+    "hint": "I got a quick response.",
+    "category": "Inter 8E 8F (31-45)"
+  },
+  {
+    "english": "Gradually",
+    "uzbek": "Asta-sekin",
+    "hint": "The weather gradually improved.",
+    "category": "Inter 8E 8F (31-45)"
+  },
+  {
+    "english": "Evolve",
+    "uzbek": "Asta rivojlanmoq",
+    "hint": "Languages evolve over time.",
+    "category": "Inter 8E 8F (31-45)"
+  },
+  {
+    "english": "Type out",
+    "uzbek": "Yozib ko'chirmoq",
+    "hint": "Please type out the report.",
+    "category": "Inter 8E 8F (31-45)"
+  },
+  {
+    "english": "Contract (v)",
+    "uzbek": "Kasallikni yuqtirmoq",
+    "hint": "He contracted a serious illness.",
+    "category": "Inter 8E 8F (31-45)"
+  },
+  {
+    "english": "Description",
+    "uzbek": "Tasvir",
+    "hint": "Give a short description.",
+    "category": "Inter 8E 8F (31-45)"
+  },
+  {
+    "english": "Space",
+    "uzbek": "Bo'sh joy",
+    "hint": "There's no space left.",
+    "category": "Inter 8E 8F (31-45)"
+  },
+  {
+    "english": "Appear",
+    "uzbek": "Paydo bo'lmoq",
+    "hint": "A rainbow appeared.",
+    "category": "Inter 8E 8F (31-45)"
+  },
+  {
+    "english": "Mainly",
+    "uzbek": "Asosan",
+    "hint": "The audience was mainly students.",
+    "category": "Inter 8E 8F (31-45)"
+  },
+  {
+    "english": "Due to",
+    "uzbek": "...tufayli",
+    "hint": "The delay was due to rain.",
+    "category": "Inter 8E 8F (31-45)"
+  },
+  {
+    "english": "Deal with",
+    "uzbek": "...bilan ish yuritmoq",
+    "hint": "She deals with complaints.",
+    "category": "Inter 8E 8F (31-45)"
+  },
+  {
+    "english": "Conversation",
+    "uzbek": "Suhbat",
+    "hint": "We had a long conversation.",
+    "category": "Inter 8E 8F (31-45)"
+  },
+  {
+    "english": "Recently",
+    "uzbek": "Yaqin orada",
+    "hint": "I saw him recently.",
+    "category": "Inter 8E 8F (31-45)"
+  },
+  {
+    "english": "Leisure time",
+    "uzbek": "Bo'sh vaqt",
+    "hint": "I read in my leisure time.",
+    "category": "Inter 8E 8F (31-45)"
+  },
+  {
+    "english": "Pen name",
+    "uzbek": "Taxallus",
+    "hint": "She writes under a pen name.",
+    "category": "Inter 8E 8F (46-60)"
+  },
+  {
+    "english": "Versatile",
+    "uzbek": "Serqirra/har taraflama",
+    "hint": "He is a versatile player.",
+    "category": "Inter 8E 8F (46-60)"
+  },
+  {
+    "english": "Whole",
+    "uzbek": "Butun",
+    "hint": "She ate the whole pizza.",
+    "category": "Inter 8E 8F (46-60)"
+  },
+  {
+    "english": "At once",
+    "uzbek": "Darhol/birdaniga",
+    "hint": "Come here at once.",
+    "category": "Inter 8E 8F (46-60)"
+  },
+  {
+    "english": "Claim",
+    "uzbek": "Tasdiqlamoq",
+    "hint": "He claims to be innocent.",
+    "category": "Inter 8E 8F (46-60)"
+  },
+  {
+    "english": "Represent",
+    "uzbek": "Taqdim etmoq",
+    "hint": "She represents our class.",
+    "category": "Inter 8E 8F (46-60)"
+  },
+  {
+    "english": "Literary",
+    "uzbek": "Adabiy",
+    "hint": "It's a literary masterpiece.",
+    "category": "Inter 8E 8F (46-60)"
+  },
+  {
+    "english": "Set up",
+    "uzbek": "Sozlamoq/o'rnatmoq",
+    "hint": "They set up a new company.",
+    "category": "Inter 8E 8F (46-60)"
+  },
+  {
+    "english": "Originate",
+    "uzbek": "Kelib chiqmoq",
+    "hint": "The custom originated in Asia.",
+    "category": "Inter 8E 8F (46-60)"
+  },
+  {
+    "english": "Spring up",
+    "uzbek": "Tez paydo bo'lmoq",
+    "hint": "New cafes sprang up everywhere.",
+    "category": "Inter 8E 8F (46-60)"
+  },
+  {
+    "english": "Rest",
+    "uzbek": "Qolgan qismi",
+    "hint": "I'll do the rest later.",
+    "category": "Inter 8E 8F (46-60)"
+  },
+  {
+    "english": "To be familiar with",
+    "uzbek": "Tanish bo'lmoq",
+    "hint": "I'm familiar with this software.",
+    "category": "Inter 8E 8F (46-60)"
+  },
+  {
+    "english": "Tragic",
+    "uzbek": "Juda achinarli",
+    "hint": "It was a tragic accident.",
+    "category": "Inter 8E 8F (46-60)"
+  },
+  {
+    "english": "Spare",
+    "uzbek": "Zaxira/ortiqcha",
+    "hint": "Do you have a spare pen?",
+    "category": "Inter 8E 8F (46-60)"
+  },
+  {
+    "english": "Commute",
+    "uzbek": "Uydan ishga borib kelmoq",
+    "hint": "I commute by train.",
+    "category": "Inter 8E 8F (46-60)"
+  },
+  {
+    "english": "Suit (v)",
+    "uzbek": "Mos kelmoq",
+    "hint": "That colour suits you.",
+    "category": "Inter 8E 8F (61-75)"
+  },
+  {
+    "english": "Consist",
+    "uzbek": "Iborat bo'lmoq",
+    "hint": "The team consists of five people.",
+    "category": "Inter 8E 8F (61-75)"
+  },
+  {
+    "english": "Convey",
+    "uzbek": "Bayon etmoq/ifodalamoq",
+    "hint": "Words can't convey my thanks.",
+    "category": "Inter 8E 8F (61-75)"
+  },
+  {
+    "english": "Fiction",
+    "uzbek": "Badiiy asar",
+    "hint": "She loves reading fiction.",
+    "category": "Inter 8E 8F (61-75)"
+  },
+  {
+    "english": "Pseudonym",
+    "uzbek": "Taxallus",
+    "hint": "He published under a pseudonym.",
+    "category": "Inter 8E 8F (61-75)"
+  },
+  {
+    "english": "Dedicate",
+    "uzbek": "Bag'ishlamoq",
+    "hint": "She dedicated the book to her mother.",
+    "category": "Inter 8E 8F (61-75)"
+  },
+  {
+    "english": "Feature",
+    "uzbek": "Xususiyat",
+    "hint": "The camera is the best feature.",
+    "category": "Inter 8E 8F (61-75)"
+  },
+  {
+    "english": "Deliberately",
+    "uzbek": "Ataylab",
+    "hint": "He deliberately ignored me.",
+    "category": "Inter 8E 8F (61-75)"
+  },
+  {
+    "english": "Identity",
+    "uzbek": "Shaxs",
+    "hint": "They hid their identity.",
+    "category": "Inter 8E 8F (61-75)"
+  },
+  {
+    "english": "Contribute",
+    "uzbek": "Hissa qo'shmoq",
+    "hint": "Everyone contributed ideas.",
+    "category": "Inter 8E 8F (61-75)"
+  },
+  {
+    "english": "Blend",
+    "uzbek": "Aralashtirmoq",
+    "hint": "Blend the colours together.",
+    "category": "Inter 8E 8F (61-75)"
+  },
+  {
+    "english": "Encourage",
+    "uzbek": "Rag'batlantirmoq",
+    "hint": "Teachers encourage students.",
+    "category": "Inter 8E 8F (61-75)"
+  },
+  {
+    "english": "Engage in",
+    "uzbek": "Shug'ullanmoq",
+    "hint": "They engage in sports.",
+    "category": "Inter 8E 8F (61-75)"
+  },
+  {
+    "english": "Pick up",
+    "uzbek": "Sotib olmoq",
+    "hint": "I'll pick up some bread.",
+    "category": "Inter 8E 8F (61-75)"
+  },
+  {
+    "english": "Manual",
+    "uzbek": "Qo'llanma",
+    "hint": "Read the user manual.",
+    "category": "Inter 8E 8F (61-75)"
+  },
+  {
+    "english": "Cookbook",
+    "uzbek": "Ovqat tayyorlash uchun kitob",
+    "hint": "She gave me a cookbook.",
+    "category": "Inter 8E 8F (76-79)"
+  },
+  {
+    "english": "Guidebook",
+    "uzbek": "Yo'l ko'rsatuvchi qo'llanma",
+    "hint": "We bought a travel guidebook.",
+    "category": "Inter 8E 8F (76-79)"
+  },
+  {
+    "english": "Thesaurus",
+    "uzbek": "Tematik lug'at",
+    "hint": "Use a thesaurus for synonyms.",
+    "category": "Inter 8E 8F (76-79)"
+  },
+  {
+    "english": "Stare",
+    "uzbek": "Tikilib qaramoq",
+    "hint": "Don't stare at people.",
+    "category": "Inter 8E 8F (76-79)"
+  }
+]
