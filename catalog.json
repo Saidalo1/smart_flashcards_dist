@@ -251,27 +251,32 @@
         {
           "id": "inter-6g-6h",
           "name": "Inter 6G 6H",
-          "words": 25
+          "words": 25,
+          "version": "1859a1a6"
         },
         {
           "id": "inter-7g-7h",
           "name": "Inter 7G 7H",
-          "words": 50
+          "words": 50,
+          "version": "33099f0d"
         },
         {
           "id": "inter-8a-8b",
           "name": "Inter 8A 8B",
-          "words": 34
+          "words": 34,
+          "version": "9e7bce5f"
         },
         {
           "id": "inter-8c-8d",
           "name": "Inter 8C 8D",
-          "words": 35
+          "words": 35,
+          "version": "5dd26503"
         },
         {
           "id": "inter-8e-8f",
           "name": "Inter 8E 8F",
-          "words": 79
+          "words": 79,
+          "version": "eb32255b"
         },
         {
           "id": "crime-of-the-month-reading",
