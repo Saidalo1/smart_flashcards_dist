@@ -7,97 +7,113 @@
           "id": "pre-inter-6a-6b",
           "name": "Pre Inter 6A 6B",
           "words": 36,
-          "version": "b95a373d"
+          "version": "b95a373d",
+          "added": "2026-10-02"
         },
         {
           "id": "pre-inter-6c-6d",
           "name": "Pre Inter 6C 6D",
           "words": 23,
-          "version": "4f852d64"
+          "version": "4f852d64",
+          "added": "2026-10-02"
         },
         {
           "id": "pre-inter-6e-6f",
           "name": "Pre Inter 6E 6F",
           "words": 50,
-          "version": "e76d7b66"
+          "version": "e76d7b66",
+          "added": "2026-10-02"
         },
         {
           "id": "pre-inter-6g-6h",
           "name": "Pre Inter 6G 6H",
           "words": 50,
-          "version": "ff244ff6"
+          "version": "ff244ff6",
+          "added": "2026-10-02"
         },
         {
           "id": "pre-inter-7a",
           "name": "Pre Inter 7A",
           "words": 35,
-          "version": "69155723"
+          "version": "69155723",
+          "added": "2026-10-02"
         },
         {
           "id": "pre-inter-7c-7d",
           "name": "Pre Inter 7C 7D",
           "words": 50,
-          "version": "caecb9ba"
+          "version": "caecb9ba",
+          "added": "2026-10-02"
         },
         {
           "id": "pre-inter-7e-7f",
           "name": "Pre Inter 7E 7F",
           "words": 55,
-          "version": "e0c5f98a"
+          "version": "e0c5f98a",
+          "added": "2026-10-02"
         },
         {
           "id": "pre-inter-7g-7h",
           "name": "Pre Inter 7G 7H",
           "words": 35,
-          "version": "20db8f4d"
+          "version": "20db8f4d",
+          "added": "2026-10-02"
         },
         {
           "id": "pre-inter-8a-8b",
           "name": "Pre Inter 8A 8B",
           "words": 55,
-          "version": "416f16ab"
+          "version": "416f16ab",
+          "added": "2026-10-02"
         },
         {
           "id": "pre-inter-8c-8d",
           "name": "Pre Inter 8C 8D",
           "words": 25,
-          "version": "334088c4"
+          "version": "334088c4",
+          "added": "2026-10-02"
         },
         {
           "id": "pre-inter-8e-8f",
           "name": "Pre Inter 8E 8F",
           "words": 43,
-          "version": "ad0b0e00"
+          "version": "ad0b0e00",
+          "added": "2026-10-02"
         },
         {
           "id": "pre-inter-8g-8h",
           "name": "Pre Inter 8G 8H",
           "words": 35,
-          "version": "153c355e"
+          "version": "153c355e",
+          "added": "2026-10-02"
         },
         {
           "id": "pre-inter-9a-9b",
           "name": "Pre Inter 9A 9B",
           "words": 43,
-          "version": "9eb9a4a6"
+          "version": "9eb9a4a6",
+          "added": "2026-10-02"
         },
         {
           "id": "pre-inter-9c-9d",
           "name": "Pre Inter 9C 9D",
           "words": 40,
-          "version": "7cb5ccd1"
+          "version": "7cb5ccd1",
+          "added": "2026-10-02"
         },
         {
           "id": "pre-inter-9e-9f",
           "name": "Pre Inter 9E 9F",
           "words": 39,
-          "version": "654835d2"
+          "version": "654835d2",
+          "added": "2026-10-02"
         },
         {
           "id": "pre-inter-9g-9h",
           "name": "Pre Inter 9G 9H",
           "words": 43,
-          "version": "eef8bb34"
+          "version": "eef8bb34",
+          "added": "2026-10-02"
         }
       ]
     },
@@ -108,181 +124,211 @@
           "id": "inter-1a-1b",
           "name": "Inter 1A 1B",
           "words": 32,
-          "version": "d8d179ec"
+          "version": "d8d179ec",
+          "added": "2026-10-02"
         },
         {
           "id": "inter-1c-1d",
           "name": "Inter 1C 1D",
           "words": 40,
-          "version": "7984a70b"
+          "version": "7984a70b",
+          "added": "2026-10-02"
         },
         {
           "id": "a-visitor-reading",
           "name": "A Visitor (Reading)",
           "words": 9,
-          "version": "4f1a4266"
+          "version": "4f1a4266",
+          "added": "2026-10-02"
         },
         {
           "id": "inter-1e-1f",
           "name": "Inter 1E 1F",
           "words": 75,
-          "version": "738af12e"
+          "version": "738af12e",
+          "added": "2026-10-02"
         },
         {
           "id": "inter-1g-1h",
           "name": "Inter 1G 1H",
           "words": 25,
-          "version": "200ecf23"
+          "version": "200ecf23",
+          "added": "2026-10-02"
         },
         {
           "id": "inter-2a-2b",
           "name": "Inter 2A 2B",
           "words": 23,
-          "version": "50a96420"
+          "version": "50a96420",
+          "added": "2026-10-02"
         },
         {
           "id": "inter-2c-2d",
           "name": "Inter 2C 2D",
           "words": 27,
-          "version": "e58ca271"
+          "version": "e58ca271",
+          "added": "2026-10-02"
         },
         {
           "id": "inter-2e-2f",
           "name": "Inter 2E 2F",
           "words": 61,
-          "version": "773a3893"
+          "version": "773a3893",
+          "added": "2026-10-02"
         },
         {
           "id": "inter-2g-2h",
           "name": "Inter 2G 2H",
           "words": 25,
-          "version": "5e1e927c"
+          "version": "5e1e927c",
+          "added": "2026-10-02"
         },
         {
           "id": "myer-and-myer-5",
           "name": "Myer and Myer (5)",
           "words": 13,
-          "version": "088412a4"
+          "version": "088412a4",
+          "added": "2026-10-02"
         },
         {
           "id": "inter-3a",
           "name": "Inter 3A",
           "words": 57,
-          "version": "0a07b0d8"
+          "version": "0a07b0d8",
+          "added": "2026-10-02"
         },
         {
           "id": "inter-3b-3c",
           "name": "Inter 3B 3C",
           "words": 44,
-          "version": "20f9aeef"
+          "version": "20f9aeef",
+          "added": "2026-10-02"
         },
         {
           "id": "inter-3d-3e",
           "name": "Inter 3D 3E",
           "words": 35,
-          "version": "e5888b08"
+          "version": "e5888b08",
+          "added": "2026-10-02"
         },
         {
           "id": "inter-3f",
           "name": "Inter 3F",
           "words": 29,
-          "version": "05758f7f"
+          "version": "05758f7f",
+          "added": "2026-10-02"
         },
         {
           "id": "inter-4a-4b",
           "name": "Inter 4A 4B",
           "words": 47,
-          "version": "1f2e22d7"
+          "version": "1f2e22d7",
+          "added": "2026-10-02"
         },
         {
           "id": "inter-4b-4c",
           "name": "Inter 4B 4C",
           "words": 33,
-          "version": "2a357451"
+          "version": "2a357451",
+          "added": "2026-10-02"
         },
         {
           "id": "inter-4e-4f",
           "name": "Inter 4E 4F",
           "words": 33,
-          "version": "48db44d3"
+          "version": "48db44d3",
+          "added": "2026-10-02"
         },
         {
           "id": "inter-4g-4h",
           "name": "Inter 4G 4H",
           "words": 40,
-          "version": "7e803855"
+          "version": "7e803855",
+          "added": "2026-10-02"
         },
         {
           "id": "inter-5c-5d",
           "name": "Inter 5C 5D",
           "words": 23,
-          "version": "c0901963"
+          "version": "c0901963",
+          "added": "2026-10-02"
         },
         {
           "id": "ordinary-aspirin-reading",
           "name": "Ordinary Aspirin (Reading)",
           "words": 13,
-          "version": "924c0110"
+          "version": "924c0110",
+          "added": "2026-10-02"
         },
         {
           "id": "inter-5e-5f",
           "name": "Inter 5E 5F",
           "words": 46,
-          "version": "e18f7250"
+          "version": "e18f7250",
+          "added": "2026-10-02"
         },
         {
           "id": "inter-5g-5h",
           "name": "Inter 5G 5H",
           "words": 32,
-          "version": "d6685614"
+          "version": "d6685614",
+          "added": "2026-10-02"
         },
         {
           "id": "inter-6a-6b",
           "name": "Inter 6A 6B",
           "words": 39,
-          "version": "90912b50"
+          "version": "90912b50",
+          "added": "2026-10-02"
         },
         {
           "id": "inter-6c-6f",
           "name": "Inter 6C 6F",
           "words": 45,
-          "version": "7ca5f925"
+          "version": "7ca5f925",
+          "added": "2026-10-02"
         },
         {
           "id": "inter-6g-6h",
           "name": "Inter 6G 6H",
           "words": 25,
-          "version": "1859a1a6"
+          "version": "1859a1a6",
+          "added": "2026-10-02"
         },
         {
           "id": "inter-7g-7h",
           "name": "Inter 7G 7H",
           "words": 50,
-          "version": "33099f0d"
+          "version": "33099f0d",
+          "added": "2026-10-02"
         },
         {
           "id": "inter-8a-8b",
           "name": "Inter 8A 8B",
           "words": 34,
-          "version": "9e7bce5f"
+          "version": "9e7bce5f",
+          "added": "2026-10-02"
         },
         {
           "id": "inter-8c-8d",
           "name": "Inter 8C 8D",
           "words": 35,
-          "version": "5dd26503"
+          "version": "5dd26503",
+          "added": "2026-10-02"
         },
         {
           "id": "inter-8e-8f",
           "name": "Inter 8E 8F",
           "words": 79,
-          "version": "eb32255b"
+          "version": "eb32255b",
+          "added": "2026-10-02"
         },
         {
           "id": "crime-of-the-month-reading",
           "name": "Crime of the Month (Reading)",
           "words": 10,
-          "version": "19287fde"
+          "version": "19287fde",
+          "added": "2026-10-02"
         }
       ]
     },
@@ -293,31 +339,36 @@
           "id": "irregular-verbs-1-20",
           "name": "Irregular Verbs (1-20)",
           "words": 20,
-          "version": "5ba5f4f7"
+          "version": "5ba5f4f7",
+          "added": "2026-10-02"
         },
         {
           "id": "irregular-verbs-21-40",
           "name": "Irregular Verbs (21-40)",
           "words": 20,
-          "version": "a6d7f559"
+          "version": "a6d7f559",
+          "added": "2026-10-02"
         },
         {
           "id": "irregular-verbs-41-60",
           "name": "Irregular Verbs (41-60)",
           "words": 20,
-          "version": "e71e7215"
+          "version": "e71e7215",
+          "added": "2026-10-02"
         },
         {
           "id": "irregular-verbs-61-80",
           "name": "Irregular Verbs (61-80)",
           "words": 20,
-          "version": "5897bb38"
+          "version": "5897bb38",
+          "added": "2026-10-02"
         },
         {
           "id": "irregular-verbs-81-85",
           "name": "Irregular Verbs (81-85)",
           "words": 5,
-          "version": "8d608bb8"
+          "version": "8d608bb8",
+          "added": "2026-10-02"
         }
       ]
     }
