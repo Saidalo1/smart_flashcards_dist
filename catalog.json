@@ -324,17 +324,10 @@
           "added": "2026-10-02"
         },
         {
-          "id": "inter-8g",
-          "name": "Inter 8G",
-          "words": 32,
-          "version": "7acc9408",
-          "added": "2026-10-03"
-        },
-        {
-          "id": "inter-8h",
-          "name": "Inter 8H",
-          "words": 18,
-          "version": "beba971c",
+          "id": "inter-8g-8h",
+          "name": "Inter 8G 8H",
+          "words": 50,
+          "version": "f31351be",
           "added": "2026-10-03"
         },
         {
