@@ -1,0 +1,194 @@
+[
+  {
+    "english": "Differ (v)",
+    "uzbek": "Farq qilmoq",
+    "hint": "Opinions differ on this.",
+    "category": "Inter 8G (1-15)"
+  },
+  {
+    "english": "Speculation",
+    "uzbek": "Taxmin",
+    "hint": "There's a lot of speculation about it.",
+    "category": "Inter 8G (1-15)"
+  },
+  {
+    "english": "Expression",
+    "uzbek": "Iborat/ifoda",
+    "hint": "That's a common expression.",
+    "category": "Inter 8G (1-15)"
+  },
+  {
+    "english": "As if",
+    "uzbek": "Go'yo",
+    "hint": "He acts as if he knows everything.",
+    "category": "Inter 8G (1-15)"
+  },
+  {
+    "english": "Contrast",
+    "uzbek": "Solishtirmoq",
+    "hint": "Contrast the two methods.",
+    "category": "Inter 8G (1-15)"
+  },
+  {
+    "english": "Ceiling",
+    "uzbek": "Shift",
+    "hint": "The lamp hangs from the ceiling.",
+    "category": "Inter 8G (1-15)"
+  },
+  {
+    "english": "Drip",
+    "uzbek": "Tomchilamoq",
+    "hint": "The tap keeps dripping.",
+    "category": "Inter 8G (1-15)"
+  },
+  {
+    "english": "Leak",
+    "uzbek": "Oqib ketish",
+    "hint": "There's a leak in the roof.",
+    "category": "Inter 8G (1-15)"
+  },
+  {
+    "english": "Look up",
+    "uzbek": "Qidirmoq",
+    "hint": "Look up the word in a dictionary.",
+    "category": "Inter 8G (1-15)"
+  },
+  {
+    "english": "Plumber",
+    "uzbek": "Santexnik",
+    "hint": "We called a plumber to fix the pipe.",
+    "category": "Inter 8G (1-15)"
+  },
+  {
+    "english": "Scene",
+    "uzbek": "Sahna",
+    "hint": "The first scene is dramatic.",
+    "category": "Inter 8G (1-15)"
+  },
+  {
+    "english": "Calm",
+    "uzbek": "Tinch/jimjit",
+    "hint": "Stay calm and breathe.",
+    "category": "Inter 8G (1-15)"
+  },
+  {
+    "english": "Point out",
+    "uzbek": "Ta'kidlamoq",
+    "hint": "She pointed out my mistake.",
+    "category": "Inter 8G (1-15)"
+  },
+  {
+    "english": "Upset",
+    "uzbek": "Xafa",
+    "hint": "He was upset by the news.",
+    "category": "Inter 8G (1-15)"
+  },
+  {
+    "english": "Appeal to",
+    "uzbek": "Jalb qilmoq",
+    "hint": "This appeals to young people.",
+    "category": "Inter 8G (1-15)"
+  },
+  {
+    "english": "Can't stand",
+    "uzbek": "Yomon ko'rmoq",
+    "hint": "I can't stand loud noise.",
+    "category": "Inter 8G (16-30)"
+  },
+  {
+    "english": "Sight",
+    "uzbek": "Ko'rish/qarash",
+    "hint": "She lost her sight.",
+    "category": "Inter 8G (16-30)"
+  },
+  {
+    "english": "Break down",
+    "uzbek": "Buzilib qolmoq",
+    "hint": "The car broke down on the way.",
+    "category": "Inter 8G (16-30)"
+  },
+  {
+    "english": "Pedestrian",
+    "uzbek": "Piyoda",
+    "hint": "The pedestrian crossed the road.",
+    "category": "Inter 8G (16-30)"
+  },
+  {
+    "english": "Run into",
+    "uzbek": "Duch kelmoq",
+    "hint": "I ran into an old friend.",
+    "category": "Inter 8G (16-30)"
+  },
+  {
+    "english": "Vehicle",
+    "uzbek": "Transport vositasi",
+    "hint": "No vehicles are allowed here.",
+    "category": "Inter 8G (16-30)"
+  },
+  {
+    "english": "Swerve",
+    "uzbek": "Chetga burilmoq",
+    "hint": "The driver swerved to avoid a dog.",
+    "category": "Inter 8G (16-30)"
+  },
+  {
+    "english": "Knock down",
+    "uzbek": "Urib yiqitmoq",
+    "hint": "A car knocked down the sign.",
+    "category": "Inter 8G (16-30)"
+  },
+  {
+    "english": "Recovery",
+    "uzbek": "Sog'ayib ketish",
+    "hint": "She made a full recovery.",
+    "category": "Inter 8G (16-30)"
+  },
+  {
+    "english": "Unhurt",
+    "uzbek": "Jarohatsiz",
+    "hint": "Everyone was unhurt in the crash.",
+    "category": "Inter 8G (16-30)"
+  },
+  {
+    "english": "Spokesman",
+    "uzbek": "Nutq so'zlovchi",
+    "hint": "The spokesman answered questions.",
+    "category": "Inter 8G (16-30)"
+  },
+  {
+    "english": "Breathalyse",
+    "uzbek": "Haydovchini alkogolga tekshirmoq",
+    "hint": "Police breathalysed the driver.",
+    "category": "Inter 8G (16-30)"
+  },
+  {
+    "english": "Collide",
+    "uzbek": "To'qnashmoq",
+    "hint": "The two cars collided.",
+    "category": "Inter 8G (16-30)"
+  },
+  {
+    "english": "Crash",
+    "uzbek": "Xalokat",
+    "hint": "There was a crash on the highway.",
+    "category": "Inter 8G (16-30)"
+  },
+  {
+    "english": "Lose control",
+    "uzbek": "Nazoratni yo'qotmoq",
+    "hint": "He lost control of the car.",
+    "category": "Inter 8G (16-30)"
+  },
+  {
+    "english": "Skid",
+    "uzbek": "Sirpanib ketmoq",
+    "hint": "The car skidded on the ice.",
+    "category": "Inter 8G (31-32)"
+  },
+  {
+    "english": "Suffer whiplash",
+    "uzbek": "Bo'yin lat yeyishi",
+    "hint": "She suffered whiplash in the accident.",
+    "category": "Inter 8G (31-32)"
+  }
+]
