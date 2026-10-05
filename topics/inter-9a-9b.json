@@ -1,0 +1,332 @@
+[
+  {
+    "english": "Aircraft",
+    "uzbek": "Samolyot",
+    "hint": "The aircraft landed safely.",
+    "category": "Inter 9A 9B (1-15)"
+  },
+  {
+    "english": "Cable car",
+    "uzbek": "Kanatka",
+    "hint": "We took the cable car up the mountain.",
+    "category": "Inter 9A 9B (1-15)"
+  },
+  {
+    "english": "Coach",
+    "uzbek": "uzoq safarlar uchun avtobus",
+    "hint": "We travelled to London by coach.",
+    "category": "Inter 9A 9B (1-15)"
+  },
+  {
+    "english": "Cruise ship",
+    "uzbek": "Kruiz kemasi",
+    "hint": "The cruise ship sailed across the ocean.",
+    "category": "Inter 9A 9B (1-15)"
+  },
+  {
+    "english": "Ferry",
+    "uzbek": "Parom",
+    "hint": "We crossed the river by ferry.",
+    "category": "Inter 9A 9B (1-15)"
+  },
+  {
+    "english": "Hot-air balloon",
+    "uzbek": "Xavo shari",
+    "hint": "They floated over the valley in a hot-air balloon.",
+    "category": "Inter 9A 9B (1-15)"
+  },
+  {
+    "english": "Hovercraft",
+    "uzbek": "Havo kemasi",
+    "hint": "The hovercraft glided over the water.",
+    "category": "Inter 9A 9B (1-15)"
+  },
+  {
+    "english": "Yacht",
+    "uzbek": "Yaxta",
+    "hint": "They sailed their yacht around the bay.",
+    "category": "Inter 9A 9B (1-15)"
+  },
+  {
+    "english": "Unmanned",
+    "uzbek": "Uchuvchisiz",
+    "hint": "The mission used an unmanned spacecraft.",
+    "category": "Inter 9A 9B (1-15)"
+  },
+  {
+    "english": "Manned",
+    "uzbek": "Odam tomonidan boshqariladigan",
+    "hint": "It was the first manned flight to the Moon.",
+    "category": "Inter 9A 9B (1-15)"
+  },
+  {
+    "english": "Beneath",
+    "uzbek": "Ostida",
+    "hint": "The cat hid beneath the table.",
+    "category": "Inter 9A 9B (1-15)"
+  },
+  {
+    "english": "Mud",
+    "uzbek": "Loy",
+    "hint": "The car got stuck in the mud.",
+    "category": "Inter 9A 9B (1-15)"
+  },
+  {
+    "english": "Pull",
+    "uzbek": "Tortmoq",
+    "hint": "Pull the door to open it.",
+    "category": "Inter 9A 9B (1-15)"
+  },
+  {
+    "english": "Carry",
+    "uzbek": "Olib yurmoq",
+    "hint": "Can you help me carry this bag?",
+    "category": "Inter 9A 9B (1-15)"
+  },
+  {
+    "english": "Spectacular",
+    "uzbek": "Ajoyib",
+    "hint": "The view from the top was spectacular.",
+    "category": "Inter 9A 9B (1-15)"
+  },
+  {
+    "english": "Environmentally friendly",
+    "uzbek": "Ekologik toza",
+    "hint": "Trains are an environmentally friendly way to travel.",
+    "category": "Inter 9A 9B (16-30)"
+  },
+  {
+    "english": "Arrivals hall",
+    "uzbek": "Kelish zali",
+    "hint": "We waited for them in the arrivals hall.",
+    "category": "Inter 9A 9B (16-30)"
+  },
+  {
+    "english": "Buffet car",
+    "uzbek": "Bufet vagoni",
+    "hint": "You can buy snacks in the buffet car.",
+    "category": "Inter 9A 9B (16-30)"
+  },
+  {
+    "english": "Cabin",
+    "uzbek": "Samolyot kabinasi",
+    "hint": "The pilot spoke to us from the cabin.",
+    "category": "Inter 9A 9B (16-30)"
+  },
+  {
+    "english": "Check-in desk",
+    "uzbek": "Royxatdan otish stoli",
+    "hint": "Please go to the check-in desk first.",
+    "category": "Inter 9A 9B (16-30)"
+  },
+  {
+    "english": "Coach bay",
+    "uzbek": "Xalqaro avtobus bekati",
+    "hint": "The bus is waiting in coach bay 5.",
+    "category": "Inter 9A 9B (16-30)"
+  },
+  {
+    "english": "Coach station",
+    "uzbek": "Avtobus stansiyasi",
+    "hint": "We arrived at the coach station early.",
+    "category": "Inter 9A 9B (16-30)"
+  },
+  {
+    "english": "Deck",
+    "uzbek": "Paluba",
+    "hint": "We stood on the deck of the ship.",
+    "category": "Inter 9A 9B (16-30)"
+  },
+  {
+    "english": "Departure gate",
+    "uzbek": "Jonash darvozasi",
+    "hint": "Our flight leaves from departure gate 12.",
+    "category": "Inter 9A 9B (16-30)"
+  },
+  {
+    "english": "Filling station",
+    "uzbek": "Yoqilgi quyish stansiyasi",
+    "hint": "We stopped at a filling station for petrol.",
+    "category": "Inter 9A 9B (16-30)"
+  },
+  {
+    "english": "Harbour",
+    "uzbek": "Bandargoh",
+    "hint": "The boats returned to the harbour.",
+    "category": "Inter 9A 9B (16-30)"
+  },
+  {
+    "english": "Level crossing",
+    "uzbek": "Temir yol kesib otadigan joy",
+    "hint": "Wait at the level crossing for the train.",
+    "category": "Inter 9A 9B (16-30)"
+  },
+  {
+    "english": "Lost property office",
+    "uzbek": "Yoqolgan mulk idorasi",
+    "hint": "I found my bag at the lost property office.",
+    "category": "Inter 9A 9B (16-30)"
+  },
+  {
+    "english": "Platform",
+    "uzbek": "Platforma",
+    "hint": "The train leaves from platform 3.",
+    "category": "Inter 9A 9B (16-30)"
+  },
+  {
+    "english": "Port",
+    "uzbek": "Bandargoh",
+    "hint": "The ship arrived at the port.",
+    "category": "Inter 9A 9B (16-30)"
+  },
+  {
+    "english": "Service station",
+    "uzbek": "Xizmat korsatish stansiyasi",
+    "hint": "We took a break at the service station.",
+    "category": "Inter 9A 9B (31-45)"
+  },
+  {
+    "english": "Sleeper",
+    "uzbek": "Uxlash uchun vagon",
+    "hint": "We booked a sleeper for the night train.",
+    "category": "Inter 9A 9B (31-45)"
+  },
+  {
+    "english": "Taxi rank",
+    "uzbek": "Taksi bekati",
+    "hint": "There is a taxi rank outside the station.",
+    "category": "Inter 9A 9B (31-45)"
+  },
+  {
+    "english": "Ticket barrier",
+    "uzbek": "Chipta tosigi",
+    "hint": "Show your ticket at the ticket barrier.",
+    "category": "Inter 9A 9B (31-45)"
+  },
+  {
+    "english": "Waiting room",
+    "uzbek": "Kutish zali",
+    "hint": "We sat in the waiting room.",
+    "category": "Inter 9A 9B (31-45)"
+  },
+  {
+    "english": "Delay",
+    "uzbek": "Kechiktirmoq",
+    "hint": "Bad weather can delay flights.",
+    "category": "Inter 9A 9B (31-45)"
+  },
+  {
+    "english": "Passenger",
+    "uzbek": "Yolovchi",
+    "hint": "Every passenger must wear a seatbelt.",
+    "category": "Inter 9A 9B (31-45)"
+  },
+  {
+    "english": "Drop off",
+    "uzbek": "Mashinadan tushirmoq",
+    "hint": "I'll drop you off at the station.",
+    "category": "Inter 9A 9B (31-45)"
+  },
+  {
+    "english": "Motorway",
+    "uzbek": "avtomagistral, katta yo'l",
+    "hint": "We drove fast on the motorway.",
+    "category": "Inter 9A 9B (31-45)"
+  },
+  {
+    "english": "Clerk",
+    "uzbek": "kotib, xizmatchi",
+    "hint": "The clerk helped me with my ticket.",
+    "category": "Inter 9A 9B (31-45)"
+  },
+  {
+    "english": "Cancel",
+    "uzbek": "Bekor qilmoq",
+    "hint": "They had to cancel the flight.",
+    "category": "Inter 9A 9B (31-45)"
+  },
+  {
+    "english": "Overcrowded",
+    "uzbek": "Gavjum",
+    "hint": "The bus was overcrowded this morning.",
+    "category": "Inter 9A 9B (31-45)"
+  },
+  {
+    "english": "Bumpy",
+    "uzbek": "O'nqir-cho'nqir",
+    "hint": "It was a bumpy ride on the old road.",
+    "category": "Inter 9A 9B (31-45)"
+  },
+  {
+    "english": "Choppy",
+    "uzbek": "Tez-tez o'zgarib turadigan",
+    "hint": "The wind was choppy and kept changing direction.",
+    "category": "Inter 9A 9B (31-45)"
+  },
+  {
+    "english": "Slow-moving traffic",
+    "uzbek": "Sekin xarakatlanuvchi transport",
+    "hint": "We were stuck in slow-moving traffic.",
+    "category": "Inter 9A 9B (31-45)"
+  },
+  {
+    "english": "Congestion\\traffic jam",
+    "uzbek": "Tirbandlik",
+    "hint": "There was heavy congestion on the road.",
+    "category": "Inter 9A 9B (46-55)"
+  },
+  {
+    "english": "Diversion",
+    "uzbek": "Chetga burilish",
+    "hint": "A diversion sent us down a side road.",
+    "category": "Inter 9A 9B (46-55)"
+  },
+  {
+    "english": "Rough",
+    "uzbek": "Notekis",
+    "hint": "The road was rough and full of holes.",
+    "category": "Inter 9A 9B (46-55)"
+  },
+  {
+    "english": "Divert",
+    "uzbek": "Boshqa tomonga yonaltirmoq",
+    "hint": "Police diverted the traffic around the accident.",
+    "category": "Inter 9A 9B (46-55)"
+  },
+  {
+    "english": "Roadworks",
+    "uzbek": "Yol ishlari",
+    "hint": "Roadworks are causing long delays.",
+    "category": "Inter 9A 9B (46-55)"
+  },
+  {
+    "english": "Fault",
+    "uzbek": "xato, ayb",
+    "hint": "The accident was not my fault.",
+    "category": "Inter 9A 9B (46-55)"
+  },
+  {
+    "english": "Blame",
+    "uzbek": "Ayblash",
+    "hint": "Don't blame me for the delay.",
+    "category": "Inter 9A 9B (46-55)"
+  },
+  {
+    "english": "Regret",
+    "uzbek": "Afsuslanmoq",
+    "hint": "I regret missing the train.",
+    "category": "Inter 9A 9B (46-55)"
+  },
+  {
+    "english": "Criticism",
+    "uzbek": "Tanqid",
+    "hint": "The plan received a lot of criticism.",
+    "category": "Inter 9A 9B (46-55)"
+  },
+  {
+    "english": "Petrol",
+    "uzbek": "Benzin",
+    "hint": "We need to buy some petrol.",
+    "category": "Inter 9A 9B (46-55)"
+  }
+]

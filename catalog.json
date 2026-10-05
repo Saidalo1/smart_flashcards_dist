@@ -336,6 +336,12 @@
           "words": 10,
           "version": "19287fde",
           "added": "2026-10-02"
+        },
+        {
+          "id": "inter-9a-9b",
+          "name": "Inter 9A 9B",
+          "words": 55,
+          "version": "a25f48fe"
         }
       ]
     },
