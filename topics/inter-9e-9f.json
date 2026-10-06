@@ -1,0 +1,302 @@
+[
+  {
+    "english": "Accommodation",
+    "uzbek": "Turar joy",
+    "hint": "The hotel offers cheap accommodation.",
+    "category": "Inter 9E 9F (1-15)"
+  },
+  {
+    "english": "Freedom",
+    "uzbek": "Ozodlik",
+    "hint": "They fought for freedom.",
+    "category": "Inter 9E 9F (1-15)"
+  },
+  {
+    "english": "Relaxation",
+    "uzbek": "Dam olish",
+    "hint": "Music is good for relaxation.",
+    "category": "Inter 9E 9F (1-15)"
+  },
+  {
+    "english": "Sightseeing",
+    "uzbek": "Diqqatga sazovor joylarni tomosha qilish",
+    "hint": "We went sightseeing in Rome.",
+    "category": "Inter 9E 9F (1-15)"
+  },
+  {
+    "english": "Fancy",
+    "uzbek": "Xohlamoq",
+    "hint": "Do you fancy a coffee?",
+    "category": "Inter 9E 9F (1-15)"
+  },
+  {
+    "english": "Particularly",
+    "uzbek": "Asosan",
+    "hint": "I'm particularly fond of jazz.",
+    "category": "Inter 9E 9F (1-15)"
+  },
+  {
+    "english": "Gradually",
+    "uzbek": "Asta-sekin/bosqichma-bosqich",
+    "hint": "The weather gradually improved.",
+    "category": "Inter 9E 9F (1-15)"
+  },
+  {
+    "english": "Permanent",
+    "uzbek": "Doimiy/barqaror",
+    "hint": "He found a permanent job.",
+    "category": "Inter 9E 9F (1-15)"
+  },
+  {
+    "english": "Convenient",
+    "uzbek": "Qulay",
+    "hint": "Is Monday convenient for you?",
+    "category": "Inter 9E 9F (1-15)"
+  },
+  {
+    "english": "Get-together",
+    "uzbek": "Yig'ilish/davra (do'stona, norasmiy)",
+    "hint": "We had a family get-together.",
+    "category": "Inter 9E 9F (1-15)"
+  },
+  {
+    "english": "Miscalculation",
+    "uzbek": "Noto'g'ri hisob-kitob",
+    "hint": "A small miscalculation caused the error.",
+    "category": "Inter 9E 9F (1-15)"
+  },
+  {
+    "english": "Measure",
+    "uzbek": "O'lchamoq",
+    "hint": "Measure the length of the table.",
+    "category": "Inter 9E 9F (1-15)"
+  },
+  {
+    "english": "Slow down",
+    "uzbek": "Sekinlashmoq",
+    "hint": "Slow down near the school.",
+    "category": "Inter 9E 9F (1-15)"
+  },
+  {
+    "english": "Heavy",
+    "uzbek": "Og'ir",
+    "hint": "This box is too heavy.",
+    "category": "Inter 9E 9F (1-15)"
+  },
+  {
+    "english": "Evidence",
+    "uzbek": "Dalil",
+    "hint": "There was no evidence.",
+    "category": "Inter 9E 9F (1-15)"
+  },
+  {
+    "english": "Alter",
+    "uzbek": "O'zgartirmoq",
+    "hint": "She altered the dress.",
+    "category": "Inter 9E 9F (16-30)"
+  },
+  {
+    "english": "Rectify",
+    "uzbek": "To'g'rilamoq",
+    "hint": "We will rectify the mistake.",
+    "category": "Inter 9E 9F (16-30)"
+  },
+  {
+    "english": "Mishap",
+    "uzbek": "Baxtsiz hodisa/noqulay voqea",
+    "hint": "The trip went on without mishap.",
+    "category": "Inter 9E 9F (16-30)"
+  },
+  {
+    "english": "Distinct",
+    "uzbek": "Farqli/alohida",
+    "hint": "There are two distinct types.",
+    "category": "Inter 9E 9F (16-30)"
+  },
+  {
+    "english": "Loss",
+    "uzbek": "Yo'qotish",
+    "hint": "The team suffered a heavy loss.",
+    "category": "Inter 9E 9F (16-30)"
+  },
+  {
+    "english": "Width",
+    "uzbek": "Kenglik",
+    "hint": "Measure the width of the door.",
+    "category": "Inter 9E 9F (16-30)"
+  },
+  {
+    "english": "Sink (v)",
+    "uzbek": "Cho'kmoq",
+    "hint": "The ship began to sink.",
+    "category": "Inter 9E 9F (16-30)"
+  },
+  {
+    "english": "Dimension",
+    "uzbek": "O'lcham",
+    "hint": "What are the dimensions of the room?",
+    "category": "Inter 9E 9F (16-30)"
+  },
+  {
+    "english": "Consequence",
+    "uzbek": "Oqibat/natija",
+    "hint": "Face the consequences of your actions.",
+    "category": "Inter 9E 9F (16-30)"
+  },
+  {
+    "english": "Disastrous",
+    "uzbek": "Falokatli",
+    "hint": "The plan was disastrous.",
+    "category": "Inter 9E 9F (16-30)"
+  },
+  {
+    "english": "Headquarter",
+    "uzbek": "Bosh qarorgoh/markaziy idora",
+    "hint": "The company's headquarters are in London.",
+    "category": "Inter 9E 9F (16-30)"
+  },
+  {
+    "english": "Discover",
+    "uzbek": "Kashf qilmoq",
+    "hint": "They discovered a new planet.",
+    "category": "Inter 9E 9F (16-30)"
+  },
+  {
+    "english": "Appear",
+    "uzbek": "Paydo bo'lmoq",
+    "hint": "A rainbow appeared.",
+    "category": "Inter 9E 9F (16-30)"
+  },
+  {
+    "english": "Narrow",
+    "uzbek": "Tor",
+    "hint": "The street is very narrow.",
+    "category": "Inter 9E 9F (16-30)"
+  },
+  {
+    "english": "Slim",
+    "uzbek": "Oriq/ozg'in",
+    "hint": "She is tall and slim.",
+    "category": "Inter 9E 9F (16-30)"
+  },
+  {
+    "english": "Adjust",
+    "uzbek": "Moslashmoq",
+    "hint": "Adjust the mirror before driving.",
+    "category": "Inter 9E 9F (31-45)"
+  },
+  {
+    "english": "Fire (v)",
+    "uzbek": "Ishdan bo'shatmoq",
+    "hint": "The boss fired him.",
+    "category": "Inter 9E 9F (31-45)"
+  },
+  {
+    "english": "Spacecraft",
+    "uzbek": "Kosmik kema",
+    "hint": "The spacecraft landed on Mars.",
+    "category": "Inter 9E 9F (31-45)"
+  },
+  {
+    "english": "Overheat",
+    "uzbek": "Haddan tashqari qizitmoq",
+    "hint": "The engine may overheat.",
+    "category": "Inter 9E 9F (31-45)"
+  },
+  {
+    "english": "Prevent",
+    "uzbek": "Oldini olmoq",
+    "hint": "Wash your hands to prevent illness.",
+    "category": "Inter 9E 9F (31-45)"
+  },
+  {
+    "english": "Turn out",
+    "uzbek": "...bo'lib chiqmoq",
+    "hint": "It turned out to be true.",
+    "category": "Inter 9E 9F (31-45)"
+  },
+  {
+    "english": "Height",
+    "uzbek": "Balandlik",
+    "hint": "What is your height?",
+    "category": "Inter 9E 9F (31-45)"
+  },
+  {
+    "english": "Precise",
+    "uzbek": "Aniq",
+    "hint": "Give me the precise time.",
+    "category": "Inter 9E 9F (31-45)"
+  },
+  {
+    "english": "Subtract",
+    "uzbek": "Ayirmoq/olib tashlamoq",
+    "hint": "Subtract five from ten.",
+    "category": "Inter 9E 9F (31-45)"
+  },
+  {
+    "english": "Lower (v)",
+    "uzbek": "Pasaytirmoq/kamaytirmoq",
+    "hint": "Please lower your voice.",
+    "category": "Inter 9E 9F (31-45)"
+  },
+  {
+    "english": "Warship",
+    "uzbek": "Harbiy kema",
+    "hint": "The warship entered the port.",
+    "category": "Inter 9E 9F (31-45)"
+  },
+  {
+    "english": "Enormous",
+    "uzbek": "Juda katta",
+    "hint": "They live in an enormous house.",
+    "category": "Inter 9E 9F (31-45)"
+  },
+  {
+    "english": "Cannon",
+    "uzbek": "Zambarak",
+    "hint": "The cannon fired a loud shot.",
+    "category": "Inter 9E 9F (31-45)"
+  },
+  {
+    "english": "Justifiably",
+    "uzbek": "Haqli ravishda",
+    "hint": "She was justifiably angry.",
+    "category": "Inter 9E 9F (31-45)"
+  },
+  {
+    "english": "Tip over",
+    "uzbek": "Ag'darilmoq",
+    "hint": "The vase tipped over.",
+    "category": "Inter 9E 9F (31-45)"
+  },
+  {
+    "english": "Unstable",
+    "uzbek": "Beqaror/o'zgaruvchan",
+    "hint": "The ladder was unstable.",
+    "category": "Inter 9E 9F (46-50)"
+  },
+  {
+    "english": "Vessel",
+    "uzbek": "Kema",
+    "hint": "A fishing vessel sailed by.",
+    "category": "Inter 9E 9F (46-50)"
+  },
+  {
+    "english": "Asymmetrical",
+    "uzbek": "Assimetrik",
+    "hint": "The design is asymmetrical.",
+    "category": "Inter 9E 9F (46-50)"
+  },
+  {
+    "english": "Carpenter",
+    "uzbek": "Duradgor",
+    "hint": "The carpenter built a table.",
+    "category": "Inter 9E 9F (46-50)"
+  },
+  {
+    "english": "Thick",
+    "uzbek": "Qalin",
+    "hint": "He wore a thick coat.",
+    "category": "Inter 9E 9F (46-50)"
+  }
+]
