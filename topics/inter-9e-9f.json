@@ -19,7 +19,7 @@
   },
   {
     "english": "Sightseeing",
-    "uzbek": "Diqqatga sazovor joylarni tomosha qilish",
+    "uzbek": "Sayr qilish",
     "hint": "We went sightseeing in Rome.",
     "category": "Inter 9E 9F (1-15)"
   },
@@ -37,7 +37,7 @@
   },
   {
     "english": "Gradually",
-    "uzbek": "Asta-sekin/bosqichma-bosqich",
+    "uzbek": "Asta-sekin",
     "hint": "The weather gradually improved.",
     "category": "Inter 9E 9F (1-15)"
   },
@@ -55,7 +55,7 @@
   },
   {
     "english": "Get-together",
-    "uzbek": "Yig'ilish/davra (do'stona, norasmiy)",
+    "uzbek": "Davra/yig'in",
     "hint": "We had a family get-together.",
     "category": "Inter 9E 9F (1-15)"
   },
@@ -103,7 +103,7 @@
   },
   {
     "english": "Mishap",
-    "uzbek": "Baxtsiz hodisa/noqulay voqea",
+    "uzbek": "Baxtsiz hodisa",
     "hint": "The trip went on without mishap.",
     "category": "Inter 9E 9F (16-30)"
   },
@@ -151,7 +151,7 @@
   },
   {
     "english": "Headquarter",
-    "uzbek": "Bosh qarorgoh/markaziy idora",
+    "uzbek": "Bosh qarorgoh",
     "hint": "The company's headquarters are in London.",
     "category": "Inter 9E 9F (16-30)"
   },
@@ -199,7 +199,7 @@
   },
   {
     "english": "Overheat",
-    "uzbek": "Haddan tashqari qizitmoq",
+    "uzbek": "Qizib ketmoq",
     "hint": "The engine may overheat.",
     "category": "Inter 9E 9F (31-45)"
   },
@@ -235,7 +235,7 @@
   },
   {
     "english": "Lower (v)",
-    "uzbek": "Pasaytirmoq/kamaytirmoq",
+    "uzbek": "Pasaytirmoq",
     "hint": "Please lower your voice.",
     "category": "Inter 9E 9F (31-45)"
   },
