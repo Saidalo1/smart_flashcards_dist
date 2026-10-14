@@ -1,0 +1,398 @@
+[
+  {
+    "english": "Express",
+    "uzbek": "Ifodalamoq",
+    "hint": "She expressed her thanks.",
+    "category": "Upper 3A 3B (1-15)"
+  },
+  {
+    "english": "Gesture",
+    "uzbek": "Imo-ishora",
+    "hint": "He made a friendly gesture.",
+    "category": "Upper 3A 3B (1-15)"
+  },
+  {
+    "english": "Movement",
+    "uzbek": "Harakat",
+    "hint": "A sudden movement caught my eye.",
+    "category": "Upper 3A 3B (1-15)"
+  },
+  {
+    "english": "Bite your fingernails",
+    "uzbek": "Tirnoqni tishlamoq",
+    "hint": "She bites her fingernails when nervous.",
+    "category": "Upper 3A 3B (1-15)"
+  },
+  {
+    "english": "Bow your head",
+    "uzbek": "Bosh egmoq",
+    "hint": "They bowed their heads in respect.",
+    "category": "Upper 3A 3B (1-15)"
+  },
+  {
+    "english": "Cover your mouth",
+    "uzbek": "Og'izni yopmoq",
+    "hint": "Cover your mouth when you cough.",
+    "category": "Upper 3A 3B (1-15)"
+  },
+  {
+    "english": "Cross your fingers",
+    "uzbek": "Barmoqlarni chalishtirmoq",
+    "hint": "Cross your fingers for luck.",
+    "category": "Upper 3A 3B (1-15)"
+  },
+  {
+    "english": "Cross your legs",
+    "uzbek": "Oyoqlarni chalishtirmoq",
+    "hint": "She sat and crossed her legs.",
+    "category": "Upper 3A 3B (1-15)"
+  },
+  {
+    "english": "Fidget",
+    "uzbek": "Tipirchilamoq",
+    "hint": "Stop fidgeting in your seat.",
+    "category": "Upper 3A 3B (1-15)"
+  },
+  {
+    "english": "Fold your arms",
+    "uzbek": "Qo'llarni qovushtirmoq",
+    "hint": "He folded his arms and frowned.",
+    "category": "Upper 3A 3B (1-15)"
+  },
+  {
+    "english": "Frown",
+    "uzbek": "Qoshini chimirmoq",
+    "hint": "She frowned at the bad news.",
+    "category": "Upper 3A 3B (1-15)"
+  },
+  {
+    "english": "Give a thumbs up",
+    "uzbek": "Bosh barmog'ini yuqoriga ko'tarish",
+    "hint": "He gave a thumbs up to approve.",
+    "category": "Upper 3A 3B (1-15)"
+  },
+  {
+    "english": "Grimace",
+    "uzbek": "Aftini burishtirmoq",
+    "hint": "She grimaced at the taste.",
+    "category": "Upper 3A 3B (1-15)"
+  },
+  {
+    "english": "Grin",
+    "uzbek": "Tirjaymoq",
+    "hint": "He grinned from ear to ear.",
+    "category": "Upper 3A 3B (1-15)"
+  },
+  {
+    "english": "Nod your head",
+    "uzbek": "Bosh irg'amoq",
+    "hint": "She nodded her head in agreement.",
+    "category": "Upper 3A 3B (1-15)"
+  },
+  {
+    "english": "Point",
+    "uzbek": "Ko'rsatmoq",
+    "hint": "Don't point at people.",
+    "category": "Upper 3A 3B (16-30)"
+  },
+  {
+    "english": "Pout",
+    "uzbek": "Arazlamoq",
+    "hint": "The child pouted when refused.",
+    "category": "Upper 3A 3B (16-30)"
+  },
+  {
+    "english": "Purse your lips",
+    "uzbek": "Labini qattiq qismoq",
+    "hint": "She pursed her lips in anger.",
+    "category": "Upper 3A 3B (16-30)"
+  },
+  {
+    "english": "Raise your eyebrows",
+    "uzbek": "Qoshlarni ko'tarmoq",
+    "hint": "He raised his eyebrows in surprise.",
+    "category": "Upper 3A 3B (16-30)"
+  },
+  {
+    "english": "Scowl",
+    "uzbek": "Qoshini chimirmoq (jahl bilan)",
+    "hint": "She scowled at the rude man.",
+    "category": "Upper 3A 3B (16-30)"
+  },
+  {
+    "english": "Scratch your head",
+    "uzbek": "Boshini qashlamoq",
+    "hint": "He scratched his head, puzzled.",
+    "category": "Upper 3A 3B (16-30)"
+  },
+  {
+    "english": "Shake your head",
+    "uzbek": "Bosh chayqamoq",
+    "hint": "She shook her head no.",
+    "category": "Upper 3A 3B (16-30)"
+  },
+  {
+    "english": "Shrug your shoulders",
+    "uzbek": "Yelkani qisib qo'ymoq",
+    "hint": "He shrugged his shoulders.",
+    "category": "Upper 3A 3B (16-30)"
+  },
+  {
+    "english": "Wave",
+    "uzbek": "Qo'l silkitmoq",
+    "hint": "She waved goodbye.",
+    "category": "Upper 3A 3B (16-30)"
+  },
+  {
+    "english": "Wink",
+    "uzbek": "Ko'z qisib qo'ymoq",
+    "hint": "He winked at her.",
+    "category": "Upper 3A 3B (16-30)"
+  },
+  {
+    "english": "Yawn",
+    "uzbek": "Esnamoq",
+    "hint": "She yawned during the lecture.",
+    "category": "Upper 3A 3B (16-30)"
+  },
+  {
+    "english": "Annoyance",
+    "uzbek": "Jahl",
+    "hint": "He sighed in annoyance.",
+    "category": "Upper 3A 3B (16-30)"
+  },
+  {
+    "english": "Anxiety",
+    "uzbek": "Tashvish",
+    "hint": "She felt anxiety before the test.",
+    "category": "Upper 3A 3B (16-30)"
+  },
+  {
+    "english": "Boredom",
+    "uzbek": "Zerikish",
+    "hint": "He played games out of boredom.",
+    "category": "Upper 3A 3B (16-30)"
+  },
+  {
+    "english": "Confusion",
+    "uzbek": "Chalkashlik",
+    "hint": "There was confusion about the time.",
+    "category": "Upper 3A 3B (16-30)"
+  },
+  {
+    "english": "Disapproval",
+    "uzbek": "Norozilik",
+    "hint": "She shook her head in disapproval.",
+    "category": "Upper 3A 3B (31-45)"
+  },
+  {
+    "english": "Disgust",
+    "uzbek": "Nafratlanish",
+    "hint": "He looked at it in disgust.",
+    "category": "Upper 3A 3B (31-45)"
+  },
+  {
+    "english": "Fear",
+    "uzbek": "Qo'rquv",
+    "hint": "She screamed in fear.",
+    "category": "Upper 3A 3B (31-45)"
+  },
+  {
+    "english": "Friendliness",
+    "uzbek": "Do'stona",
+    "hint": "His friendliness won them over.",
+    "category": "Upper 3A 3B (31-45)"
+  },
+  {
+    "english": "Happiness",
+    "uzbek": "Baxt",
+    "hint": "Money can't buy happiness.",
+    "category": "Upper 3A 3B (31-45)"
+  },
+  {
+    "english": "Ignorance",
+    "uzbek": "Mensimaslik",
+    "hint": "His ignorance was shocking.",
+    "category": "Upper 3A 3B (31-45)"
+  },
+  {
+    "english": "Indifference",
+    "uzbek": "Befarqlik",
+    "hint": "She shrugged with indifference.",
+    "category": "Upper 3A 3B (31-45)"
+  },
+  {
+    "english": "Interest",
+    "uzbek": "Qiziqish",
+    "hint": "He showed interest in music.",
+    "category": "Upper 3A 3B (31-45)"
+  },
+  {
+    "english": "Pain",
+    "uzbek": "Og'riq",
+    "hint": "I felt a sharp pain.",
+    "category": "Upper 3A 3B (31-45)"
+  },
+  {
+    "english": "Shame",
+    "uzbek": "Uyat",
+    "hint": "He felt shame after lying.",
+    "category": "Upper 3A 3B (31-45)"
+  },
+  {
+    "english": "Shock",
+    "uzbek": "Shok",
+    "hint": "The news came as a shock.",
+    "category": "Upper 3A 3B (31-45)"
+  },
+  {
+    "english": "Surprise",
+    "uzbek": "Ajablanish",
+    "hint": "To my surprise, he agreed.",
+    "category": "Upper 3A 3B (31-45)"
+  },
+  {
+    "english": "Clear your throat",
+    "uzbek": "Tomog'ini tozalamoq",
+    "hint": "He cleared his throat and began.",
+    "category": "Upper 3A 3B (31-45)"
+  },
+  {
+    "english": "Cough",
+    "uzbek": "Yo'talmoq",
+    "hint": "She covered her mouth to cough.",
+    "category": "Upper 3A 3B (31-45)"
+  },
+  {
+    "english": "Gasp",
+    "uzbek": "Hayratlanib nafas olmoq",
+    "hint": "The crowd gasped in amazement.",
+    "category": "Upper 3A 3B (31-45)"
+  },
+  {
+    "english": "Hiccup",
+    "uzbek": "Hiqichoq tutmoq",
+    "hint": "He got the hiccups after eating.",
+    "category": "Upper 3A 3B (46-60)"
+  },
+  {
+    "english": "Sigh",
+    "uzbek": "Xo'rsinmoq",
+    "hint": "She sighed with relief.",
+    "category": "Upper 3A 3B (46-60)"
+  },
+  {
+    "english": "Slurp",
+    "uzbek": "Shovqin bilan ichmoq/yemoq",
+    "hint": "Don't slurp your soup.",
+    "category": "Upper 3A 3B (46-60)"
+  },
+  {
+    "english": "Sneeze",
+    "uzbek": "Aksirmoq",
+    "hint": "The dust made me sneeze.",
+    "category": "Upper 3A 3B (46-60)"
+  },
+  {
+    "english": "Sniff",
+    "uzbek": "Hidlamoq",
+    "hint": "The dog sniffed the ground.",
+    "category": "Upper 3A 3B (46-60)"
+  },
+  {
+    "english": "Snore",
+    "uzbek": "Xurrak otmoq",
+    "hint": "He snores loudly at night.",
+    "category": "Upper 3A 3B (46-60)"
+  },
+  {
+    "english": "Tut",
+    "uzbek": "Chiqqillamoq",
+    "hint": "She tutted in disapproval.",
+    "category": "Upper 3A 3B (46-60)"
+  },
+  {
+    "english": "Believable",
+    "uzbek": "Ishonarli",
+    "hint": "His excuse was believable.",
+    "category": "Upper 3A 3B (46-60)"
+  },
+  {
+    "english": "Unwell",
+    "uzbek": "Betob",
+    "hint": "She stayed home feeling unwell.",
+    "category": "Upper 3A 3B (46-60)"
+  },
+  {
+    "english": "Puzzled",
+    "uzbek": "Hayron",
+    "hint": "He looked puzzled by the question.",
+    "category": "Upper 3A 3B (46-60)"
+  },
+  {
+    "english": "Indicate",
+    "uzbek": "Ko'rsatmoq",
+    "hint": "The sign indicates the way.",
+    "category": "Upper 3A 3B (46-60)"
+  },
+  {
+    "english": "Tip (advice)",
+    "uzbek": "Maslahat",
+    "hint": "She gave me a useful tip.",
+    "category": "Upper 3A 3B (46-60)"
+  },
+  {
+    "english": "Fit in",
+    "uzbek": "Mos kelmoq",
+    "hint": "He struggled to fit in at school.",
+    "category": "Upper 3A 3B (46-60)"
+  },
+  {
+    "english": "Keep in touch with someone",
+    "uzbek": "Aloqada bo'lib turmoq",
+    "hint": "Let's keep in touch.",
+    "category": "Upper 3A 3B (46-60)"
+  },
+  {
+    "english": "Fluent",
+    "uzbek": "Ravon gapiradigan",
+    "hint": "She is fluent in three languages.",
+    "category": "Upper 3A 3B (46-60)"
+  },
+  {
+    "english": "Selective",
+    "uzbek": "Tanlab oladigan",
+    "hint": "He is very selective about friends.",
+    "category": "Upper 3A 3B (61-66)"
+  },
+  {
+    "english": "Slavishly",
+    "uzbek": "Qullik bilan",
+    "hint": "He slavishly followed the rules.",
+    "category": "Upper 3A 3B (61-66)"
+  },
+  {
+    "english": "Necessity",
+    "uzbek": "Zaruriyat",
+    "hint": "Water is a necessity.",
+    "category": "Upper 3A 3B (61-66)"
+  },
+  {
+    "english": "Possibility",
+    "uzbek": "Imkoniyat",
+    "hint": "There's a possibility of rain.",
+    "category": "Upper 3A 3B (61-66)"
+  },
+  {
+    "english": "Hostess",
+    "uzbek": "Mezbon ayol",
+    "hint": "The hostess welcomed the guests.",
+    "category": "Upper 3A 3B (61-66)"
+  },
+  {
+    "english": "Tip (money)",
+    "uzbek": "Choy-chaqa",
+    "hint": "He left a generous tip.",
+    "category": "Upper 3A 3B (61-66)"
+  }
+]

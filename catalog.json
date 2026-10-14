@@ -354,6 +354,39 @@
       ]
     },
     {
+      "name": "Upper-Intermediate",
+      "topics": [
+        {
+          "id": "upper-2a-2b",
+          "name": "Upper 2A 2B",
+          "words": 39,
+          "version": "9c0fdf71",
+          "added": "2026-10-14"
+        },
+        {
+          "id": "upper-2c-2d",
+          "name": "Upper 2C 2D",
+          "words": 32,
+          "version": "1b99f8df",
+          "added": "2026-10-14"
+        },
+        {
+          "id": "upper-3a-3b",
+          "name": "Upper 3A 3B",
+          "words": 66,
+          "version": "23fbf861",
+          "added": "2026-10-14"
+        },
+        {
+          "id": "upper-3c-3d",
+          "name": "Upper 3C 3D",
+          "words": 22,
+          "version": "f9c859b5",
+          "added": "2026-10-14"
+        }
+      ]
+    },
+    {
       "name": "Grammar",
       "topics": [
         {
