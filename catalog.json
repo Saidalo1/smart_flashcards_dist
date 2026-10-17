@@ -383,6 +383,12 @@
           "words": 22,
           "version": "f9c859b5",
           "added": "2026-10-14"
+        },
+        {
+          "id": "upper-best-years-reading",
+          "name": "Best Years (Reading)",
+          "words": 16,
+          "version": "a0460c3a"
         }
       ]
     },
