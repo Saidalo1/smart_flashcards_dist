@@ -1,98 +1,134 @@
 [
   {
-    "english": "predictable",
-    "uzbek": "oldindan aytib bo'ladigan, bashoratli",
-    "hint": "The ending of the film was predictable.",
-    "category": "Best Years (Reading) (1-16)"
+    "english": "definite life patterns",
+    "uzbek": "aniq hayot qoliplari",
+    "hint": "Almost all people share definite life patterns.",
+    "category": "Best Years (Reading) (1-22)"
   },
   {
-    "english": "outlive",
-    "uzbek": "(kimdandir) uzoqroq yashamoq",
-    "hint": "Women often outlive men.",
-    "category": "Best Years (Reading) (1-16)"
+    "english": "mysteriously outlive",
+    "uzbek": "sirli ravishda uzoqroq yashamoq",
+    "hint": "Women mysteriously outlive men by seven years.",
+    "category": "Best Years (Reading) (1-22)"
+  },
+  {
+    "english": "trade-offs",
+    "uzbek": "murosa, o'zaro almashuv (birini boshqasiga)",
+    "hint": "Life is really a game of trade-offs.",
+    "category": "Best Years (Reading) (1-22)"
   },
   {
     "english": "ingenuity",
     "uzbek": "zukkolik, topqirlik",
-    "hint": "She solved the problem with great ingenuity.",
-    "category": "Best Years (Reading) (1-16)"
+    "hint": "We trade strength for ingenuity.",
+    "category": "Best Years (Reading) (1-22)"
   },
   {
     "english": "thoroughness",
     "uzbek": "puxtalik, sinchkovlik",
-    "hint": "He checked the report with thoroughness.",
-    "category": "Best Years (Reading) (1-16)"
+    "hint": "We trade speed for thoroughness.",
+    "category": "Best Years (Reading) (1-22)"
   },
   {
     "english": "passion",
     "uzbek": "ishtiyoq, ehtiros",
-    "hint": "He has a passion for music.",
-    "category": "Best Years (Reading) (1-16)"
+    "hint": "We trade passion for reason.",
+    "category": "Best Years (Reading) (1-22)"
   },
   {
     "english": "reassuring",
     "uzbek": "tinchlantiradigan, dalda beruvchi",
-    "hint": "Her calm voice was very reassuring.",
-    "category": "Best Years (Reading) (1-16)"
-  },
-  {
-    "english": "prime",
-    "uzbek": "eng gullagan davr, eng yaxshi payt",
-    "hint": "He is in the prime of his life.",
-    "category": "Best Years (Reading) (1-16)"
+    "hint": "It is reassuring to know more prime years lie ahead.",
+    "category": "Best Years (Reading) (1-22)"
   },
   {
     "english": "wiser",
     "uzbek": "donoroq, aqlliroq",
-    "hint": "You get wiser as you grow older.",
-    "category": "Best Years (Reading) (1-16)"
+    "hint": "You get wiser with increasing age.",
+    "category": "Best Years (Reading) (1-22)"
+  },
+  {
+    "english": "wisdom",
+    "uzbek": "donolik, aql-idrok",
+    "hint": "This trade-off brings wisdom.",
+    "category": "Best Years (Reading) (1-22)"
   },
   {
     "english": "resistance",
     "uzbek": "qarshilik; (kasallikka) chidamlilik",
-    "hint": "The body's resistance to disease weakens with age.",
-    "category": "Best Years (Reading) (1-16)"
+    "hint": "His resistance to infections is highest.",
+    "category": "Best Years (Reading) (1-22)"
+  },
+  {
+    "english": "firmest",
+    "uzbek": "eng mustahkam, eng qattiq",
+    "hint": "His muscles are firmest in his twenties.",
+    "category": "Best Years (Reading) (1-22)"
   },
   {
     "english": "anabolism",
     "uzbek": "anabolizm (hujayra o'sishi)",
-    "hint": "Anabolism builds new cells in the body.",
-    "category": "Best Years (Reading) (1-16)"
+    "hint": "Anabolism is the growth of cells.",
+    "category": "Best Years (Reading) (1-22)"
   },
   {
     "english": "catabolism",
     "uzbek": "katabolizm (hujayra parchalanishi)",
-    "hint": "Catabolism breaks down cells in the body.",
-    "category": "Best Years (Reading) (1-16)"
+    "hint": "Catabolism is the death of cells.",
+    "category": "Best Years (Reading) (1-22)"
   },
   {
     "english": "neurotic",
     "uzbek": "nevrotik, asabiy, ruhan beqaror",
-    "hint": "He becomes neurotic before every exam.",
-    "category": "Best Years (Reading) (1-16)"
+    "hint": "People are most neurotic between 30 and 35.",
+    "category": "Best Years (Reading) (1-22)"
   },
   {
     "english": "intact",
     "uzbek": "buzilmagan, butun, saqlanib qolgan",
-    "hint": "Their marriage is still intact.",
-    "category": "Best Years (Reading) (1-16)"
+    "hint": "People with intact marriages tend to be happier.",
+    "category": "Best Years (Reading) (1-22)"
   },
   {
-    "english": "pessimism",
-    "uzbek": "pessimizm, umidsizlik",
-    "hint": "Pessimism often peaks in middle age.",
-    "category": "Best Years (Reading) (1-16)"
+    "english": "determination",
+    "uzbek": "qat'iyat, azmu-shijoat",
+    "hint": "Talent and determination aren't enough to guarantee success.",
+    "category": "Best Years (Reading) (1-22)"
   },
   {
     "english": "adolescence",
     "uzbek": "o'smirlik davri",
-    "hint": "Adolescence can be a difficult time.",
-    "category": "Best Years (Reading) (1-16)"
+    "hint": "Adolescence is very difficult.",
+    "category": "Best Years (Reading) (1-22)"
+  },
+  {
+    "english": "blissful",
+    "uzbek": "baxtiyor, saodatli",
+    "hint": "Only later does youth look blissful.",
+    "category": "Best Years (Reading) (1-22)"
+  },
+  {
+    "english": "diminishing",
+    "uzbek": "kamayib/pasayib borayotgan",
+    "hint": "The male sex drive is diminishing.",
+    "category": "Best Years (Reading) (1-22)"
   },
   {
     "english": "arranged",
     "uzbek": "tartibga solingan, uyushtirilgan",
-    "hint": "The journey of life seems carefully arranged.",
-    "category": "Best Years (Reading) (1-16)"
+    "hint": "Nature arranged it this way to control population.",
+    "category": "Best Years (Reading) (1-22)"
+  },
+  {
+    "english": "four sonatas",
+    "uzbek": "to'rtta sonata",
+    "hint": "Mozart wrote a symphony and four sonatas by age eight.",
+    "category": "Best Years (Reading) (1-22)"
+  },
+  {
+    "english": "monumental",
+    "uzbek": "ulkan, muhtasham (asar)",
+    "hint": "In his monumental work, Lehman presents the peak years.",
+    "category": "Best Years (Reading) (1-22)"
   }
 ]
