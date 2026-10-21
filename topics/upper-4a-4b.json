@@ -1,0 +1,410 @@
+[
+  {
+    "english": "Memorable",
+    "uzbek": "Esda qolarli",
+    "hint": "It was a memorable trip.",
+    "category": "Upper 4A 4B (1-15)"
+  },
+  {
+    "english": "Adventure holiday",
+    "uzbek": "Sarguzashtli ta'til",
+    "hint": "We went on an adventure holiday in the mountains.",
+    "category": "Upper 4A 4B (1-15)"
+  },
+  {
+    "english": "B&B (Bed & Breakfast)",
+    "uzbek": "Yotoq va nonushta xizmati bilan turar joy",
+    "hint": "We stayed at a cosy B&B near the coast.",
+    "category": "Upper 4A 4B (1-15)"
+  },
+  {
+    "english": "Backpacking",
+    "uzbek": "Piyoda sayohat (ryukzak bilan)",
+    "hint": "They went backpacking around Europe.",
+    "category": "Upper 4A 4B (1-15)"
+  },
+  {
+    "english": "Beach holiday",
+    "uzbek": "Plyaj ta'tili",
+    "hint": "We booked a beach holiday in Spain.",
+    "category": "Upper 4A 4B (1-15)"
+  },
+  {
+    "english": "Beach house",
+    "uzbek": "Plyajdagi uy",
+    "hint": "They rented a beach house for the summer.",
+    "category": "Upper 4A 4B (1-15)"
+  },
+  {
+    "english": "Cabin",
+    "uzbek": "O'rmondagi yog'och uy",
+    "hint": "We spent the weekend in a wooden cabin.",
+    "category": "Upper 4A 4B (1-15)"
+  },
+  {
+    "english": "Camper van",
+    "uzbek": "Yashash jihozli mikroavtobus",
+    "hint": "They travelled in a camper van.",
+    "category": "Upper 4A 4B (1-15)"
+  },
+  {
+    "english": "Camping",
+    "uzbek": "Lager (chodirda dam olish)",
+    "hint": "We went camping by the lake.",
+    "category": "Upper 4A 4B (1-15)"
+  },
+  {
+    "english": "Campsite",
+    "uzbek": "Lager joy (chodir tikiladigan joy)",
+    "hint": "The campsite was next to the river.",
+    "category": "Upper 4A 4B (1-15)"
+  },
+  {
+    "english": "Caravan",
+    "uzbek": "G'ildirakli uy (avtofurgon)",
+    "hint": "They towed a caravan behind the car.",
+    "category": "Upper 4A 4B (1-15)"
+  },
+  {
+    "english": "City break",
+    "uzbek": "Qisqa shahar ta'tili",
+    "hint": "We took a short city break to Paris.",
+    "category": "Upper 4A 4B (1-15)"
+  },
+  {
+    "english": "Cottage",
+    "uzbek": "Kottej (qishloq uyi)",
+    "hint": "They own a small cottage in the countryside.",
+    "category": "Upper 4A 4B (1-15)"
+  },
+  {
+    "english": "Couch-surfing",
+    "uzbek": "Begona odam uyida bepul tunash usuli",
+    "hint": "He saved money by couch-surfing.",
+    "category": "Upper 4A 4B (1-15)"
+  },
+  {
+    "english": "Cruise",
+    "uzbek": "Kruiz (dengiz sayohati)",
+    "hint": "They went on a cruise around the Mediterranean.",
+    "category": "Upper 4A 4B (1-15)"
+  },
+  {
+    "english": "Cycling holiday",
+    "uzbek": "Velosipedli sayohat",
+    "hint": "A cycling holiday is good exercise.",
+    "category": "Upper 4A 4B (16-30)"
+  },
+  {
+    "english": "Ecotourism",
+    "uzbek": "Ekoturizm",
+    "hint": "Ecotourism helps protect nature.",
+    "category": "Upper 4A 4B (16-30)"
+  },
+  {
+    "english": "Guest house",
+    "uzbek": "Mehmon uyi",
+    "hint": "We stayed in a small guest house.",
+    "category": "Upper 4A 4B (16-30)"
+  },
+  {
+    "english": "Holiday camp",
+    "uzbek": "Dam olish lageri",
+    "hint": "The children loved the holiday camp.",
+    "category": "Upper 4A 4B (16-30)"
+  },
+  {
+    "english": "Holiday home",
+    "uzbek": "Dam olish uyi (dacha)",
+    "hint": "They have a holiday home by the sea.",
+    "category": "Upper 4A 4B (16-30)"
+  },
+  {
+    "english": "Hotel",
+    "uzbek": "Mehmonxona",
+    "hint": "We checked into the hotel late at night.",
+    "category": "Upper 4A 4B (16-30)"
+  },
+  {
+    "english": "Houseboat",
+    "uzbek": "Suvdagi uy (qayiq-uy)",
+    "hint": "They live on a houseboat.",
+    "category": "Upper 4A 4B (16-30)"
+  },
+  {
+    "english": "House swap",
+    "uzbek": "Uy almashish",
+    "hint": "We did a house swap with a family abroad.",
+    "category": "Upper 4A 4B (16-30)"
+  },
+  {
+    "english": "Package holiday",
+    "uzbek": "Tayyor sayohat to'plami (hammasi bitta narxda)",
+    "hint": "A package holiday includes flights and meals.",
+    "category": "Upper 4A 4B (16-30)"
+  },
+  {
+    "english": "Self-catering apartment",
+    "uzbek": "O'zini ovqatlantiradigan kvartira (ovqat kiritilmagan)",
+    "hint": "We booked a self-catering apartment.",
+    "category": "Upper 4A 4B (16-30)"
+  },
+  {
+    "english": "Tent",
+    "uzbek": "Chodir",
+    "hint": "We slept in a tent under the stars.",
+    "category": "Upper 4A 4B (16-30)"
+  },
+  {
+    "english": "Time-share apartment",
+    "uzbek": "Vaqtincha foydalaniladigan kvartira",
+    "hint": "They bought a time-share apartment.",
+    "category": "Upper 4A 4B (16-30)"
+  },
+  {
+    "english": "Villa",
+    "uzbek": "Villa",
+    "hint": "They rented a villa with a pool.",
+    "category": "Upper 4A 4B (16-30)"
+  },
+  {
+    "english": "Volunteering",
+    "uzbek": "Ko'ngillilik",
+    "hint": "She spends weekends volunteering.",
+    "category": "Upper 4A 4B (16-30)"
+  },
+  {
+    "english": "Winter sports holiday",
+    "uzbek": "Qishki sport ta'tili",
+    "hint": "He loves his winter sports holiday.",
+    "category": "Upper 4A 4B (16-30)"
+  },
+  {
+    "english": "Youth hostel",
+    "uzbek": "Yoshlar yotoqxonasi",
+    "hint": "We stayed in a cheap youth hostel.",
+    "category": "Upper 4A 4B (31-45)"
+  },
+  {
+    "english": "See the sights",
+    "uzbek": "Diqqatga sazovor joylarni ko'rmoq",
+    "hint": "We went to see the sights of Rome.",
+    "category": "Upper 4A 4B (31-45)"
+  },
+  {
+    "english": "Take it easy",
+    "uzbek": "Dam olmoq, shoshmaslik",
+    "hint": "On holiday I just take it easy.",
+    "category": "Upper 4A 4B (31-45)"
+  },
+  {
+    "english": "Eat out in a restaurant",
+    "uzbek": "Restoranda ovqatlanmoq",
+    "hint": "Let's eat out in a restaurant tonight.",
+    "category": "Upper 4A 4B (31-45)"
+  },
+  {
+    "english": "Get away from it all",
+    "uzbek": "Hamma narsadan uzoqlashib ketmoq",
+    "hint": "I need to get away from it all.",
+    "category": "Upper 4A 4B (31-45)"
+  },
+  {
+    "english": "Broaden your horizons",
+    "uzbek": "Dunyoqarashni kengaytirmoq",
+    "hint": "Travel can broaden your horizons.",
+    "category": "Upper 4A 4B (31-45)"
+  },
+  {
+    "english": "Have new experiences",
+    "uzbek": "Yangi tajribalar orttirmoq",
+    "hint": "I want to have new experiences.",
+    "category": "Upper 4A 4B (31-45)"
+  },
+  {
+    "english": "Soak up the sun",
+    "uzbek": "Quyoshda dam olmoq, toblanmoq",
+    "hint": "We lay on the beach to soak up the sun.",
+    "category": "Upper 4A 4B (31-45)"
+  },
+  {
+    "english": "Try local food",
+    "uzbek": "Mahalliy ovqatni tatib ko'rmoq",
+    "hint": "Always try local food when you travel.",
+    "category": "Upper 4A 4B (31-45)"
+  },
+  {
+    "english": "Hang out with your friends",
+    "uzbek": "Do'stlar bilan vaqt o'tkazmoq",
+    "hint": "I like to hang out with my friends.",
+    "category": "Upper 4A 4B (31-45)"
+  },
+  {
+    "english": "Be physically active",
+    "uzbek": "Jismonan faol bo'lmoq",
+    "hint": "Try to be physically active every day.",
+    "category": "Upper 4A 4B (31-45)"
+  },
+  {
+    "english": "Pamper yourself at a spa",
+    "uzbek": "Spa-da o'zini erkalatmoq",
+    "hint": "She pampered herself at a spa.",
+    "category": "Upper 4A 4B (31-45)"
+  },
+  {
+    "english": "Recharge your batteries",
+    "uzbek": "Kuch to'plamoq, dam olib tiklanmoq",
+    "hint": "A holiday helps me recharge my batteries.",
+    "category": "Upper 4A 4B (31-45)"
+  },
+  {
+    "english": "Meet people",
+    "uzbek": "Odamlar bilan tanishmoq",
+    "hint": "Travelling is a great way to meet people.",
+    "category": "Upper 4A 4B (31-45)"
+  },
+  {
+    "english": "Enjoy the nightlife",
+    "uzbek": "Tungi hayotdan zavqlanmoq",
+    "hint": "They enjoy the nightlife in the city.",
+    "category": "Upper 4A 4B (31-45)"
+  },
+  {
+    "english": "Budget travel",
+    "uzbek": "Byudjetli (arzon) sayohat",
+    "hint": "Students often choose budget travel.",
+    "category": "Upper 4A 4B (46-60)"
+  },
+  {
+    "english": "Preserve",
+    "uzbek": "Asramoq, saqlamoq",
+    "hint": "We must preserve old buildings.",
+    "category": "Upper 4A 4B (46-60)"
+  },
+  {
+    "english": "Consider",
+    "uzbek": "O'ylab ko'rmoq",
+    "hint": "Please consider my offer.",
+    "category": "Upper 4A 4B (46-60)"
+  },
+  {
+    "english": "Breathtaking",
+    "uzbek": "Hayratlanarli, nafasni bo'g'adigan",
+    "hint": "The view was breathtaking.",
+    "category": "Upper 4A 4B (46-60)"
+  },
+  {
+    "english": "Commercialised",
+    "uzbek": "Tijoratlashtirilgan",
+    "hint": "The town has become too commercialised.",
+    "category": "Upper 4A 4B (46-60)"
+  },
+  {
+    "english": "Dingy",
+    "uzbek": "Xira, iflos",
+    "hint": "They stayed in a dingy little room.",
+    "category": "Upper 4A 4B (46-60)"
+  },
+  {
+    "english": "Dull",
+    "uzbek": "Zerikarli",
+    "hint": "The lecture was really dull.",
+    "category": "Upper 4A 4B (46-60)"
+  },
+  {
+    "english": "Hospitable",
+    "uzbek": "Mehmondo'st",
+    "hint": "The local people were very hospitable.",
+    "category": "Upper 4A 4B (46-60)"
+  },
+  {
+    "english": "Inaccessible",
+    "uzbek": "Yetib bo'lmaydigan",
+    "hint": "The village is almost inaccessible.",
+    "category": "Upper 4A 4B (46-60)"
+  },
+  {
+    "english": "Mind-blowing",
+    "uzbek": "Aqlni shoshiradigan, hayratlanarli",
+    "hint": "The concert was mind-blowing.",
+    "category": "Upper 4A 4B (46-60)"
+  },
+  {
+    "english": "Overcrowded",
+    "uzbek": "Haddan tashqari to'la, gavjum",
+    "hint": "The beach was overcrowded in summer.",
+    "category": "Upper 4A 4B (46-60)"
+  },
+  {
+    "english": "Remote",
+    "uzbek": "Olis, chekkadagi",
+    "hint": "They live in a remote village.",
+    "category": "Upper 4A 4B (46-60)"
+  },
+  {
+    "english": "run-down",
+    "uzbek": "Yomon holatda, tashlandiq",
+    "hint": "The old hotel looked run-down.",
+    "category": "Upper 4A 4B (46-60)"
+  },
+  {
+    "english": "Unique",
+    "uzbek": "Noyob",
+    "hint": "Each snowflake is unique.",
+    "category": "Upper 4A 4B (46-60)"
+  },
+  {
+    "english": "Unspoilt",
+    "uzbek": "Buzilmagan, tabiiy",
+    "hint": "We found an unspoilt beach.",
+    "category": "Upper 4A 4B (46-60)"
+  },
+  {
+    "english": "Vibrant",
+    "uzbek": "Jonli, energiyaga boy",
+    "hint": "The city is full of vibrant colours.",
+    "category": "Upper 4A 4B (61-68)"
+  },
+  {
+    "english": "Run",
+    "uzbek": "Boshqarmoq, yuritmoq",
+    "hint": "She runs a small hotel.",
+    "category": "Upper 4A 4B (61-68)"
+  },
+  {
+    "english": "Enquiry",
+    "uzbek": "So'rov, so'rab-surishtirish",
+    "hint": "I made an enquiry about the flight.",
+    "category": "Upper 4A 4B (61-68)"
+  },
+  {
+    "english": "Holiday itinerary",
+    "uzbek": "Ta'til marshruti",
+    "hint": "Check your holiday itinerary carefully.",
+    "category": "Upper 4A 4B (61-68)"
+  },
+  {
+    "english": "Depart",
+    "uzbek": "Jo'namoq, yo'lga chiqmoq",
+    "hint": "The train departs at noon.",
+    "category": "Upper 4A 4B (61-68)"
+  },
+  {
+    "english": "Informative",
+    "uzbek": "Ma'lumotli, foydali",
+    "hint": "The guide was very informative.",
+    "category": "Upper 4A 4B (61-68)"
+  },
+  {
+    "english": "Fly out",
+    "uzbek": "Uchib ketmoq (samolyotda)",
+    "hint": "We fly out early tomorrow morning.",
+    "category": "Upper 4A 4B (61-68)"
+  },
+  {
+    "english": "Valid",
+    "uzbek": "Amal qiladigan, haqiqiy",
+    "hint": "Your ticket is still valid.",
+    "category": "Upper 4A 4B (61-68)"
+  }
+]
