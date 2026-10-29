@@ -407,6 +407,18 @@
           "name": "Reading 88-91",
           "words": 37,
           "version": "df9cfbcf"
+        },
+        {
+          "id": "upper-5a-5b",
+          "name": "Upper 5A 5B",
+          "words": 39,
+          "version": "bd1aaaf7"
+        },
+        {
+          "id": "reading-96-99",
+          "name": "Reading 96-99",
+          "words": 39,
+          "version": "ce5e2481"
         }
       ]
     },

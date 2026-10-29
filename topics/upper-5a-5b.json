@@ -1,0 +1,236 @@
+[
+  {
+    "english": "Immediate family",
+    "uzbek": "eng yaqin oila a'zolari (ota-ona, farzandlar)",
+    "hint": "Only my immediate family came to the wedding.",
+    "category": "Upper 5A 5B (1-15)"
+  },
+  {
+    "english": "Extended family",
+    "uzbek": "kengaytirilgan oila (barcha qarindoshlar)",
+    "hint": "We gather with the extended family at New Year.",
+    "category": "Upper 5A 5B (1-15)"
+  },
+  {
+    "english": "Admire",
+    "uzbek": "Qoyil qolmoq",
+    "hint": "I admire her courage.",
+    "category": "Upper 5A 5B (1-15)"
+  },
+  {
+    "english": "Adore",
+    "uzbek": "Juda yaxshi ko'rmoq",
+    "hint": "The children adore their grandmother.",
+    "category": "Upper 5A 5B (1-15)"
+  },
+  {
+    "english": "Be on the same wavelength (as)",
+    "uzbek": "Bir xil to'lqinda (fikrda) bo'lmoq",
+    "hint": "We're on the same wavelength about most things.",
+    "category": "Upper 5A 5B (1-15)"
+  },
+  {
+    "english": "Be (very) close (to)",
+    "uzbek": "(kim bilandir) juda yaqin bo'lmoq",
+    "hint": "She is very close to her sister.",
+    "category": "Upper 5A 5B (1-15)"
+  },
+  {
+    "english": "Be wary of",
+    "uzbek": "Ehtiyot bo'lmoq",
+    "hint": "Be wary of strangers online.",
+    "category": "Upper 5A 5B (1-15)"
+  },
+  {
+    "english": "Envy",
+    "uzbek": "Hasad qilmoq",
+    "hint": "I envy his patience.",
+    "category": "Upper 5A 5B (1-15)"
+  },
+  {
+    "english": "Feel sorry for",
+    "uzbek": "Achinmoq",
+    "hint": "I feel sorry for the lost dog.",
+    "category": "Upper 5A 5B (1-15)"
+  },
+  {
+    "english": "Have a lot in common (with)",
+    "uzbek": "Ko'p umumiy jihatlarga ega bo'lmoq",
+    "hint": "We have a lot in common.",
+    "category": "Upper 5A 5B (1-15)"
+  },
+  {
+    "english": "Have nothing in common (with)",
+    "uzbek": "Hech qanday umumiylikka ega bo'lmaslik",
+    "hint": "They have nothing in common.",
+    "category": "Upper 5A 5B (1-15)"
+  },
+  {
+    "english": "Look down on",
+    "uzbek": "Mensimaslik",
+    "hint": "Don't look down on others.",
+    "category": "Upper 5A 5B (1-15)"
+  },
+  {
+    "english": "Look up to",
+    "uzbek": "Hurmat qilmoq",
+    "hint": "He looks up to his father.",
+    "category": "Upper 5A 5B (1-15)"
+  },
+  {
+    "english": "Not see eye to eye (with)",
+    "uzbek": "Fikrlari mos kelmaslik",
+    "hint": "We don't see eye to eye on politics.",
+    "category": "Upper 5A 5B (1-15)"
+  },
+  {
+    "english": "Respect",
+    "uzbek": "Hurmat qilmoq",
+    "hint": "I respect your opinion.",
+    "category": "Upper 5A 5B (1-15)"
+  },
+  {
+    "english": "Trust",
+    "uzbek": "Ishonmoq",
+    "hint": "You can trust me.",
+    "category": "Upper 5A 5B (16-30)"
+  },
+  {
+    "english": "Compliment (sb on sth)",
+    "uzbek": "Maqtov aytmoq",
+    "hint": "She complimented me on my work.",
+    "category": "Upper 5A 5B (16-30)"
+  },
+  {
+    "english": "Flatter (sb)",
+    "uzbek": "Xushomad qilmoq",
+    "hint": "He flattered the boss to get a raise.",
+    "category": "Upper 5A 5B (16-30)"
+  },
+  {
+    "english": "Insult (sb)",
+    "uzbek": "Haqorat qilmoq",
+    "hint": "He insulted the waiter.",
+    "category": "Upper 5A 5B (16-30)"
+  },
+  {
+    "english": "Lecture (sb about sth)",
+    "uzbek": "Ma'ruzaga tutmoq, tanbeh bermoq",
+    "hint": "Dad lectured me about money.",
+    "category": "Upper 5A 5B (16-30)"
+  },
+  {
+    "english": "Nag (sb about sth)",
+    "uzbek": "Tinmay tanbeh bermoq",
+    "hint": "She keeps nagging me about chores.",
+    "category": "Upper 5A 5B (16-30)"
+  },
+  {
+    "english": "Offend (sb)",
+    "uzbek": "Ranjitmoq",
+    "hint": "I didn't mean to offend you.",
+    "category": "Upper 5A 5B (16-30)"
+  },
+  {
+    "english": "Praise (sb for sth)",
+    "uzbek": "Maqtamoq",
+    "hint": "The teacher praised him for his effort.",
+    "category": "Upper 5A 5B (16-30)"
+  },
+  {
+    "english": "Tease (sb about sth)",
+    "uzbek": "Masxara qilmoq",
+    "hint": "They teased him about his haircut.",
+    "category": "Upper 5A 5B (16-30)"
+  },
+  {
+    "english": "Tell (sb) off (for sth)",
+    "uzbek": "Tanbeh bermoq, koyimoq",
+    "hint": "The teacher told me off for being late.",
+    "category": "Upper 5A 5B (16-30)"
+  },
+  {
+    "english": "Warn (sb about sth)",
+    "uzbek": "Ogohlantirmoq",
+    "hint": "I warned him about the danger.",
+    "category": "Upper 5A 5B (16-30)"
+  },
+  {
+    "english": "Colleague",
+    "uzbek": "Hamkasb",
+    "hint": "She is a close colleague of mine.",
+    "category": "Upper 5A 5B (16-30)"
+  },
+  {
+    "english": "Get on well (with sb)",
+    "uzbek": "Yaxshi chiqishmoq",
+    "hint": "I get on well with my neighbours.",
+    "category": "Upper 5A 5B (16-30)"
+  },
+  {
+    "english": "Confide",
+    "uzbek": "Sirini ishonib aytmoq",
+    "hint": "She confided her secret to me.",
+    "category": "Upper 5A 5B (16-30)"
+  },
+  {
+    "english": "To be hard on sb",
+    "uzbek": "Qattiq muomala qilmoq",
+    "hint": "Don't be too hard on yourself.",
+    "category": "Upper 5A 5B (16-30)"
+  },
+  {
+    "english": "Reasonable",
+    "uzbek": "Mantiqli, oqilona",
+    "hint": "That's a reasonable price.",
+    "category": "Upper 5A 5B (31-39)"
+  },
+  {
+    "english": "Treat",
+    "uzbek": "Muomala qilmoq",
+    "hint": "They treat their staff well.",
+    "category": "Upper 5A 5B (31-39)"
+  },
+  {
+    "english": "Circumstance",
+    "uzbek": "Holat, sharoit",
+    "hint": "Under the circumstances, we did our best.",
+    "category": "Upper 5A 5B (31-39)"
+  },
+  {
+    "english": "Speak down (to sb)",
+    "uzbek": "Kamsitib gapirmoq",
+    "hint": "Don't speak down to me.",
+    "category": "Upper 5A 5B (31-39)"
+  },
+  {
+    "english": "Regret",
+    "uzbek": "Afsuslanmoq",
+    "hint": "I regret my mistake.",
+    "category": "Upper 5A 5B (31-39)"
+  },
+  {
+    "english": "Disagreeable",
+    "uzbek": "Yoqimsiz, noxush",
+    "hint": "He was in a disagreeable mood.",
+    "category": "Upper 5A 5B (31-39)"
+  },
+  {
+    "english": "Demand",
+    "uzbek": "Talab",
+    "hint": "The workers made a demand for higher pay.",
+    "category": "Upper 5A 5B (31-39)"
+  },
+  {
+    "english": "Apology",
+    "uzbek": "Uzr",
+    "hint": "He owes me an apology.",
+    "category": "Upper 5A 5B (31-39)"
+  },
+  {
+    "english": "Resent",
+    "uzbek": "Ranjimoq, xafa bo'lmoq",
+    "hint": "She resented his rude remark.",
+    "category": "Upper 5A 5B (31-39)"
+  }
+]
