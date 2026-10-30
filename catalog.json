@@ -419,6 +419,20 @@
           "name": "Reading 96-99",
           "words": 39,
           "version": "ce5e2481"
+        },
+        {
+          "id": "upper-5c-5d",
+          "name": "Upper 5C 5D",
+          "words": 23,
+          "version": "7cd34dba",
+          "added": "2026-10-30"
+        },
+        {
+          "id": "reading-100-105",
+          "name": "Reading 100-105",
+          "words": 65,
+          "version": "781c0d7c",
+          "added": "2026-10-30"
         }
       ]
     },
