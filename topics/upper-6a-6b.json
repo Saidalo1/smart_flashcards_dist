@@ -1,0 +1,296 @@
+[
+  {
+    "english": "Dairy products",
+    "uzbek": "sut mahsulotlari",
+    "hint": "Milk, cheese and yogurt are dairy products.",
+    "category": "Upper 6A 6B (1-15)"
+  },
+  {
+    "english": "Fizzy drinks",
+    "uzbek": "gazli ichimliklar",
+    "hint": "Fizzy drinks contain a lot of sugar.",
+    "category": "Upper 6A 6B (1-15)"
+  },
+  {
+    "english": "Poultry",
+    "uzbek": "parranda go'shti",
+    "hint": "Chicken and turkey are types of poultry.",
+    "category": "Upper 6A 6B (1-15)"
+  },
+  {
+    "english": "Processed food",
+    "uzbek": "qayta ishlangan oziq-ovqat",
+    "hint": "Processed food is often unhealthy.",
+    "category": "Upper 6A 6B (1-15)"
+  },
+  {
+    "english": "Pulses",
+    "uzbek": "dukkaklilar (loviya, no'xat)",
+    "hint": "Beans and lentils are pulses.",
+    "category": "Upper 6A 6B (1-15)"
+  },
+  {
+    "english": "Saturated fat",
+    "uzbek": "to'yingan yog'",
+    "hint": "Butter is high in saturated fat.",
+    "category": "Upper 6A 6B (1-15)"
+  },
+  {
+    "english": "Whole grain",
+    "uzbek": "to'liq (butun) don",
+    "hint": "Whole grain bread is good for you.",
+    "category": "Upper 6A 6B (1-15)"
+  },
+  {
+    "english": "Consume",
+    "uzbek": "iste'mol qilmoq",
+    "hint": "We consume too much sugar.",
+    "category": "Upper 6A 6B (1-15)"
+  },
+  {
+    "english": "Reduce",
+    "uzbek": "kamaytirmoq",
+    "hint": "Try to reduce your salt intake.",
+    "category": "Upper 6A 6B (1-15)"
+  },
+  {
+    "english": "Digest",
+    "uzbek": "hazm qilmoq",
+    "hint": "Some foods are hard to digest.",
+    "category": "Upper 6A 6B (1-15)"
+  },
+  {
+    "english": "Boost",
+    "uzbek": "kuchaytirmoq, oshirmoq",
+    "hint": "Vitamin C boosts the immune system.",
+    "category": "Upper 6A 6B (1-15)"
+  },
+  {
+    "english": "Produce",
+    "uzbek": "ishlab chiqarmoq",
+    "hint": "The factory produces cars.",
+    "category": "Upper 6A 6B (1-15)"
+  },
+  {
+    "english": "Contain",
+    "uzbek": "o'z ichiga olmoq, saqlamoq",
+    "hint": "This drink contains caffeine.",
+    "category": "Upper 6A 6B (1-15)"
+  },
+  {
+    "english": "Burn",
+    "uzbek": "yoqmoq, yondirmoq",
+    "hint": "Running helps you burn calories.",
+    "category": "Upper 6A 6B (1-15)"
+  },
+  {
+    "english": "Additives",
+    "uzbek": "oziq-ovqat qo'shimchalari",
+    "hint": "This juice has no artificial additives.",
+    "category": "Upper 6A 6B (1-15)"
+  },
+  {
+    "english": "Calcium",
+    "uzbek": "kalsiy",
+    "hint": "Milk is rich in calcium.",
+    "category": "Upper 6A 6B (16-30)"
+  },
+  {
+    "english": "Calories",
+    "uzbek": "kaloriya",
+    "hint": "This meal has 500 calories.",
+    "category": "Upper 6A 6B (16-30)"
+  },
+  {
+    "english": "Carbohydrate",
+    "uzbek": "uglevod",
+    "hint": "Bread is high in carbohydrates.",
+    "category": "Upper 6A 6B (16-30)"
+  },
+  {
+    "english": "Cholesterol",
+    "uzbek": "xolesterin",
+    "hint": "Too much cholesterol is bad for the heart.",
+    "category": "Upper 6A 6B (16-30)"
+  },
+  {
+    "english": "Fat",
+    "uzbek": "yog'",
+    "hint": "Fried food is high in fat.",
+    "category": "Upper 6A 6B (16-30)"
+  },
+  {
+    "english": "Fibre",
+    "uzbek": "tola, kletchatka",
+    "hint": "Vegetables are a good source of fibre.",
+    "category": "Upper 6A 6B (16-30)"
+  },
+  {
+    "english": "Mineral",
+    "uzbek": "mineral",
+    "hint": "The body needs minerals like iron.",
+    "category": "Upper 6A 6B (16-30)"
+  },
+  {
+    "english": "Nutrient",
+    "uzbek": "ozuqaviy modda",
+    "hint": "Fruit is full of important nutrients.",
+    "category": "Upper 6A 6B (16-30)"
+  },
+  {
+    "english": "Preservative",
+    "uzbek": "konservant",
+    "hint": "This bread contains no preservatives.",
+    "category": "Upper 6A 6B (16-30)"
+  },
+  {
+    "english": "Protein",
+    "uzbek": "oqsil, protein",
+    "hint": "Meat is a good source of protein.",
+    "category": "Upper 6A 6B (16-30)"
+  },
+  {
+    "english": "Vitamins",
+    "uzbek": "vitaminlar",
+    "hint": "Oranges are full of vitamins.",
+    "category": "Upper 6A 6B (16-30)"
+  },
+  {
+    "english": "Determination",
+    "uzbek": "qat'iyat, iroda",
+    "hint": "She succeeded through sheer determination.",
+    "category": "Upper 6A 6B (16-30)"
+  },
+  {
+    "english": "Substance",
+    "uzbek": "modda",
+    "hint": "Water is a natural substance.",
+    "category": "Upper 6A 6B (16-30)"
+  },
+  {
+    "english": "Obligation",
+    "uzbek": "majburiyat, burch",
+    "hint": "He felt an obligation to help.",
+    "category": "Upper 6A 6B (16-30)"
+  },
+  {
+    "english": "Prohibited",
+    "uzbek": "taqiqlangan",
+    "hint": "Smoking is prohibited here.",
+    "category": "Upper 6A 6B (16-30)"
+  },
+  {
+    "english": "Coeliac disease",
+    "uzbek": "seliakiya (gluten kasalligi)",
+    "hint": "People with coeliac disease avoid gluten.",
+    "category": "Upper 6A 6B (31-45)"
+  },
+  {
+    "english": "Anesthetics",
+    "uzbek": "og'riqsizlantiruvchi (anestetik)",
+    "hint": "The dentist used a local anesthetic.",
+    "category": "Upper 6A 6B (31-45)"
+  },
+  {
+    "english": "Advance",
+    "uzbek": "rivojlanish, ilgarilash",
+    "hint": "Recent advances in medicine save lives.",
+    "category": "Upper 6A 6B (31-45)"
+  },
+  {
+    "english": "Stitch (v; n)",
+    "uzbek": "tikmoq; tikuv, chok",
+    "hint": "The doctor put three stitches in the wound.",
+    "category": "Upper 6A 6B (31-45)"
+  },
+  {
+    "english": "Wound",
+    "uzbek": "yara, jarohat",
+    "hint": "The wound healed slowly.",
+    "category": "Upper 6A 6B (31-45)"
+  },
+  {
+    "english": "Relatively",
+    "uzbek": "nisbatan",
+    "hint": "This test was relatively easy.",
+    "category": "Upper 6A 6B (31-45)"
+  },
+  {
+    "english": "Adopt",
+    "uzbek": "qabul qilmoq, asrab olmoq",
+    "hint": "They adopted a new policy.",
+    "category": "Upper 6A 6B (31-45)"
+  },
+  {
+    "english": "Germ",
+    "uzbek": "mikrob",
+    "hint": "Wash your hands to kill germs.",
+    "category": "Upper 6A 6B (31-45)"
+  },
+  {
+    "english": "Eliminate",
+    "uzbek": "yo'qotmoq, bartaraf etmoq",
+    "hint": "We must eliminate all errors.",
+    "category": "Upper 6A 6B (31-45)"
+  },
+  {
+    "english": "Entirely",
+    "uzbek": "butunlay, to'liq",
+    "hint": "I entirely agree with you.",
+    "category": "Upper 6A 6B (31-45)"
+  },
+  {
+    "english": "Transmit",
+    "uzbek": "uzatmoq, yuqtirmoq",
+    "hint": "The disease is transmitted by insects.",
+    "category": "Upper 6A 6B (31-45)"
+  },
+  {
+    "english": "Plague",
+    "uzbek": "vabo, o'lat",
+    "hint": "The plague killed millions of people.",
+    "category": "Upper 6A 6B (31-45)"
+  },
+  {
+    "english": "Crop",
+    "uzbek": "hosil, ekin",
+    "hint": "The farmers harvested the wheat crop.",
+    "category": "Upper 6A 6B (31-45)"
+  },
+  {
+    "english": "Beat",
+    "uzbek": "ko'pirtirmoq, chalmoq",
+    "hint": "Beat the eggs before adding flour.",
+    "category": "Upper 6A 6B (31-45)"
+  },
+  {
+    "english": "Crush",
+    "uzbek": "ezmoq, maydalamoq",
+    "hint": "Crush the garlic with a knife.",
+    "category": "Upper 6A 6B (31-45)"
+  },
+  {
+    "english": "Melt",
+    "uzbek": "eritmoq",
+    "hint": "Melt the butter in a pan.",
+    "category": "Upper 6A 6B (46-49)"
+  },
+  {
+    "english": "Pour",
+    "uzbek": "quymoq",
+    "hint": "Pour the milk into the bowl.",
+    "category": "Upper 6A 6B (46-49)"
+  },
+  {
+    "english": "Stir",
+    "uzbek": "aralashtirmoq",
+    "hint": "Stir the soup gently.",
+    "category": "Upper 6A 6B (46-49)"
+  },
+  {
+    "english": "Whisk",
+    "uzbek": "ko'pirtirmoq (venchik bilan)",
+    "hint": "Whisk the cream until thick.",
+    "category": "Upper 6A 6B (46-49)"
+  }
+]

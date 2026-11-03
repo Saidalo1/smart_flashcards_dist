@@ -433,6 +433,20 @@
           "words": 65,
           "version": "781c0d7c",
           "added": "2026-10-30"
+        },
+        {
+          "id": "upper-6a-6b",
+          "name": "Upper 6A 6B",
+          "words": 49,
+          "version": "8e4685bc",
+          "added": "2026-11-03"
+        },
+        {
+          "id": "reading-106-110",
+          "name": "Reading 106-110",
+          "words": 50,
+          "version": "f5fde1d9",
+          "added": "2026-11-03"
         }
       ]
     },
