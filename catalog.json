@@ -487,6 +487,13 @@
           "words": 5,
           "version": "8d608bb8",
           "added": "2026-10-02"
+        },
+        {
+          "id": "upper-upper",
+          "name": "Upper",
+          "words": 140,
+          "version": "1.0.0",
+          "added": "2026-11-05"
         }
       ]
     }
