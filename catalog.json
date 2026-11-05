@@ -489,9 +489,9 @@
           "added": "2026-10-02"
         },
         {
-          "id": "upper-upper",
+          "id": "upper",
           "name": "Upper",
-          "words": 140,
+          "words": 210,
           "version": "1.0.0",
           "added": "2026-11-05"
         }
