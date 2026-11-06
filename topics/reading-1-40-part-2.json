@@ -1,0 +1,830 @@
+[
+  {
+    "english": "color-blind",
+    "uzbek": "ranglarni farqlay olmaslik",
+    "hint": "Color-blind people often confuse red and green.",
+    "category": "Reading 1-40 (Part 2) (1-15)"
+  },
+  {
+    "english": "on average",
+    "uzbek": "o'rtacha, odatda",
+    "hint": "On average, adults need about eight hours of sleep.",
+    "category": "Reading 1-40 (Part 2) (1-15)"
+  },
+  {
+    "english": "puppy",
+    "uzbek": "kuchukcha",
+    "hint": "The playful puppy chewed up my favourite leather slippers.",
+    "category": "Reading 1-40 (Part 2) (1-15)"
+  },
+  {
+    "english": "grown-up",
+    "uzbek": "voyaga yetgan, kattalar",
+    "hint": "You need to act like a responsible grown-up now.",
+    "category": "Reading 1-40 (Part 2) (1-15)"
+  },
+  {
+    "english": "indeed",
+    "uzbek": "haqiqatan ham, shubhasiz",
+    "hint": "It was indeed a memorable evening for all of us.",
+    "category": "Reading 1-40 (Part 2) (1-15)"
+  },
+  {
+    "english": "to compare with",
+    "uzbek": "taqqoslamoq, o'xshash bo'lmoq",
+    "hint": "How does your current city compare with your hometown?",
+    "category": "Reading 1-40 (Part 2) (1-15)"
+  },
+  {
+    "english": "expert",
+    "uzbek": "mutaxassis, usta",
+    "hint": "Consult an expert before investing in the stock market.",
+    "category": "Reading 1-40 (Part 2) (1-15)"
+  },
+  {
+    "english": "to employ",
+    "uzbek": "foydalanmoq, ishlatmoq",
+    "hint": "The teacher employs interactive games to engage learners.",
+    "category": "Reading 1-40 (Part 2) (1-15)"
+  },
+  {
+    "english": "to look after",
+    "uzbek": "parvarish qilmoq, qaramoq",
+    "hint": "She volunteered to look after her neighbour's garden.",
+    "category": "Reading 1-40 (Part 2) (1-15)"
+  },
+  {
+    "english": "to carry out",
+    "uzbek": "bajarilmoq, amalga oshirilmoq",
+    "hint": "Scientists will carry out experiments under strict safety protocols.",
+    "category": "Reading 1-40 (Part 2) (1-15)"
+  },
+  {
+    "english": "instruction",
+    "uzbek": "yo'riqnoma, ko'rsatma",
+    "hint": "Read every safety instruction carefully before operating the device.",
+    "category": "Reading 1-40 (Part 2) (1-15)"
+  },
+  {
+    "english": "truly",
+    "uzbek": "haqiqatan, rostdan ham",
+    "hint": "I am truly grateful for your endless support.",
+    "category": "Reading 1-40 (Part 2) (1-15)"
+  },
+  {
+    "english": "to long for",
+    "uzbek": "intilmoq, sog'inmoq",
+    "hint": "When living abroad, he longed for his mother's home cooking.",
+    "category": "Reading 1-40 (Part 2) (1-15)"
+  },
+  {
+    "english": "wealth",
+    "uzbek": "boylik, farovonlik, mulk",
+    "hint": "Good health is greater than all the wealth in the world.",
+    "category": "Reading 1-40 (Part 2) (1-15)"
+  },
+  {
+    "english": "to inflict",
+    "uzbek": "yetkazmoq, sabab bo'lmoq",
+    "hint": "The severe storm inflicted heavy damage upon the village.",
+    "category": "Reading 1-40 (Part 2) (1-15)"
+  },
+  {
+    "english": "estate",
+    "uzbek": "mulkiyat, yer",
+    "hint": "He inherited a vast country estate from his grandfather.",
+    "category": "Reading 1-40 (Part 2) (16-30)"
+  },
+  {
+    "english": "to require",
+    "uzbek": "talab qilmoq, kerak bo'lmoq",
+    "hint": "Complex mathematical calculations require deep focus.",
+    "category": "Reading 1-40 (Part 2) (16-30)"
+  },
+  {
+    "english": "attention",
+    "uzbek": "diqqat, e'tibor",
+    "hint": "Pay close attention to the instructions on the screen.",
+    "category": "Reading 1-40 (Part 2) (16-30)"
+  },
+  {
+    "english": "dispute",
+    "uzbek": "nizo, janjal",
+    "hint": "The two neighbours finally resolved their boundary dispute peacefully.",
+    "category": "Reading 1-40 (Part 2) (16-30)"
+  },
+  {
+    "english": "responsibility",
+    "uzbek": "majburiyat, mas'uliyat",
+    "hint": "Managing team funds is a heavy financial responsibility.",
+    "category": "Reading 1-40 (Part 2) (16-30)"
+  },
+  {
+    "english": "to settle down",
+    "uzbek": "joylashmoq, dam olmoq",
+    "hint": "After traveling across Europe, he decided to settle down in a small town.",
+    "category": "Reading 1-40 (Part 2) (16-30)"
+  },
+  {
+    "english": "to demand",
+    "uzbek": "talab qilmoq, so'ramoq",
+    "hint": "Workers gathered outside to demand better working conditions.",
+    "category": "Reading 1-40 (Part 2) (16-30)"
+  },
+  {
+    "english": "to scream",
+    "uzbek": "qichqirmoq, baqirmoq",
+    "hint": "The loud explosion caused people in the mall to scream.",
+    "category": "Reading 1-40 (Part 2) (16-30)"
+  },
+  {
+    "english": "to knock over",
+    "uzbek": "urib ag'darib yubormoq",
+    "hint": "The playful cat accidentally knocked over the flower vase.",
+    "category": "Reading 1-40 (Part 2) (16-30)"
+  },
+  {
+    "english": "to find out",
+    "uzbek": "aniqlamoq, bilib olmoq",
+    "hint": "Call the train station to find out when the next express arrives.",
+    "category": "Reading 1-40 (Part 2) (16-30)"
+  },
+  {
+    "english": "to refuse",
+    "uzbek": "rad etmoq, inkor qilmoq",
+    "hint": "He refused to accept money for simply helping a lost tourist.",
+    "category": "Reading 1-40 (Part 2) (16-30)"
+  },
+  {
+    "english": "to grow",
+    "uzbek": "o'smoq, bo'lib qolmoq",
+    "hint": "As twilight approached, the temperature began to grow colder.",
+    "category": "Reading 1-40 (Part 2) (16-30)"
+  },
+  {
+    "english": "childminder",
+    "uzbek": "bolalar parvarishi bilan shug'ullanuvchi",
+    "hint": "They hired a reliable childminder while they went to work.",
+    "category": "Reading 1-40 (Part 2) (16-30)"
+  },
+  {
+    "english": "to reduce",
+    "uzbek": "kamaytirmoq, qisqartirmoq",
+    "hint": "We need to reduce the amount of single-use plastic we consume.",
+    "category": "Reading 1-40 (Part 2) (16-30)"
+  },
+  {
+    "english": "to resent",
+    "uzbek": "nafratlanmoq, norozi bo'lmoq",
+    "hint": "He strongly resented being treated like an inexperienced beginner.",
+    "category": "Reading 1-40 (Part 2) (16-30)"
+  },
+  {
+    "english": "to reward",
+    "uzbek": "mukofotlamoq, taqdirlamoq",
+    "hint": "The company plans to reward top employees with an annual bonus.",
+    "category": "Reading 1-40 (Part 2) (31-45)"
+  },
+  {
+    "english": "well-suited",
+    "uzbek": "mos, to'g'ri keluvchi",
+    "hint": "Her calm patience makes her well-suited for teaching primary school.",
+    "category": "Reading 1-40 (Part 2) (31-45)"
+  },
+  {
+    "english": "to miss",
+    "uzbek": "sog'inmoq, intilmoq",
+    "hint": "I always miss my family whenever I travel far away.",
+    "category": "Reading 1-40 (Part 2) (31-45)"
+  },
+  {
+    "english": "to encounter",
+    "uzbek": "kutilmaganda uchratmoq",
+    "hint": "Hikers in these hills often encounter wild mountain goats.",
+    "category": "Reading 1-40 (Part 2) (31-45)"
+  },
+  {
+    "english": "relentless",
+    "uzbek": "shafqatsiz, tinimsiz",
+    "hint": "The athlete's relentless dedication led him to an Olympic gold.",
+    "category": "Reading 1-40 (Part 2) (31-45)"
+  },
+  {
+    "english": "slave driver",
+    "uzbek": "zo'r beruvchi ish beruvchi",
+    "hint": "Our manager acts like a slave driver during deadline weeks.",
+    "category": "Reading 1-40 (Part 2) (31-45)"
+  },
+  {
+    "english": "unshaven",
+    "uzbek": "soqoli olinmagan",
+    "hint": "After three days of camping in the wild, he looked completely unshaven.",
+    "category": "Reading 1-40 (Part 2) (31-45)"
+  },
+  {
+    "english": "to resemble",
+    "uzbek": "o'xshamoq, teng bo'lmoq",
+    "hint": "The baby girl clearly resembles her grandmother in appearance.",
+    "category": "Reading 1-40 (Part 2) (31-45)"
+  },
+  {
+    "english": "shabby-looking",
+    "uzbek": "eski, yirtiq kiyimda",
+    "hint": "He wore a shabby-looking wool coat with frayed sleeves.",
+    "category": "Reading 1-40 (Part 2) (31-45)"
+  },
+  {
+    "english": "familiar",
+    "uzbek": "tanish, ma'lum",
+    "hint": "Her warm voice sounded very familiar to everyone present.",
+    "category": "Reading 1-40 (Part 2) (31-45)"
+  },
+  {
+    "english": "to regard as",
+    "uzbek": "deb hisoblamoq",
+    "hint": "Historians regard him as one of the century's visionary leaders.",
+    "category": "Reading 1-40 (Part 2) (31-45)"
+  },
+  {
+    "english": "to hit",
+    "uzbek": "ta'sir qilmoq, anglatmoq",
+    "hint": "The sudden truth of what had happened hit him like a shockwave.",
+    "category": "Reading 1-40 (Part 2) (31-45)"
+  },
+  {
+    "english": "walks of life",
+    "uzbek": "jamiyatdagi turli qatlam va kasblar",
+    "hint": "The charity concert brought together people from all walks of life.",
+    "category": "Reading 1-40 (Part 2) (31-45)"
+  },
+  {
+    "english": "scuba diving",
+    "uzbek": "akvalang bilan suv ostiga sho'ng'ish",
+    "hint": "He tried scuba diving for the first time along the coral reef.",
+    "category": "Reading 1-40 (Part 2) (31-45)"
+  },
+  {
+    "english": "to master",
+    "uzbek": "egallamoq, o'rganib olmoq",
+    "hint": "It takes years of deliberate practice to master a classical violin.",
+    "category": "Reading 1-40 (Part 2) (31-45)"
+  },
+  {
+    "english": "initially",
+    "uzbek": "dastavval, avval",
+    "hint": "Initially, she struggled with programming, but now she excels at it.",
+    "category": "Reading 1-40 (Part 2) (46-60)"
+  },
+  {
+    "english": "regulation",
+    "uzbek": "qoidalar, tartib",
+    "hint": "Every airline passenger must follow safety regulations strictly.",
+    "category": "Reading 1-40 (Part 2) (46-60)"
+  },
+  {
+    "english": "well-off",
+    "uzbek": "boy, farovon",
+    "hint": "His parents are quite well-off and funded his university studies.",
+    "category": "Reading 1-40 (Part 2) (46-60)"
+  },
+  {
+    "english": "free of charge",
+    "uzbek": "bepul, tekin",
+    "hint": "The museum offers student admission free of charge every Friday.",
+    "category": "Reading 1-40 (Part 2) (46-60)"
+  },
+  {
+    "english": "crime",
+    "uzbek": "jinoyat, qonunga xilof harakat",
+    "hint": "Local authorities are working to reduce street crime in the district.",
+    "category": "Reading 1-40 (Part 2) (46-60)"
+  },
+  {
+    "english": "suburb",
+    "uzbek": "shaharning chekka hududi, shahar atrofi",
+    "hint": "They moved to a quiet green suburb to raise their children.",
+    "category": "Reading 1-40 (Part 2) (46-60)"
+  },
+  {
+    "english": "to have publicity",
+    "uzbek": "tanilgan bo'lmoq, ommaga ma'lum bo'lmoq",
+    "hint": "The new charity drive had wide publicity across social networks.",
+    "category": "Reading 1-40 (Part 2) (46-60)"
+  },
+  {
+    "english": "prevention",
+    "uzbek": "oldini olish, profilaktika",
+    "hint": "Accident prevention is the primary focus of factory safety guidelines.",
+    "category": "Reading 1-40 (Part 2) (46-60)"
+  },
+  {
+    "english": "aid",
+    "uzbek": "yordam",
+    "hint": "International aid arrived promptly after the earthquake.",
+    "category": "Reading 1-40 (Part 2) (46-60)"
+  },
+  {
+    "english": "to watch out for",
+    "uzbek": "ehtiyot bo'lmoq, hushyor bo'lmoq",
+    "hint": "Watch out for black ice when driving on mountain passes.",
+    "category": "Reading 1-40 (Part 2) (46-60)"
+  },
+  {
+    "english": "to sponsor",
+    "uzbek": "moliyalashtirmoq, homiylik qilmoq",
+    "hint": "A local bank volunteered to sponsor the youth football tournament.",
+    "category": "Reading 1-40 (Part 2) (46-60)"
+  },
+  {
+    "english": "alert",
+    "uzbek": "hushyor, ehtiyotkor",
+    "hint": "The security guards remained alert throughout the midnight shift.",
+    "category": "Reading 1-40 (Part 2) (46-60)"
+  },
+  {
+    "english": "hectic",
+    "uzbek": "tashvishli, tartibsiz, shovqinli",
+    "hint": "I had a hectic work day dealing with back-to-back meetings.",
+    "category": "Reading 1-40 (Part 2) (46-60)"
+  },
+  {
+    "english": "to prevail",
+    "uzbek": "keng tarqalmoq, ustun bo'lmoq",
+    "hint": "We hope that reason and peace will prevail over anger.",
+    "category": "Reading 1-40 (Part 2) (46-60)"
+  },
+  {
+    "english": "to drive",
+    "uzbek": "majbur qilmoq, undamoq",
+    "hint": "Hunger and desperation drove them to search for work far away.",
+    "category": "Reading 1-40 (Part 2) (46-60)"
+  },
+  {
+    "english": "to urge",
+    "uzbek": "undamoq, majbur qilmoq",
+    "hint": "Doctors urge everyone to get vaccinated before winter arrives.",
+    "category": "Reading 1-40 (Part 2) (61-75)"
+  },
+  {
+    "english": "intently",
+    "uzbek": "diqqat bilan, e'tibor bilan",
+    "hint": "The detective stared intently at the surveillance footage.",
+    "category": "Reading 1-40 (Part 2) (61-75)"
+  },
+  {
+    "english": "well-qualified",
+    "uzbek": "yetarlicha malakali, tajribali",
+    "hint": "She is a well-qualified applicant for the lead developer role.",
+    "category": "Reading 1-40 (Part 2) (61-75)"
+  },
+  {
+    "english": "knack",
+    "uzbek": "mahorat, qobiliyat",
+    "hint": "He has a natural knack for explaining complex mathematics simply.",
+    "category": "Reading 1-40 (Part 2) (61-75)"
+  },
+  {
+    "english": "to go down well with",
+    "uzbek": "qabul qilinmoq, ma'qullanmoq",
+    "hint": "The director's new proposal did not go down well with the staff.",
+    "category": "Reading 1-40 (Part 2) (61-75)"
+  },
+  {
+    "english": "thanks to",
+    "uzbek": "natijada, tufayli",
+    "hint": "Thanks to modern medical science, life expectancy has increased.",
+    "category": "Reading 1-40 (Part 2) (61-75)"
+  },
+  {
+    "english": "to keep someone at",
+    "uzbek": "kimnidir ishga majbur qilmoq",
+    "hint": "The strict supervisor kept the crew at work until dusk.",
+    "category": "Reading 1-40 (Part 2) (61-75)"
+  },
+  {
+    "english": "to put something over",
+    "uzbek": "muvaffaqiyatli yetkazmoq, tushuntirmoq",
+    "hint": "He managed to put his arguments over with great clarity.",
+    "category": "Reading 1-40 (Part 2) (61-75)"
+  },
+  {
+    "english": "to come a long way",
+    "uzbek": "katta yutuqlarga erishmoq",
+    "hint": "Artificial intelligence has come a long way in just five years.",
+    "category": "Reading 1-40 (Part 2) (61-75)"
+  },
+  {
+    "english": "jam",
+    "uzbek": "tirbandlik, tiqilinch",
+    "hint": "We were stuck in a colossal traffic jam on the motorway.",
+    "category": "Reading 1-40 (Part 2) (61-75)"
+  },
+  {
+    "english": "amenity",
+    "uzbek": "qulaylik, infratuzilma",
+    "hint": "The hotel offers every modern amenity including high-speed internet.",
+    "category": "Reading 1-40 (Part 2) (61-75)"
+  },
+  {
+    "english": "to pose",
+    "uzbek": "yaratmoq, yuzaga keltirmoq",
+    "hint": "Cyberattacks pose a serious threat to national security.",
+    "category": "Reading 1-40 (Part 2) (61-75)"
+  },
+  {
+    "english": "queue",
+    "uzbek": "navbat, qatorma-qator turish",
+    "hint": "People stood patiently in a long queue outside the cinema.",
+    "category": "Reading 1-40 (Part 2) (61-75)"
+  },
+  {
+    "english": "bearable",
+    "uzbek": "bardoshli, chidamli",
+    "hint": "The air conditioning made the blistering summer heat bearable.",
+    "category": "Reading 1-40 (Part 2) (61-75)"
+  },
+  {
+    "english": "power failure",
+    "uzbek": "elektr energiyasi uzilishi",
+    "hint": "The sudden storm caused a citywide power failure.",
+    "category": "Reading 1-40 (Part 2) (61-75)"
+  },
+  {
+    "english": "sufficient",
+    "uzbek": "yetarli",
+    "hint": "Do we have sufficient supplies to last through the weekend?",
+    "category": "Reading 1-40 (Part 2) (76-90)"
+  },
+  {
+    "english": "supply",
+    "uzbek": "ta'minot, zaxira",
+    "hint": "Clean drinking water supply remains a top priority in dry areas.",
+    "category": "Reading 1-40 (Part 2) (76-90)"
+  },
+  {
+    "english": "dweller",
+    "uzbek": "aholi, yashovchi",
+    "hint": "City dwellers often escape to the countryside on weekends.",
+    "category": "Reading 1-40 (Part 2) (76-90)"
+  },
+  {
+    "english": "pet",
+    "uzbek": "uy hayvoni",
+    "hint": "Having a pet teaches young children how to be responsible.",
+    "category": "Reading 1-40 (Part 2) (76-90)"
+  },
+  {
+    "english": "toy",
+    "uzbek": "o'yinchoq",
+    "hint": "The wooden train was his favourite childhood toy.",
+    "category": "Reading 1-40 (Part 2) (76-90)"
+  },
+  {
+    "english": "independent",
+    "uzbek": "mustaqil, erkin",
+    "hint": "She grew up to be an independent and confident researcher.",
+    "category": "Reading 1-40 (Part 2) (76-90)"
+  },
+  {
+    "english": "to prevent",
+    "uzbek": "to'sqinlik qilmoq, oldini olmoq",
+    "hint": "Regular handwashing helps prevent the spread of infections.",
+    "category": "Reading 1-40 (Part 2) (76-90)"
+  },
+  {
+    "english": "to suggest",
+    "uzbek": "taklif qilmoq, maslahat bermoq",
+    "hint": "Can you suggest a quiet café nearby where we can talk?",
+    "category": "Reading 1-40 (Part 2) (76-90)"
+  },
+  {
+    "english": "to compare",
+    "uzbek": "solishtirmoq, taqqoslamoq",
+    "hint": "It is unfair to compare two children with different talents.",
+    "category": "Reading 1-40 (Part 2) (76-90)"
+  },
+  {
+    "english": "affectionate",
+    "uzbek": "mehribon, samimiy",
+    "hint": "Golden Retrievers are well-known for their affectionate nature.",
+    "category": "Reading 1-40 (Part 2) (76-90)"
+  },
+  {
+    "english": "in favor of",
+    "uzbek": "qo'llab-quvvatlash, tarafdori bo'lish",
+    "hint": "Most committee members voted in favor of the new policy.",
+    "category": "Reading 1-40 (Part 2) (76-90)"
+  },
+  {
+    "english": "due to",
+    "uzbek": "sababli, tufayli",
+    "hint": "The flight delay was entirely due to dense morning fog.",
+    "category": "Reading 1-40 (Part 2) (76-90)"
+  },
+  {
+    "english": "to determine",
+    "uzbek": "aniqlamoq, belgilamoq",
+    "hint": "DNA tests were conducted to determine the ancient fossil's origin.",
+    "category": "Reading 1-40 (Part 2) (76-90)"
+  },
+  {
+    "english": "to advocate",
+    "uzbek": "himoya qilmoq, tarafdori bo'lmoq",
+    "hint": "Doctors advocate an active lifestyle to maintain cardiac health.",
+    "category": "Reading 1-40 (Part 2) (76-90)"
+  },
+  {
+    "english": "to state",
+    "uzbek": "ta'kidlash, bildirmoq",
+    "hint": "The official report stated that no passengers were injured.",
+    "category": "Reading 1-40 (Part 2) (76-90)"
+  },
+  {
+    "english": "in support of",
+    "uzbek": "qo'llab-quvvatlash uchun",
+    "hint": "Citizens staged a peaceful march in support of clean air laws.",
+    "category": "Reading 1-40 (Part 2) (91-105)"
+  },
+  {
+    "english": "let alone",
+    "uzbek": "aytmayam, gapirmasam ham",
+    "hint": "He cannot afford a bicycle, let alone a brand new car.",
+    "category": "Reading 1-40 (Part 2) (91-105)"
+  },
+  {
+    "english": "to go bankrupt",
+    "uzbek": "bankrot bo'lmoq, biznesdan chiqmoq",
+    "hint": "High debt caused the retail chain to go bankrupt.",
+    "category": "Reading 1-40 (Part 2) (91-105)"
+  },
+  {
+    "english": "rivalry",
+    "uzbek": "raqobat, bellashuv",
+    "hint": "There has always been intense rivalry between the two football teams.",
+    "category": "Reading 1-40 (Part 2) (91-105)"
+  },
+  {
+    "english": "what's more",
+    "uzbek": "buning ustiga, bundan tashqari",
+    "hint": "The apartment is cheap, and what's more, it is close to the metro.",
+    "category": "Reading 1-40 (Part 2) (91-105)"
+  },
+  {
+    "english": "to employ",
+    "uzbek": "ishlatmoq, ishga olmoq",
+    "hint": "The manufacturing plant employs over five hundred local residents.",
+    "category": "Reading 1-40 (Part 2) (91-105)"
+  },
+  {
+    "english": "spy",
+    "uzbek": "shpion, josus",
+    "hint": "The covert operative worked as an undercover spy abroad.",
+    "category": "Reading 1-40 (Part 2) (91-105)"
+  },
+  {
+    "english": "enemy",
+    "uzbek": "dushman, raqib",
+    "hint": "During wartime, understanding your enemy's moves is vital.",
+    "category": "Reading 1-40 (Part 2) (91-105)"
+  },
+  {
+    "english": "to capture",
+    "uzbek": "hibsga olmoq, ushlamoq",
+    "hint": "Police managed to capture the escaped prisoner within hours.",
+    "category": "Reading 1-40 (Part 2) (91-105)"
+  },
+  {
+    "english": "to draw up",
+    "uzbek": "to'xtamoq, kelib to'xtamoq",
+    "hint": "A sleek black limousine drew up right outside the hotel gates.",
+    "category": "Reading 1-40 (Part 2) (91-105)"
+  },
+  {
+    "english": "to step out",
+    "uzbek": "chiqib ketmoq, tashqariga chiqmoq",
+    "hint": "He stepped out of the vehicle and looked up at the skyscraper.",
+    "category": "Reading 1-40 (Part 2) (91-105)"
+  },
+  {
+    "english": "to glance at",
+    "uzbek": "qisqa qaramoq, nigoh solmoq",
+    "hint": "He glanced at his watch and realized he was twenty minutes late.",
+    "category": "Reading 1-40 (Part 2) (91-105)"
+  },
+  {
+    "english": "to make one's way",
+    "uzbek": "yo'l olmoq, borib yetmoq",
+    "hint": "They slowly made their way through the crowded railway terminal.",
+    "category": "Reading 1-40 (Part 2) (91-105)"
+  },
+  {
+    "english": "to pull away",
+    "uzbek": "ketmoq, uzoqlashmoq",
+    "hint": "The passenger train gently pulled away from the platform.",
+    "category": "Reading 1-40 (Part 2) (91-105)"
+  },
+  {
+    "english": "exchange",
+    "uzbek": "almashish, ayirboshlash",
+    "hint": "The university organizes an annual student exchange programme.",
+    "category": "Reading 1-40 (Part 2) (91-105)"
+  },
+  {
+    "english": "to pursue",
+    "uzbek": "ta'qib qilmoq, ketidan bormoq",
+    "hint": "She decided to move to London to pursue a career in music.",
+    "category": "Reading 1-40 (Part 2) (106-120)"
+  },
+  {
+    "english": "to relish",
+    "uzbek": "hushnud bo'lmoq, zavqlanmoq",
+    "hint": "He relished every single opportunity to debate tough issues.",
+    "category": "Reading 1-40 (Part 2) (106-120)"
+  },
+  {
+    "english": "immensely",
+    "uzbek": "juda, ulkan darajada",
+    "hint": "I immensely enjoyed reading your newly published novel.",
+    "category": "Reading 1-40 (Part 2) (106-120)"
+  },
+  {
+    "english": "to extend",
+    "uzbek": "kengaytirmoq, cho'zmoq",
+    "hint": "The university decided to extend the registration deadline by a week.",
+    "category": "Reading 1-40 (Part 2) (106-120)"
+  },
+  {
+    "english": "range",
+    "uzbek": "doira, chegara, diapazon",
+    "hint": "The store offers a wide range of organic agricultural products.",
+    "category": "Reading 1-40 (Part 2) (106-120)"
+  },
+  {
+    "english": "to claim",
+    "uzbek": "da'vo qilmoq, aytmoq",
+    "hint": "Scientists claim to have found evidence of liquid water.",
+    "category": "Reading 1-40 (Part 2) (106-120)"
+  },
+  {
+    "english": "throughout",
+    "uzbek": "butunlay, davomida",
+    "hint": "She remained composed and calm throughout the entire trial.",
+    "category": "Reading 1-40 (Part 2) (106-120)"
+  },
+  {
+    "english": "to be concerned",
+    "uzbek": "xavotirda bo'lmoq",
+    "hint": "Parents are deeply concerned about rising screen time in schools.",
+    "category": "Reading 1-40 (Part 2) (106-120)"
+  },
+  {
+    "english": "to ensure",
+    "uzbek": "ta'minlamoq, kafolat bermoq",
+    "hint": "Regular audits ensure compliance with strict hygiene standards.",
+    "category": "Reading 1-40 (Part 2) (106-120)"
+  },
+  {
+    "english": "association",
+    "uzbek": "uyushma, ittifoq",
+    "hint": "He was elected president of the national journalists' association.",
+    "category": "Reading 1-40 (Part 2) (106-120)"
+  },
+  {
+    "english": "to outlaw",
+    "uzbek": "taqiqlamoq, noqonuniy deb e'lon qilmoq",
+    "hint": "The government took bold steps to outlaw dangerous industrial chemicals.",
+    "category": "Reading 1-40 (Part 2) (106-120)"
+  },
+  {
+    "english": "to abide by",
+    "uzbek": "amal qilmoq, rioya qilmoq",
+    "hint": "All competitors must abide by the official tournament rules.",
+    "category": "Reading 1-40 (Part 2) (106-120)"
+  },
+  {
+    "english": "to prove",
+    "uzbek": "isbotlamoq, ko'rsatmoq",
+    "hint": "The experimental results proved the truth of his hypothesis.",
+    "category": "Reading 1-40 (Part 2) (106-120)"
+  },
+  {
+    "english": "disposed",
+    "uzbek": "tayyor, moyil",
+    "hint": "The committee seemed favourably disposed towards our grant proposal.",
+    "category": "Reading 1-40 (Part 2) (106-120)"
+  },
+  {
+    "english": "occasional",
+    "uzbek": "vaqt-vaqti bilan, kamdan-kam",
+    "hint": "Aside from occasional showers, the weather remained sunny.",
+    "category": "Reading 1-40 (Part 2) (106-120)"
+  },
+  {
+    "english": "interruption",
+    "uzbek": "to'xtash, uzilish",
+    "hint": "We need two hours of undisturbed work without any interruption.",
+    "category": "Reading 1-40 (Part 2) (121-135)"
+  },
+  {
+    "english": "to participate in",
+    "uzbek": "ishtirok etmoq",
+    "hint": "Over two thousand runners participated in the charity marathon.",
+    "category": "Reading 1-40 (Part 2) (121-135)"
+  },
+  {
+    "english": "to reside",
+    "uzbek": "yashamoq, istiqomat qilmoq",
+    "hint": "They currently reside in an apartment overlooking the bay.",
+    "category": "Reading 1-40 (Part 2) (121-135)"
+  },
+  {
+    "english": "square",
+    "uzbek": "maydon",
+    "hint": "Tourists crowded into the historic central town square.",
+    "category": "Reading 1-40 (Part 2) (121-135)"
+  },
+  {
+    "english": "to toss",
+    "uzbek": "yengil tashlamoq",
+    "hint": "He casually tossed the brass keys onto the kitchen counter.",
+    "category": "Reading 1-40 (Part 2) (121-135)"
+  },
+  {
+    "english": "to run",
+    "uzbek": "o'tkazilmoq (musobaqa)",
+    "hint": "The famous cross-country horse race is run every spring.",
+    "category": "Reading 1-40 (Part 2) (121-135)"
+  },
+  {
+    "english": "to renege on",
+    "uzbek": "va'dani buzmoq, chekinmoq",
+    "hint": "It is dishonourable to renege on a signed business deal.",
+    "category": "Reading 1-40 (Part 2) (121-135)"
+  },
+  {
+    "english": "to consent",
+    "uzbek": "rozi bo'lmoq",
+    "hint": "A patient must consent before the surgeon can begin.",
+    "category": "Reading 1-40 (Part 2) (121-135)"
+  },
+  {
+    "english": "further",
+    "uzbek": "yana, qo'shimcha",
+    "hint": "For further details, please consult our official website.",
+    "category": "Reading 1-40 (Part 2) (121-135)"
+  },
+  {
+    "english": "to take part in",
+    "uzbek": "ishtirok etmoq",
+    "hint": "Students are encouraged to take part in debate clubs.",
+    "category": "Reading 1-40 (Part 2) (121-135)"
+  },
+  {
+    "english": "to go through with",
+    "uzbek": "bajarib tugatmoq, oxiriga yetkazmoq",
+    "hint": "Despite the risks, she decided to go through with the expedition.",
+    "category": "Reading 1-40 (Part 2) (121-135)"
+  },
+  {
+    "english": "magistrate",
+    "uzbek": "sudya, sud organi xodimi",
+    "hint": "The suspect was brought before the local magistrate this morning.",
+    "category": "Reading 1-40 (Part 2) (121-135)"
+  },
+  {
+    "english": "to be involved in",
+    "uzbek": "aloqador bo'lmoq, aralashmoq",
+    "hint": "He denied being involved in any illegal financial schemes.",
+    "category": "Reading 1-40 (Part 2) (121-135)"
+  },
+  {
+    "english": "incoherently",
+    "uzbek": "tushunarsiz, noaniq gapirmoq",
+    "hint": "Shocked by the news, he stammered incoherently for a minute.",
+    "category": "Reading 1-40 (Part 2) (121-135)"
+  },
+  {
+    "english": "to be terrified of",
+    "uzbek": "qo'rqmoq, daxshatga tushmoq",
+    "hint": "Many small children are terrified of thunder and darkness.",
+    "category": "Reading 1-40 (Part 2) (121-135)"
+  },
+  {
+    "english": "pulse",
+    "uzbek": "urish, puls",
+    "hint": "The paramedic checked the injured driver's wrist pulse.",
+    "category": "Reading 1-40 (Part 2) (136-138)"
+  },
+  {
+    "english": "respiratory",
+    "uzbek": "nafas olish bilan bog'liq",
+    "hint": "Asthma is a widespread chronic respiratory condition.",
+    "category": "Reading 1-40 (Part 2) (136-138)"
+  },
+  {
+    "english": "to double",
+    "uzbek": "ikki barobar ko'paymoq",
+    "hint": "The tech company managed to double its yearly profits.",
+    "category": "Reading 1-40 (Part 2) (136-138)"
+  }
+]

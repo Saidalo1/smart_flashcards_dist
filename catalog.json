@@ -388,37 +388,37 @@
           "id": "upper-best-years-reading",
           "name": "Best Years (Reading)",
           "words": 22,
-          "version": "488b760a"
+          "version": "f6d1cf79"
         },
         {
           "id": "upper-4a-4b",
           "name": "Upper 4A 4B",
           "words": 68,
-          "version": "d25a03ec"
+          "version": "2b8863f1"
         },
         {
           "id": "upper-4c-4d",
           "name": "Upper 4C 4D",
           "words": 21,
-          "version": "ec332be0"
+          "version": "26e1621d"
         },
         {
           "id": "reading-88-91",
           "name": "Reading 88-91",
           "words": 37,
-          "version": "df9cfbcf"
+          "version": "d3a4fcf7"
         },
         {
           "id": "upper-5a-5b",
           "name": "Upper 5A 5B",
           "words": 39,
-          "version": "bd1aaaf7"
+          "version": "86698a62"
         },
         {
           "id": "reading-96-99",
           "name": "Reading 96-99",
           "words": 39,
-          "version": "ce5e2481"
+          "version": "2927283b"
         },
         {
           "id": "upper-5c-5d",
@@ -447,6 +447,27 @@
           "words": 50,
           "version": "f5fde1d9",
           "added": "2026-11-03"
+        },
+        {
+          "id": "reading-1-40-part-1",
+          "name": "Reading 1-40 (Part 1)",
+          "words": 139,
+          "version": "3b980a90",
+          "added": "2026-11-06"
+        },
+        {
+          "id": "reading-1-40-part-2",
+          "name": "Reading 1-40 (Part 2)",
+          "words": 138,
+          "version": "0deea46e",
+          "added": "2026-11-06"
+        },
+        {
+          "id": "reading-1-40-part-3",
+          "name": "Reading 1-40 (Part 3)",
+          "words": 117,
+          "version": "a5affabc",
+          "added": "2026-11-06"
         }
       ]
     },
@@ -487,13 +508,6 @@
           "words": 5,
           "version": "8d608bb8",
           "added": "2026-10-02"
-        },
-        {
-          "id": "upper-upper",
-          "name": "Upper",
-          "words": 210,
-          "version": "1.0.0",
-          "added": "2026-11-05"
         }
       ]
     }
