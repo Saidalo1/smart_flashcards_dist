@@ -482,6 +482,18 @@
           "words": 15,
           "version": "2fd0a722",
           "added": "2026-11-09"
+        },
+        {
+          "id": "upper-8a-8b",
+          "name": "Upper 8A 8B",
+          "words": 41,
+          "version": "762fa0ef"
+        },
+        {
+          "id": "upper-8c-8d",
+          "name": "Upper 8C 8D",
+          "words": 12,
+          "version": "5bcb4afb"
         }
       ]
     },
