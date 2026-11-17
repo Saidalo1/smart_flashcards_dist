@@ -501,6 +501,12 @@
           "words": 62,
           "version": "cd2c0c76",
           "added": "2026-11-14"
+        },
+        {
+          "id": "els-reading-vocab",
+          "name": "ELS Reading Vocab",
+          "words": 88,
+          "version": "386509a3"
         }
       ]
     },
