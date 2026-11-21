@@ -1,0 +1,386 @@
+[
+  {
+    "english": "duty",
+    "uzbek": "xizmat vazifasi",
+    "hint": "The policeman was on duty.",
+    "category": "ELS 24-28 (1-15)"
+  },
+  {
+    "english": "traditions",
+    "uzbek": "urf-odatlar, an'analar",
+    "hint": "They keep many old traditions.",
+    "category": "ELS 24-28 (1-15)"
+  },
+  {
+    "english": "outstanding",
+    "uzbek": "ajoyib, a'lo darajadagi",
+    "hint": "She did outstanding work.",
+    "category": "ELS 24-28 (1-15)"
+  },
+  {
+    "english": "container",
+    "uzbek": "idish, qop",
+    "hint": "Put the food in a container.",
+    "category": "ELS 24-28 (1-15)"
+  },
+  {
+    "english": "deprive themselves",
+    "uzbek": "o'zlarini mahrum qilmoq",
+    "hint": "They deprive themselves of comfort.",
+    "category": "ELS 24-28 (1-15)"
+  },
+  {
+    "english": "brass band",
+    "uzbek": "mis asbob guruhi",
+    "hint": "A brass band marched through the street.",
+    "category": "ELS 24-28 (1-15)"
+  },
+  {
+    "english": "passage",
+    "uzbek": "o'tish, o'tish jarayoni",
+    "hint": "Birth is often seen as a passage into life.",
+    "category": "ELS 24-28 (1-15)"
+  },
+  {
+    "english": "exotic",
+    "uzbek": "g'aroyib, ekzotik",
+    "hint": "They wore exotic costumes.",
+    "category": "ELS 24-28 (1-15)"
+  },
+  {
+    "english": "acute",
+    "uzbek": "keskin, og'ir",
+    "hint": "There is an acute shortage of money.",
+    "category": "ELS 24-28 (1-15)"
+  },
+  {
+    "english": "pay their last respects",
+    "uzbek": "so'nggi hurmatni bajo keltirmoq",
+    "hint": "People came to pay their last respects.",
+    "category": "ELS 24-28 (1-15)"
+  },
+  {
+    "english": "abdomen",
+    "uzbek": "qorin qismi",
+    "hint": "The organ is located on its abdomen.",
+    "category": "ELS 24-28 (1-15)"
+  },
+  {
+    "english": "quotes",
+    "uzbek": "iqtibos keltiradi",
+    "hint": "He quotes an old proverb.",
+    "category": "ELS 24-28 (1-15)"
+  },
+  {
+    "english": "bank holiday",
+    "uzbek": "rasmiy dam olish kuni",
+    "hint": "Banks are closed on a bank holiday.",
+    "category": "ELS 24-28 (1-15)"
+  },
+  {
+    "english": "memorial",
+    "uzbek": "yodgorlik, xotira belgisi",
+    "hint": "The prize is a memorial to his ideals.",
+    "category": "ELS 24-28 (1-15)"
+  },
+  {
+    "english": "halt",
+    "uzbek": "to'xtatmoq",
+    "hint": "The guards tried to halt the lion.",
+    "category": "ELS 24-28 (1-15)"
+  },
+  {
+    "english": "cleansing",
+    "uzbek": "tozalash, poklash",
+    "hint": "The ritual symbolizes cleansing.",
+    "category": "ELS 24-28 (16-30)"
+  },
+  {
+    "english": "gather",
+    "uzbek": "to'planmoq, yig'ilmoq",
+    "hint": "Friends gathered to say goodbye.",
+    "category": "ELS 24-28 (16-30)"
+  },
+  {
+    "english": "elaborate",
+    "uzbek": "hashamatli, puxta ishlangan",
+    "hint": "She gave elaborate gifts.",
+    "category": "ELS 24-28 (16-30)"
+  },
+  {
+    "english": "soul",
+    "uzbek": "ruh, jon",
+    "hint": "They believe the soul lives on after death.",
+    "category": "ELS 24-28 (16-30)"
+  },
+  {
+    "english": "in private",
+    "uzbek": "yolg'iz holda, boshqalarsiz",
+    "hint": "He often felt sad in private.",
+    "category": "ELS 24-28 (16-30)"
+  },
+  {
+    "english": "obsessed",
+    "uzbek": "fikri band bo'lgan, mahliyo bo'lgan",
+    "hint": "He is obsessed with saving money.",
+    "category": "ELS 24-28 (16-30)"
+  },
+  {
+    "english": "steel band",
+    "uzbek": "po'lat baraban guruhi",
+    "hint": "A steel band played at the festival.",
+    "category": "ELS 24-28 (16-30)"
+  },
+  {
+    "english": "hardens",
+    "uzbek": "qattiqlashadi",
+    "hint": "The silk hardens in the air.",
+    "category": "ELS 24-28 (16-30)"
+  },
+  {
+    "english": "modify",
+    "uzbek": "o'zgartirmoq",
+    "hint": "They need to modify their habits.",
+    "category": "ELS 24-28 (16-30)"
+  },
+  {
+    "english": "scattered",
+    "uzbek": "sochilgan, tarqatilgan",
+    "hint": "The ashes were scattered over the sea.",
+    "category": "ELS 24-28 (16-30)"
+  },
+  {
+    "english": "publicity",
+    "uzbek": "ommaviy e'tibor, reklama",
+    "hint": "He avoided all publicity.",
+    "category": "ELS 24-28 (16-30)"
+  },
+  {
+    "english": "glory",
+    "uzbek": "shon-shuhrat",
+    "hint": "His name brought fame and glory.",
+    "category": "ELS 24-28 (16-30)"
+  },
+  {
+    "english": "celebration",
+    "uzbek": "bayram, tantana",
+    "hint": "They held a celebration for the new year.",
+    "category": "ELS 24-28 (16-30)"
+  },
+  {
+    "english": "amplifiers",
+    "uzbek": "kuchaytirgichlar",
+    "hint": "Amplifiers made the music very loud.",
+    "category": "ELS 24-28 (16-30)"
+  },
+  {
+    "english": "tropical fruits",
+    "uzbek": "tropik mevalar",
+    "hint": "They sold tropical fruits at the stalls.",
+    "category": "ELS 24-28 (16-30)"
+  },
+  {
+    "english": "accumulate",
+    "uzbek": "to'plamoq, jamg'armoq",
+    "hint": "They accumulate wealth over time.",
+    "category": "ELS 24-28 (31-45)"
+  },
+  {
+    "english": "explosive",
+    "uzbek": "portlovchi modda",
+    "hint": "Dynamite is a powerful explosive.",
+    "category": "ELS 24-28 (31-45)"
+  },
+  {
+    "english": "emigrated",
+    "uzbek": "boshqa mamlakatga ko'chib ketgan",
+    "hint": "His family emigrated in the 1950s.",
+    "category": "ELS 24-28 (31-45)"
+  },
+  {
+    "english": "thrive",
+    "uzbek": "yaxshi rivojlanmoq",
+    "hint": "Spiders thrive in warm climates.",
+    "category": "ELS 24-28 (31-45)"
+  },
+  {
+    "english": "making use of",
+    "uzbek": "foydalanib, ishlatib",
+    "hint": "They succeed by making use of a budget.",
+    "category": "ELS 24-28 (31-45)"
+  },
+  {
+    "english": "mattress",
+    "uzbek": "matras, to'shak",
+    "hint": "Money was hidden in the mattress.",
+    "category": "ELS 24-28 (31-45)"
+  },
+  {
+    "english": "retreats",
+    "uzbek": "yashirinadigan joylar",
+    "hint": "Spiders use silk to line their retreats.",
+    "category": "ELS 24-28 (31-45)"
+  },
+  {
+    "english": "webs",
+    "uzbek": "o'rgimchak to'ri",
+    "hint": "Flies get caught in webs.",
+    "category": "ELS 24-28 (31-45)"
+  },
+  {
+    "english": "wire",
+    "uzbek": "sim",
+    "hint": "The rope was stronger than iron wire.",
+    "category": "ELS 24-28 (31-45)"
+  },
+  {
+    "english": "stalls",
+    "uzbek": "savdo rastasi",
+    "hint": "There were stalls selling fruit.",
+    "category": "ELS 24-28 (31-45)"
+  },
+  {
+    "english": "purification",
+    "uzbek": "poklanish, gunohlardan forig' bo'lish",
+    "hint": "The ceremony represents purification.",
+    "category": "ELS 24-28 (31-45)"
+  },
+  {
+    "english": "prey-capturing",
+    "uzbek": "o'ljani tutish",
+    "hint": "Cooperative prey-capturing helps spiders survive.",
+    "category": "ELS 24-28 (31-45)"
+  },
+  {
+    "english": "in company",
+    "uzbek": "odamlar oldida, boshqalar bilan birga",
+    "hint": "He was cheerful in company.",
+    "category": "ELS 24-28 (31-45)"
+  },
+  {
+    "english": "weaving",
+    "uzbek": "to'qish",
+    "hint": "Spiders are experts at weaving webs.",
+    "category": "ELS 24-28 (31-45)"
+  },
+  {
+    "english": "fortune",
+    "uzbek": "katta boylik",
+    "hint": "He made a fortune in business.",
+    "category": "ELS 24-28 (31-45)"
+  },
+  {
+    "english": "patriotic",
+    "uzbek": "vatanparvar",
+    "hint": "He was a patriotic citizen.",
+    "category": "ELS 24-28 (46-60)"
+  },
+  {
+    "english": "streamers",
+    "uzbek": "rangli qog'oz lentalar",
+    "hint": "The streets were decorated with streamers.",
+    "category": "ELS 24-28 (46-60)"
+  },
+  {
+    "english": "oil drums",
+    "uzbek": "moy bochkalari (baraban sifatida)",
+    "hint": "The music was made from old oil drums.",
+    "category": "ELS 24-28 (46-60)"
+  },
+  {
+    "english": "corpse",
+    "uzbek": "jasad, murda",
+    "hint": "The corpse was carried to the cemetery.",
+    "category": "ELS 24-28 (46-60)"
+  },
+  {
+    "english": "taste for",
+    "uzbek": "...ga moyillik, ishtiyoq",
+    "hint": "He had no taste for publicity.",
+    "category": "ELS 24-28 (46-60)"
+  },
+  {
+    "english": "floats",
+    "uzbek": "bezatilgan arava",
+    "hint": "Colourful floats passed through the street.",
+    "category": "ELS 24-28 (46-60)"
+  },
+  {
+    "english": "contrasts",
+    "uzbek": "keskin farqlar, tafovutlar",
+    "hint": "His life was full of contrasts.",
+    "category": "ELS 24-28 (46-60)"
+  },
+  {
+    "english": "funeral",
+    "uzbek": "dafn marosimi",
+    "hint": "The funeral was held on Sunday.",
+    "category": "ELS 24-28 (46-60)"
+  },
+  {
+    "english": "joy",
+    "uzbek": "shodlik, xursandchilik",
+    "hint": "The news brought great joy to the family.",
+    "category": "ELS 24-28 (46-60)"
+  },
+  {
+    "english": "beforehand",
+    "uzbek": "oldindan",
+    "hint": "Preparations are made beforehand.",
+    "category": "ELS 24-28 (46-60)"
+  },
+  {
+    "english": "cremation",
+    "uzbek": "jasadni yoqish marosimi",
+    "hint": "Cremation is common in some cultures.",
+    "category": "ELS 24-28 (46-60)"
+  },
+  {
+    "english": "transferred",
+    "uzbek": "ko'chirilgan, o'tkazilgan",
+    "hint": "The patient was transferred to another hospital.",
+    "category": "ELS 24-28 (46-60)"
+  },
+  {
+    "english": "procession",
+    "uzbek": "yurish, tantanali kirish",
+    "hint": "The procession moved slowly through the town.",
+    "category": "ELS 24-28 (46-60)"
+  },
+  {
+    "english": "twisted",
+    "uzbek": "buralgan, o'ralgan",
+    "hint": "The thread was twisted into a rope.",
+    "category": "ELS 24-28 (46-60)"
+  },
+  {
+    "english": "fame",
+    "uzbek": "shuhrat, mashhurlik",
+    "hint": "He never wanted fame.",
+    "category": "ELS 24-28 (46-60)"
+  },
+  {
+    "english": "mining",
+    "uzbek": "konchilik, kon qazish",
+    "hint": "Mining is dangerous work.",
+    "category": "ELS 24-28 (61-64)"
+  },
+  {
+    "english": "evolved",
+    "uzbek": "evolyutsiya natijasida rivojlangan",
+    "hint": "This behaviour evolved over time.",
+    "category": "ELS 24-28 (61-64)"
+  },
+  {
+    "english": "utilization",
+    "uzbek": "foydalanish, ishlatish",
+    "hint": "Careful utilization of funds helps them save.",
+    "category": "ELS 24-28 (61-64)"
+  },
+  {
+    "english": "will",
+    "uzbek": "vasiyatnoma",
+    "hint": "He left money in his will.",
+    "category": "ELS 24-28 (61-64)"
+  }
+]

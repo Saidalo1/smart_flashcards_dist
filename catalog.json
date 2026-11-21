@@ -513,6 +513,12 @@
           "name": "ELS 20-23",
           "words": 31,
           "version": "ed144412"
+        },
+        {
+          "id": "els-24-28",
+          "name": "ELS 24-28",
+          "words": 64,
+          "version": "94c0e006"
         }
       ]
     },
