@@ -519,6 +519,12 @@
           "name": "ELS 24-28",
           "words": 64,
           "version": "94c0e006"
+        },
+        {
+          "id": "els-28-32",
+          "name": "ELS 28-32",
+          "words": 42,
+          "version": "d51e2567"
         }
       ]
     },
