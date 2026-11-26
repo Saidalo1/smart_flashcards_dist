@@ -525,6 +525,24 @@
           "name": "ELS 28-32",
           "words": 42,
           "version": "d51e2567"
+        },
+        {
+          "id": "upper-6c-6d",
+          "name": "Upper 6C 6D",
+          "words": 34,
+          "version": "97c9cf05"
+        },
+        {
+          "id": "upper-6e-6f",
+          "name": "Upper 6E 6F",
+          "words": 38,
+          "version": "e9964303"
+        },
+        {
+          "id": "upper-6g-6h",
+          "name": "Upper 6G 6H",
+          "words": 50,
+          "version": "c0d2d320"
         }
       ]
     },

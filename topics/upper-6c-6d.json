@@ -1,0 +1,206 @@
+[
+  {
+    "english": "Keep fit",
+    "uzbek": "Jismoniy holatni saqlamoq",
+    "hint": "She goes running to keep fit.",
+    "category": "Upper 6C 6D (1-15)"
+  },
+  {
+    "english": "Exercise bike",
+    "uzbek": "Mashq velosipedi",
+    "hint": "He pedals on an exercise bike every morning.",
+    "category": "Upper 6C 6D (1-15)"
+  },
+  {
+    "english": "Recover",
+    "uzbek": "Tiklanmoq",
+    "hint": "It took weeks to recover from the injury.",
+    "category": "Upper 6C 6D (1-15)"
+  },
+  {
+    "english": "Ache",
+    "uzbek": "Og'riq",
+    "hint": "I have an ache in my shoulder.",
+    "category": "Upper 6C 6D (1-15)"
+  },
+  {
+    "english": "Burn (calories)",
+    "uzbek": "Yoqmoq (kaloriyalarni)",
+    "hint": "Running burns a lot of calories.",
+    "category": "Upper 6C 6D (1-15)"
+  },
+  {
+    "english": "Convert",
+    "uzbek": "Aylantirmoq",
+    "hint": "The body converts food into energy.",
+    "category": "Upper 6C 6D (1-15)"
+  },
+  {
+    "english": "Pump (heart)",
+    "uzbek": "Yurak qonni aylantirmoq",
+    "hint": "The heart pumps blood around the body.",
+    "category": "Upper 6C 6D (1-15)"
+  },
+  {
+    "english": "Adrenalin",
+    "uzbek": "Adrenalin",
+    "hint": "She felt a rush of adrenalin before the race.",
+    "category": "Upper 6C 6D (1-15)"
+  },
+  {
+    "english": "Burst (of energy)",
+    "uzbek": "(energiyaning) ko'tarilishi",
+    "hint": "He felt a burst of energy after the break.",
+    "category": "Upper 6C 6D (1-15)"
+  },
+  {
+    "english": "Energy",
+    "uzbek": "Energiya",
+    "hint": "Exercise gives you more energy.",
+    "category": "Upper 6C 6D (1-15)"
+  },
+  {
+    "english": "Intensity",
+    "uzbek": "Kuch, intensivlik",
+    "hint": "He trains with high intensity.",
+    "category": "Upper 6C 6D (1-15)"
+  },
+  {
+    "english": "Release",
+    "uzbek": "Chiqarib yubormoq",
+    "hint": "Exercise helps release stress.",
+    "category": "Upper 6C 6D (1-15)"
+  },
+  {
+    "english": "Make up for",
+    "uzbek": "O'rnini qoplamoq",
+    "hint": "He trains harder to make up for lost time.",
+    "category": "Upper 6C 6D (1-15)"
+  },
+  {
+    "english": "Deficiency",
+    "uzbek": "Yetishmovchilik",
+    "hint": "A vitamin deficiency can cause illness.",
+    "category": "Upper 6C 6D (1-15)"
+  },
+  {
+    "english": "Dedication",
+    "uzbek": "Bag'ishlash",
+    "hint": "Success requires dedication.",
+    "category": "Upper 6C 6D (1-15)"
+  },
+  {
+    "english": "Take up (a sport)",
+    "uzbek": "Shug'ullanishni boshlamoq",
+    "hint": "She took up swimming last year.",
+    "category": "Upper 6C 6D (16-30)"
+  },
+  {
+    "english": "Play a team sport",
+    "uzbek": "Jamoaviy sport o'ynamoq",
+    "hint": "He likes to play a team sport.",
+    "category": "Upper 6C 6D (16-30)"
+  },
+  {
+    "english": "Push myself to the limit",
+    "uzbek": "Imkonning oxirigacha borib harakat qilmoq",
+    "hint": "I push myself to the limit in training.",
+    "category": "Upper 6C 6D (16-30)"
+  },
+  {
+    "english": "Do aerobics",
+    "uzbek": "Aerobika bilan shug'ullanmoq",
+    "hint": "She does aerobics three times a week.",
+    "category": "Upper 6C 6D (16-30)"
+  },
+  {
+    "english": "Go running",
+    "uzbek": "Yugurmoq",
+    "hint": "He goes running every morning.",
+    "category": "Upper 6C 6D (16-30)"
+  },
+  {
+    "english": "Pedal on an exercise bike",
+    "uzbek": "Mashq velosipedida pedal bosmoq",
+    "hint": "He pedals on an exercise bike at home.",
+    "category": "Upper 6C 6D (16-30)"
+  },
+  {
+    "english": "Be competitive",
+    "uzbek": "Raqobatbardosh bo'lmoq",
+    "hint": "She is very competitive in sports.",
+    "category": "Upper 6C 6D (16-30)"
+  },
+  {
+    "english": "Lift weights",
+    "uzbek": "Og'irlik ko'tarmoq",
+    "hint": "He lifts weights at the gym.",
+    "category": "Upper 6C 6D (16-30)"
+  },
+  {
+    "english": "Attend a fitness class",
+    "uzbek": "Fitnes mashg'ulotiga qatnashmoq",
+    "hint": "She attends a fitness class every week.",
+    "category": "Upper 6C 6D (16-30)"
+  },
+  {
+    "english": "Beat an opponent",
+    "uzbek": "Raqibni yengmoq",
+    "hint": "He beat his opponent easily.",
+    "category": "Upper 6C 6D (16-30)"
+  },
+  {
+    "english": "Sleepwalker",
+    "uzbek": "Uyquda yuruvchi",
+    "hint": "Her brother is a sleepwalker.",
+    "category": "Upper 6C 6D (16-30)"
+  },
+  {
+    "english": "Be fighting fit",
+    "uzbek": "Juda yaxshi holatda bo'lmoq",
+    "hint": "After training, he is fighting fit.",
+    "category": "Upper 6C 6D (16-30)"
+  },
+  {
+    "english": "Be in good/bad shape",
+    "uzbek": "Yaxshi/yomon holatda bo'lmoq",
+    "hint": "He is in good shape for his age.",
+    "category": "Upper 6C 6D (16-30)"
+  },
+  {
+    "english": "Be on the mend",
+    "uzbek": "Sog'ayish jarayonida bo'lmoq",
+    "hint": "She is finally on the mend.",
+    "category": "Upper 6C 6D (16-30)"
+  },
+  {
+    "english": "Get back into shape",
+    "uzbek": "Qayta yaxshi holatga kelmoq",
+    "hint": "He wants to get back into shape.",
+    "category": "Upper 6C 6D (16-30)"
+  },
+  {
+    "english": "Go down with something (illness)",
+    "uzbek": "Kasal bo'lib qolmoq",
+    "hint": "He went down with the flu.",
+    "category": "Upper 6C 6D (31-34)"
+  },
+  {
+    "english": "Have a new lease of life",
+    "uzbek": "Yangicha hayot boshlamoq",
+    "hint": "After recovery, she had a new lease of life.",
+    "category": "Upper 6C 6D (31-34)"
+  },
+  {
+    "english": "Look the picture of health",
+    "uzbek": "Sog'lom ko'rinmoq",
+    "hint": "She looks the picture of health.",
+    "category": "Upper 6C 6D (31-34)"
+  },
+  {
+    "english": "Look/be under the weather",
+    "uzbek": "Xastalik belgilarini ko'rsatmoq",
+    "hint": "He looks a bit under the weather today.",
+    "category": "Upper 6C 6D (31-34)"
+  }
+]

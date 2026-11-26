@@ -1,0 +1,302 @@
+[
+  {
+    "english": "Ache",
+    "uzbek": "Og'riq",
+    "hint": "I have an ache in my back.",
+    "category": "Upper 6G 6H (1-15)"
+  },
+  {
+    "english": "Bruise",
+    "uzbek": "Ko'kargan joy",
+    "hint": "She got a bruise on her knee.",
+    "category": "Upper 6G 6H (1-15)"
+  },
+  {
+    "english": "Chest infection",
+    "uzbek": "O'pka (ko'krak) infektsiyasi",
+    "hint": "He was treated for a chest infection.",
+    "category": "Upper 6G 6H (1-15)"
+  },
+  {
+    "english": "Be congested",
+    "uzbek": "Burun bitib qolishi",
+    "hint": "My nose is congested.",
+    "category": "Upper 6G 6H (1-15)"
+  },
+  {
+    "english": "Cough",
+    "uzbek": "Yo'tal",
+    "hint": "He has a bad cough.",
+    "category": "Upper 6G 6H (1-15)"
+  },
+  {
+    "english": "Cut",
+    "uzbek": "Kesilgan joy",
+    "hint": "She cleaned the cut on her hand.",
+    "category": "Upper 6G 6H (1-15)"
+  },
+  {
+    "english": "Feel dizzy",
+    "uzbek": "Bosh aylanishi",
+    "hint": "I felt dizzy after standing up quickly.",
+    "category": "Upper 6G 6H (1-15)"
+  },
+  {
+    "english": "Feel fatigued",
+    "uzbek": "Charchamoq",
+    "hint": "He felt fatigued after the long trip.",
+    "category": "Upper 6G 6H (1-15)"
+  },
+  {
+    "english": "Flu",
+    "uzbek": "Gripp",
+    "hint": "She caught the flu last week.",
+    "category": "Upper 6G 6H (1-15)"
+  },
+  {
+    "english": "Fracture",
+    "uzbek": "Suyak sinishi",
+    "hint": "He suffered a fracture in his arm.",
+    "category": "Upper 6G 6H (1-15)"
+  },
+  {
+    "english": "Heartburn",
+    "uzbek": "Jig'ildon qaynashi",
+    "hint": "Spicy food gives me heartburn.",
+    "category": "Upper 6G 6H (1-15)"
+  },
+  {
+    "english": "Insect sting",
+    "uzbek": "Hasharot chaqishi",
+    "hint": "The insect sting made her arm swell.",
+    "category": "Upper 6G 6H (1-15)"
+  },
+  {
+    "english": "Feel nauseous",
+    "uzbek": "Ko'ngil aynimoq",
+    "hint": "She felt nauseous on the boat.",
+    "category": "Upper 6G 6H (1-15)"
+  },
+  {
+    "english": "Nose bleed",
+    "uzbek": "Burun qonashi",
+    "hint": "He had a nose bleed after the fall.",
+    "category": "Upper 6G 6H (1-15)"
+  },
+  {
+    "english": "Rash",
+    "uzbek": "Toshma",
+    "hint": "The rash spread across his skin.",
+    "category": "Upper 6G 6H (1-15)"
+  },
+  {
+    "english": "Sore throat",
+    "uzbek": "Tomoq og'rig'i",
+    "hint": "I have a sore throat today.",
+    "category": "Upper 6G 6H (16-30)"
+  },
+  {
+    "english": "Sprain",
+    "uzbek": "Bo'g'imlarni cho'zilib qolishi",
+    "hint": "She got a sprain in her ankle.",
+    "category": "Upper 6G 6H (16-30)"
+  },
+  {
+    "english": "Feel stiff",
+    "uzbek": "Mushaklar qotib qolishi",
+    "hint": "My legs feel stiff after running.",
+    "category": "Upper 6G 6H (16-30)"
+  },
+  {
+    "english": "Be swollen",
+    "uzbek": "Shishib qolmoq",
+    "hint": "His ankle was swollen.",
+    "category": "Upper 6G 6H (16-30)"
+  },
+  {
+    "english": "Temperature",
+    "uzbek": "Tana harorati",
+    "hint": "The child has a high temperature.",
+    "category": "Upper 6G 6H (16-30)"
+  },
+  {
+    "english": "Virus",
+    "uzbek": "Virus",
+    "hint": "The virus spread quickly.",
+    "category": "Upper 6G 6H (16-30)"
+  },
+  {
+    "english": "Wound",
+    "uzbek": "Yara",
+    "hint": "The nurse cleaned the wound.",
+    "category": "Upper 6G 6H (16-30)"
+  },
+  {
+    "english": "Remedy",
+    "uzbek": "Davo vositasi",
+    "hint": "Honey is a good remedy for a cough.",
+    "category": "Upper 6G 6H (16-30)"
+  },
+  {
+    "english": "Treatment",
+    "uzbek": "Davolash",
+    "hint": "He received treatment at the hospital.",
+    "category": "Upper 6G 6H (16-30)"
+  },
+  {
+    "english": "Antacid",
+    "uzbek": "Oshqozondagi ortiqcha kislotalikni kamaytiruvchi dori",
+    "hint": "He took an antacid for his heartburn.",
+    "category": "Upper 6G 6H (16-30)"
+  },
+  {
+    "english": "Antibiotics",
+    "uzbek": "Antibiotiklar",
+    "hint": "The doctor prescribed antibiotics.",
+    "category": "Upper 6G 6H (16-30)"
+  },
+  {
+    "english": "Antihistamine",
+    "uzbek": "Allergiya belgilarini kamaytiruvchi dori",
+    "hint": "She took an antihistamine for her allergy.",
+    "category": "Upper 6G 6H (16-30)"
+  },
+  {
+    "english": "Anti-inflammatories",
+    "uzbek": "Yallig'lanishga qarshi dorilar",
+    "hint": "He took anti-inflammatories for the pain.",
+    "category": "Upper 6G 6H (16-30)"
+  },
+  {
+    "english": "Antiseptic cream",
+    "uzbek": "Antiseptik krem",
+    "hint": "She put antiseptic cream on the cut.",
+    "category": "Upper 6G 6H (16-30)"
+  },
+  {
+    "english": "Bandage",
+    "uzbek": "Bint bilan bog'lash",
+    "hint": "The nurse put a bandage on his arm.",
+    "category": "Upper 6G 6H (16-30)"
+  },
+  {
+    "english": "Cough medicine",
+    "uzbek": "Yo'tal dorisi",
+    "hint": "He took some cough medicine.",
+    "category": "Upper 6G 6H (31-45)"
+  },
+  {
+    "english": "Lots of liquids",
+    "uzbek": "Ko'p suyuqlik",
+    "hint": "Drink lots of liquids when you're ill.",
+    "category": "Upper 6G 6H (31-45)"
+  },
+  {
+    "english": "Painkillers",
+    "uzbek": "Og'riq qoldiruvchi dorilar",
+    "hint": "She took painkillers for her headache.",
+    "category": "Upper 6G 6H (31-45)"
+  },
+  {
+    "english": "Rest",
+    "uzbek": "Dam olish",
+    "hint": "The doctor advised rest.",
+    "category": "Upper 6G 6H (31-45)"
+  },
+  {
+    "english": "Tablets",
+    "uzbek": "Tabletkalar",
+    "hint": "Take two tablets a day.",
+    "category": "Upper 6G 6H (31-45)"
+  },
+  {
+    "english": "Throat sweets",
+    "uzbek": "Tomoq pastillalari",
+    "hint": "He sucked a throat sweet for his sore throat.",
+    "category": "Upper 6G 6H (31-45)"
+  },
+  {
+    "english": "X-ray",
+    "uzbek": "Rentgen",
+    "hint": "They took an X-ray of his leg.",
+    "category": "Upper 6G 6H (31-45)"
+  },
+  {
+    "english": "Clarification",
+    "uzbek": "Aniqlik kiritish",
+    "hint": "She asked for clarification.",
+    "category": "Upper 6G 6H (31-45)"
+  },
+  {
+    "english": "Laughter",
+    "uzbek": "Kulgi",
+    "hint": "Laughter is good for your health.",
+    "category": "Upper 6G 6H (31-45)"
+  },
+  {
+    "english": "Sweet tooth",
+    "uzbek": "Shirinlik sevuvchi",
+    "hint": "He has a sweet tooth.",
+    "category": "Upper 6G 6H (31-45)"
+  },
+  {
+    "english": "Associated with",
+    "uzbek": "...bilan bog'liq",
+    "hint": "Smoking is associated with many diseases.",
+    "category": "Upper 6G 6H (31-45)"
+  },
+  {
+    "english": "Propose",
+    "uzbek": "Taklif qilmoq",
+    "hint": "She proposed a new plan.",
+    "category": "Upper 6G 6H (31-45)"
+  },
+  {
+    "english": "Refined sugar",
+    "uzbek": "Qayta ishlangan shakar",
+    "hint": "Try to avoid refined sugar.",
+    "category": "Upper 6G 6H (31-45)"
+  },
+  {
+    "english": "Savoury food",
+    "uzbek": "Nordon/sho'r ovqat",
+    "hint": "He prefers savoury food to sweet.",
+    "category": "Upper 6G 6H (31-45)"
+  },
+  {
+    "english": "Processed food",
+    "uzbek": "Qayta ishlangan ovqat",
+    "hint": "Processed food often contains additives.",
+    "category": "Upper 6G 6H (31-45)"
+  },
+  {
+    "english": "Nutritional",
+    "uzbek": "Oziqaviy",
+    "hint": "Check the nutritional value of the food.",
+    "category": "Upper 6G 6H (46-50)"
+  },
+  {
+    "english": "Excess",
+    "uzbek": "Ortiqcha",
+    "hint": "Excess salt is bad for your health.",
+    "category": "Upper 6G 6H (46-50)"
+  },
+  {
+    "english": "Tooth decay",
+    "uzbek": "Kariyes",
+    "hint": "Sugar can cause tooth decay.",
+    "category": "Upper 6G 6H (46-50)"
+  },
+  {
+    "english": "Regulate",
+    "uzbek": "Tartibga solmoq",
+    "hint": "Exercise helps regulate your mood.",
+    "category": "Upper 6G 6H (46-50)"
+  },
+  {
+    "english": "Weight gain",
+    "uzbek": "Vazn ortishi",
+    "hint": "Overeating can lead to weight gain.",
+    "category": "Upper 6G 6H (46-50)"
+  }
+]
